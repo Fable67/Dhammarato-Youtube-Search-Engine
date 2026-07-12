@@ -42,6 +42,22 @@ class Chunk:
 
 
 @dataclass
+class TermSuggestion:
+    """
+    A single query word not found verbatim in the BM25 corpus vocabulary,
+    optionally paired with a fuzzy-matched "did you mean" suggestion.
+
+    Used to give users a transparent, non-blocking heads-up (see
+    sanghabot/bot/discord_bot.py's format_typo_notice()) when a keyword
+    looks like a typo (e.g. "duka" vs. "dukkha") without ever refusing or
+    altering the actual search -- the original query is still searched
+    as-is regardless of what's found here.
+    """
+    term: str
+    suggestion: Optional[str] = None
+
+
+@dataclass
 class QueryIntent:
     use_semantic: bool
     use_bm25: bool

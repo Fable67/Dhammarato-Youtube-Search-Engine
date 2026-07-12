@@ -27,8 +27,9 @@ from pathlib import Path
 
 import numpy as np
 from rank_bm25 import BM25Plus
+from rapidfuzz import fuzz, process
 
-from sanghabot.models import SearchResult
+from sanghabot.models import SearchResult, TermSuggestion
 from sanghabot.storage.db import Database
 
 _TOKEN_RE = re.compile(r"\b\w+\b")
@@ -87,6 +88,14 @@ class BM25SearchEngine:
         self._chunk_ids: list[str]
         self._bm25: BM25Plus
         self._bm25, self._chunk_ids = self._load_or_build_index()
+
+        # Cached once, at load time (not per-query): the full set of
+        # stemmed tokens BM25 actually knows about, and the same set as a
+        # list for rapidfuzz.process (which needs a sequence, not a set).
+        # Used by check_query_terms() below for typo/OOV detection only --
+        # never touches actual search()/get_scores() ranking behavior.
+        self._vocab: set[str] = set(self._bm25.idf.keys())
+        self._vocab_list: list[str] = list(self._vocab)
 
     def _load_or_build_index(self) -> tuple[BM25Plus, list[str]]:
         if self.index_cache_path.exists():
@@ -158,3 +167,63 @@ class BM25SearchEngine:
                 )
             )
         return results
+
+    def check_query_terms(
+        self,
+        query: str,
+        min_word_len: int = 4,
+        score_cutoff: float = 80.0,
+    ) -> list[TermSuggestion]:
+        """
+        Flags query words not present (after stemming) in the BM25 corpus
+        vocabulary, and, where possible, attaches a fuzzy "did you mean"
+        suggestion pulled from that same vocabulary (e.g. "duka" -> "dukkha",
+        "jhanas" -> "jhana").
+
+        This is purely informational: it never changes what search()
+        actually searches for, and never blocks a search from running --
+        see sanghabot/bot/discord_bot.py's perform_search(), which surfaces
+        the result of this method as a temporary, auto-deleting Discord
+        notice alongside the (unmodified) real search results.
+
+        Design notes:
+          - Uses the exact same tokenize() used to build the BM25 index and
+            to tokenize queries at search time, so "found" here means
+            precisely "found by the real matching logic," not some looser
+            secondary definition.
+          - min_word_len=4 filters out short function words (the, of, is,
+            ...) that would otherwise constantly false-positive; it also
+            means a small number of very short nonsense inputs (e.g. "zapx")
+            may occasionally surface a low-value suggestion -- acceptable
+            since this is cosmetic and never affects actual results.
+          - Deduplicates repeated words in the query (each unique unknown
+            term is reported once).
+          - score_cutoff=80 (rapidfuzz.fuzz.ratio, 0-100 scale) was picked
+            by direct measurement against this project's real corpus
+            vocabulary: genuine typos on domain terms (e.g. "duka"->"dukkha"
+            scores exactly 80.0, "sammma"->"samma" and "anata"->"anatta"
+            score ~91, "meditaton"->"meditation" ~95) all clear this bar,
+            while true gibberish (e.g. "xqzwplk", "blorpzenit") mostly finds
+            no match at all at this cutoff. A handful of short (4-5 char)
+            nonsense inputs may occasionally surface a low-value match
+            (e.g. "zapx"->"zap" at ~86) -- acceptable since this only
+            affects notice text, never actual search results.
+        """
+        tokens = tokenize(query, self.stopwords)
+
+        seen: set[str] = set()
+        suggestions: list[TermSuggestion] = []
+        for token in tokens:
+            if len(token) < min_word_len or token in seen:
+                continue
+            seen.add(token)
+            if token in self._vocab:
+                continue
+
+            match = process.extractOne(
+                token, self._vocab_list, scorer=fuzz.ratio, score_cutoff=score_cutoff
+            )
+            suggestion = match[0] if match else None
+            suggestions.append(TermSuggestion(term=token, suggestion=suggestion))
+
+        return suggestions

@@ -29,6 +29,7 @@ from config import settings
 from sanghabot.embeddings.client import embed_query
 from sanghabot.embeddings.legacy_compat import LEGACY_RUN_MARKER, legacy_embed_query
 from sanghabot.engine import CombinedSearchEngine
+from sanghabot.models import TermSuggestion
 from sanghabot.search.bm25 import BM25SearchEngine
 from sanghabot.search.semantic import SemanticSearchEngine
 from sanghabot.storage.db import Database
@@ -72,6 +73,36 @@ def build_engine() -> CombinedSearchEngine:
         top_k_per_engine=settings.search_top_k_per_engine,
         rrf_k_penalty=settings.rrf_k_penalty,
     )
+
+
+def format_typo_notice(suggestions: list[TermSuggestion]) -> str:
+    """
+    Formats a single, combined "heads up" message for one or more query
+    words not found verbatim in the search corpus, with "did you mean"
+    suggestions where available.
+
+    This is purely a transparency notice -- see perform_search() below,
+    which always still runs the search against the user's original,
+    unmodified query regardless of what's flagged here. Returns "" if
+    there's nothing to report (callers should skip sending a message in
+    that case).
+    """
+    if not suggestions:
+        return ""
+
+    lines = []
+    for s in suggestions:
+        if s.suggestion:
+            lines.append(f"\u2022 \"{s.term}\" -- did you mean **{s.suggestion}**?")
+        else:
+            lines.append(f"\u2022 \"{s.term}\" -- not found in the library")
+
+    header = (
+        "\U0001f4a1 Heads up: I didn't recognize the word"
+        + ("s" if len(suggestions) > 1 else "")
+        + " below. Showing results for your original search anyway:\n"
+    )
+    return header + "\n".join(lines)
 
 
 class PrivacyChoiceView(discord.ui.View):
@@ -124,6 +155,11 @@ class SanghaBot(discord.Client):
             if engine is None:
                 await message.reply("Search engine is still starting up, please try again shortly.", delete_after=10)
                 return
+
+            term_suggestions = await asyncio.to_thread(engine.check_query_terms, query)
+            notice = format_typo_notice(term_suggestions)
+            if notice:
+                await message.reply(notice, delete_after=60)
 
             results = await asyncio.to_thread(engine.search, query, 3)
 

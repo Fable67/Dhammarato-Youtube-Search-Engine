@@ -15,7 +15,7 @@ Replaces AI_Transcripts/search.py :: CombinedSearchEngine, fixing:
 """
 from __future__ import annotations
 
-from sanghabot.models import SearchResult
+from sanghabot.models import SearchResult, TermSuggestion
 from sanghabot.search.base import SearchEngine
 from sanghabot.search.fusion import reciprocal_rank_fusion
 from sanghabot.search.intent import analyze_query_intent
@@ -69,6 +69,24 @@ class CombinedSearchEngine:
                 r.source = "bm25"
 
         return final_results
+
+    def check_query_terms(self, query: str) -> list[TermSuggestion]:
+        """
+        Delegates typo/OOV keyword detection to the BM25 engine's corpus
+        vocabulary (see sanghabot/search/bm25.py::check_query_terms).
+        Never raises and never changes search() behavior -- this is purely
+        informational, consumed by the Discord bot to post a transparent,
+        temporary "heads up" notice (see discord_bot.py's perform_search).
+
+        Uses getattr with a no-op fallback rather than a hard dependency on
+        BM25SearchEngine specifically, so any SearchEngine implementation
+        satisfying the base Protocol (e.g. in tests, or a future engine
+        swap) degrades gracefully to "nothing to flag" instead of crashing.
+        """
+        check_fn = getattr(self.bm25_engine, "check_query_terms", None)
+        if check_fn is None:
+            return []
+        return check_fn(query)
 
 
 def _populate_percentage_score_by_top_score(results: list[SearchResult]) -> None:
