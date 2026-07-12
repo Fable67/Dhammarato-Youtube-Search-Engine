@@ -21,6 +21,7 @@ from __future__ import annotations
 
 import asyncio
 import logging
+import re
 import traceback
 
 import discord
@@ -29,13 +30,21 @@ from config import settings
 from sanghabot.embeddings.client import embed_query
 from sanghabot.embeddings.legacy_compat import LEGACY_RUN_MARKER, legacy_embed_query
 from sanghabot.engine import CombinedSearchEngine
+from sanghabot.highlight import build_highlight_terms, highlight_text, should_highlight
 from sanghabot.models import TermSuggestion
 from sanghabot.search.bm25 import BM25SearchEngine
+from sanghabot.search.intent import analyze_query_intent
 from sanghabot.search.semantic import SemanticSearchEngine
 from sanghabot.storage.db import Database
 
 logger = logging.getLogger("sanghabot")
 logging.basicConfig(level=settings.log_level)
+
+# Used by SanghaBot.split_text_for_embeds() to treat highlighted
+# "**term**" spans as atomic, never-split units. Non-greedy so adjacent
+# separate bold spans in the same chunk are matched individually rather
+# than as one span spanning from the first "**" to the last.
+_BOLD_MARKER_RE = re.compile(r"\*\*.*?\*\*")
 
 # Module-level singleton, set exactly once in on_ready(). This is the
 # actual fix for the old code's per-message reconstruction problem: loaded
@@ -148,7 +157,68 @@ class SanghaBot(discord.Client):
                 logger.info(f"Slow mode is active: {channel.slowmode_delay}s delay.")
 
     def split_text_for_embeds(self, text: str, max_len: int = 4000) -> list[str]:
-        return [text[i:i + max_len] for i in range(0, len(text), max_len)]
+        """
+        Splits `text` into blocks of at most `max_len` characters, one per
+        Discord embed (4000 is comfortably under Discord's real 4096-char
+        embed description limit).
+
+        Marker-aware: treats any "**bold**" span (inserted by
+        sanghabot.highlight.highlight_text for search-term highlighting) as
+        an atomic, never-split unit, so a highlighted word/phrase can never
+        be severed across two separate embeds/messages, and a lone opening
+        or closing "**" can never end up orphaned in one block with its
+        pair in another (both of which render as broken, literal stray
+        asterisks in Discord rather than bold text). Plain (non-marker)
+        text is still split freely, preferring a whitespace boundary over a
+        mid-word cut when a block would otherwise overflow.
+
+        This matters in practice, not just in theory: roughly half of this
+        project's real transcript chunks already exceed 4000 characters on
+        their own (before any highlighting is added), so this path is
+        exercised by a large fraction of real searches, not just an edge
+        case.
+        """
+        if len(text) <= max_len:
+            return [text]
+
+        # Split into (is_marker, segment) pairs: each "**...**" span is one
+        # atomic segment; everything else is a freely-splittable plain run.
+        segments: list[tuple[bool, str]] = []
+        pos = 0
+        for m in _BOLD_MARKER_RE.finditer(text):
+            if m.start() > pos:
+                segments.append((False, text[pos:m.start()]))
+            segments.append((True, m.group(0)))
+            pos = m.end()
+        if pos < len(text):
+            segments.append((False, text[pos:]))
+
+        blocks: list[str] = []
+        current = ""
+        for is_marker, segment in segments:
+            if is_marker:
+                if current and len(current) + len(segment) > max_len:
+                    blocks.append(current)
+                    current = ""
+                # A marker span is atomic and kept whole even if, in a rare
+                # pathological case, it alone exceeds max_len -- there is no
+                # safe way to split inside "**...**" without breaking it.
+                current += segment
+            else:
+                remaining = segment
+                while len(current) + len(remaining) > max_len:
+                    space_budget = max_len - len(current)
+                    cut = remaining.rfind(" ", 0, space_budget)
+                    if cut <= 0:
+                        cut = space_budget  # no whitespace found -- hard cut
+                    current += remaining[:cut]
+                    blocks.append(current)
+                    current = ""
+                    remaining = remaining[cut:].lstrip(" ")
+                current += remaining
+        if current:
+            blocks.append(current)
+        return blocks
 
     async def perform_search(self, query: str, message: discord.Message, is_dm_private=False, is_dm_proxy=False):
         try:
@@ -160,6 +230,17 @@ class SanghaBot(discord.Client):
             notice = format_typo_notice(term_suggestions)
             if notice:
                 await message.reply(notice, delete_after=60)
+
+            # Computed once per search, purely to decide what (if anything)
+            # to bold in the displayed transcript text below -- this does
+            # NOT affect what engine.search() itself actually searches for
+            # or how it ranks results (that's still driven by engine.py's
+            # own internal analyze_query_intent() call). See
+            # sanghabot/highlight.py's module docstring for the rationale:
+            # only keyword-style queries get highlighting; long/question
+            # queries (answered by semantic search) are shown plain.
+            intent = analyze_query_intent(query)
+            highlight_terms = build_highlight_terms(intent) if should_highlight(intent, query) else []
 
             results = await asyncio.to_thread(engine.search, query, 3)
 
@@ -191,7 +272,7 @@ class SanghaBot(discord.Client):
                 post_target = thread
 
             for i, res in enumerate(results):
-                full_chunk_text = res.text.replace("<b>", "**").replace("</b>", "**")
+                full_chunk_text = highlight_text(res.text, highlight_terms)
 
                 progression_percent = 0
                 if res.video_length_chars and res.video_length_chars > 0 and res.start_char is not None:
