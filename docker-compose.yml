@@ -1,0 +1,26 @@
+# Run with:  docker compose up --build
+#
+# Code, config, and data are bind-mounted from the host (see Dockerfile for
+# why), so editing sanghabot/*.py on your host and running
+# `docker compose restart sanghabot` picks up the change without a rebuild.
+# A rebuild (`docker compose up --build`) is only needed when
+# requirements.txt changes.
+
+services:
+  sanghabot:
+    build: .
+    container_name: sanghabot
+    restart: unless-stopped
+    working_dir: /app
+    volumes:
+      # Application source code -- read-only, since the container should
+      # never need to write back into your source tree.
+      - ./sanghabot:/app/sanghabot:ro
+      - ./config.py:/app/config.py:ro
+      - ./scripts:/app/scripts:ro
+      # Secrets -- read-only. Never baked into the image or committed.
+      - ./.env:/app/.env:ro
+      # Data -- read-write, since the bot's sqlite db, FAISS index, and
+      # BM25 pickle live here and (for the db) may be written to.
+      - ./data:/app/data
+    command: ["python", "-m", "sanghabot.bot.discord_bot"]

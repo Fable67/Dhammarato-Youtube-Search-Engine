@@ -1,0 +1,16 @@
+# The Dockerfile no longer COPYs application code or data into the image
+# (see Dockerfile's top comment -- everything is bind-mounted at runtime
+# instead). This file just keeps the build context small/fast to send to
+# the Docker daemon, since `docker build` still uploads the whole context
+# even for files that never get COPYed.
+data/
+.git/
+.env
+*.log
+.DS_Store
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+tests/
+REWRITE_PLAN.md

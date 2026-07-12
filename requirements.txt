@@ -1,0 +1,16 @@
+# Verified against an actual installed environment (conda env "Dhamma") on 2026-07-10.
+# Unlike the old AI_Transcripts/requirements.txt, every pin below corresponds to a
+# version that genuinely exists and was actually imported successfully.
+
+discord.py==2.7.1
+faiss-cpu==1.13.2
+numpy==1.26.4
+pandas==2.2.2
+pydantic==2.12.5
+pydantic-settings==2.14.2
+python-dotenv==1.2.1
+PyYAML==6.0.3
+rank-bm25==0.2.2
+requests==2.32.5
+tenacity==9.1.4
+typer==0.26.8

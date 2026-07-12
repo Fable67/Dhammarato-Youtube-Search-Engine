@@ -1,0 +1,25 @@
+{
+  "captured_at": "2026-07-10T17:45:50.846649+00:00",
+  "files": {
+    "embeddings/metadata.csv": {
+      "sha256": "f317d579c86b8cf169a1573bc19048c1e9711e3302965c4cb109e49264a24ad3",
+      "size_bytes": 12624498
+    },
+    "embeddings/metadata.db": {
+      "sha256": "2587ef86ed673b72be0547dd99ab58ee1b1cc6db98b4167935dba4bc46d31a5c",
+      "size_bytes": 13492224
+    },
+    "embeddings/faiss.index": {
+      "sha256": "849fe54034b3a37a0653729a927833662129d0fa9e7e352d1d830c1c54456723",
+      "size_bytes": 47607853
+    },
+    "embeddings/bm25+_index.pkl": {
+      "sha256": "cd78caa1229bda7b35573ef972582e60150376ede4e1cf63cabf6f63c09e7df0",
+      "size_bytes": 57303576
+    },
+    "embeddings/embeddings.npy": {
+      "sha256": "58f7935dcca0a6e7142770327953978251c8f97eceb82579e86badce75315d5e",
+      "size_bytes": 47607936
+    }
+  }
+}
