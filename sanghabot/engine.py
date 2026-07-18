@@ -12,6 +12,19 @@ Replaces AI_Transcripts/search.py :: CombinedSearchEngine, fixing:
     ALWAYS populated via an explicit loop in every branch below, including
     the semantic-only and bm25-only branches, so there is no code path
     that indexes an undefined loop variable.
+  - A quoted-exact-phrase branch-coverage bug found during a later
+    investigation (see sanghabot/search/phrase.py's module docstring for
+    the full story): a query that is JUST a quoted phrase with nothing
+    else (e.g. '"hot dog"') sets use_semantic=False, use_bm25=True (see
+    sanghabot/search/intent.py), which used to route straight to the
+    bm25-only branch below WITHOUT ever considering exact_phrases at all
+    -- so quoting a phrase had literally no effect on ranking for the
+    single most common quoted-query shape. This is fixed below by always
+    building exact-phrase tiers whenever intent.exact_phrases is
+    non-empty and routing through reciprocal_rank_fusion() whenever there
+    is at least one real signal to fuse (semantic+bm25, or a non-empty
+    exact-phrase tier), rather than only when both engines happen to be
+    active.
 """
 from __future__ import annotations
 
@@ -19,6 +32,12 @@ from sanghabot.models import SearchResult, TermSuggestion
 from sanghabot.search.base import SearchEngine
 from sanghabot.search.fusion import reciprocal_rank_fusion
 from sanghabot.search.intent import analyze_query_intent
+from sanghabot.search.phrase import (
+    EXACT_PHRASE_ALL_WEIGHT,
+    EXACT_PHRASE_ANY_WEIGHT,
+    ExactPhraseTiers,
+    build_exact_phrase_tiers,
+)
 
 
 class CombinedSearchEngine:
@@ -47,7 +66,10 @@ class CombinedSearchEngine:
         if intent.use_bm25:
             bm25_results = self.bm25_engine.search(query, k=self.top_k_per_engine)
 
-        if intent.use_semantic and intent.use_bm25:
+        exact_phrase_tiers = self._build_exact_phrase_tiers(intent.exact_phrases)
+        has_exact_phrase_signal = exact_phrase_tiers is not None and not exact_phrase_tiers.is_empty
+
+        if (intent.use_semantic and intent.use_bm25) or has_exact_phrase_signal:
             final_results = reciprocal_rank_fusion(
                 semantic_results=semantic_results,
                 bm25_results=bm25_results,
@@ -55,7 +77,10 @@ class CombinedSearchEngine:
                 bm25_weight=intent.weights["bm25"],
                 top_k=top_k,
                 k_penalty=self.rrf_k_penalty,
-                exact_phrases=intent.exact_phrases,
+                exact_phrase_all_results=exact_phrase_tiers.all_phrases_results if exact_phrase_tiers else None,
+                exact_phrase_any_results=exact_phrase_tiers.any_phrase_results if exact_phrase_tiers else None,
+                exact_phrase_all_weight=EXACT_PHRASE_ALL_WEIGHT,
+                exact_phrase_any_weight=EXACT_PHRASE_ANY_WEIGHT,
             )
         elif intent.use_semantic:
             final_results = semantic_results[:top_k]
@@ -69,6 +94,31 @@ class CombinedSearchEngine:
                 r.source = "bm25"
 
         return final_results
+
+    def _build_exact_phrase_tiers(self, exact_phrases: list[str]) -> ExactPhraseTiers | None:
+        """
+        Returns the ALL/ANY exact-phrase tiers for `exact_phrases` (see
+        sanghabot/search/phrase.py), or None if there are no quoted
+        phrases to look up, or if `self.bm25_engine` doesn't implement
+        `find_exact_phrase_results` (mirrors check_query_terms()'s
+        getattr-based graceful degradation below, e.g. for a test double
+        or a future SearchEngine implementation that doesn't support
+        this).
+
+        None is deliberately distinct from an ExactPhraseTiers with two
+        empty lists: the former means "phrase lookup wasn't attempted at
+        all," the latter means "it was attempted and genuinely found
+        nothing" (e.g. a misspelled Pali term) -- both end up not
+        contributing anything to fusion, but the has_exact_phrase_signal
+        check in search() above only needs to know whether there's an
+        empty-vs-populated result either way.
+        """
+        if not exact_phrases:
+            return None
+        find_fn = getattr(self.bm25_engine, "find_exact_phrase_results", None)
+        if find_fn is None:
+            return None
+        return build_exact_phrase_tiers(exact_phrases, self.bm25_engine)
 
     def check_query_terms(self, query: str) -> list[TermSuggestion]:
         """

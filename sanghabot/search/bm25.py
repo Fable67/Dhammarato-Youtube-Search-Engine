@@ -168,6 +168,160 @@ class BM25SearchEngine:
             )
         return results
 
+    def find_exact_phrase_results(self, phrase: str) -> list[SearchResult]:
+        """
+        Returns full SearchResult objects for every chunk that contains
+        `phrase` as a true exact phrase, ranked by BM25 term-frequency
+        score (descending). Used to power exact-phrase-match boosting for
+        quoted queries (see sanghabot/search/phrase.py and
+        sanghabot/search/fusion.py) -- this replaces the old, buggy
+        exclusionary substring filter that lived in fusion.py, which (a)
+        could zero out an entire result set when the literal phrase
+        didn't appear verbatim anywhere (e.g. the corpus spells "paticca
+        samuppada" as one word, "paticcasamuppada", so the two-word
+        quoted form matched nothing), and (b) was never even invoked for
+        pure bm25-only queries due to a branch-coverage bug in engine.py.
+
+        Deliberately returns full SearchResult objects, not just
+        chunk_ids: verified directly against the real corpus that most
+        exact-phrase matches for a common two-word phrase (e.g. "hot
+        dog", "right effort") rank far outside the semantic/BM25 engines'
+        own top-100-per-engine candidate window (up to 80% of true phrase
+        matches, for some phrases, never appear in either engine's own
+        results at all, since bag-of-words term frequency and semantic
+        similarity are not the same signal as literal phrase adjacency).
+        If this method only returned chunk_ids, reciprocal_rank_fusion()
+        would have no SearchResult to attach a fused score to for any
+        chunk_id outside that window, silently losing exactly the
+        recall-gap cases this feature exists to fix.
+
+        Design, in two stages so this stays fast on a 23k-chunk corpus
+        (a naive full-corpus regex scan measured ~4.5s/query -- too slow
+        for interactive search):
+
+          Stage 1 (candidate narrowing, ~20-70ms): reuse the BM25Plus
+          index's already-in-memory `doc_freqs` (per-chunk stemmed-token
+          frequency dicts, built once at index-load time, no new index
+          file needed) to cheaply find every chunk that *could* contain
+          the phrase. A chunk is a candidate if EITHER:
+            (a) all of the phrase's stemmed tokens are present somewhere
+                in that chunk (bag-of-words AND) -- covers ordinary
+                multi-word phrases like "hot dog", "right effort"; or
+            (b) the phrase's stemmed tokens, concatenated with no
+                separator, appear as a single stemmed token in that
+                chunk -- covers compound-word transliterations like
+                "paticca samuppada" / "paticcasamuppada". Verified
+                directly: 1202 chunks contain "paticcasamuppada" as one
+                word, only 2 contain "paticca" and "samuppada" both
+                present as separate words, and these two candidate sets
+                are almost entirely disjoint.
+          This stage only ever narrows candidates -- it never itself
+          decides a "true" phrase match (that would produce false
+          positives on documents where the words merely co-occur
+          unrelatedly), it just avoids doing stage 2's more expensive
+          check against the whole corpus.
+
+          Stage 2 (verification, candidates only): fetch just the
+          candidate chunks' raw (unstemmed, un-tokenized) text from the
+          DB and regex-match against it directly -- NOT against
+          re-tokenized text. This distinction matters: an earlier
+          approach that re-tokenized candidate text and checked for
+          token-list adjacency produced false positives across sentence/
+          clause boundaries (tokenizing strips punctuation, so "that's
+          right, effort." and "right? Effort," both collapse to the
+          adjacent tokens ['right', 'effort'] even though they are not
+          the phrase "right effort" in the original text). A
+          word-boundary-safe regex on the ORIGINAL lowercased text
+          (`\\bright\\s+effort(?:es|s)?\\b`) does not have this problem,
+          because it still sees the intervening punctuation. A second
+          regex checks for the merged single-token form (also
+          word-boundary-safe) to catch the compound-word case from stage
+          1(b). Both patterns tolerate a single trailing "s"/"es", for
+          the same reason sanghabot/highlight.py does (e.g. "breath" also
+          matching "breaths").
+
+        Returns an empty list (never raises) if `phrase` is empty/
+        whitespace, or if no chunk matches -- callers (see
+        sanghabot/search/phrase.py) treat that as "no exact-phrase
+        signal for this phrase," letting normal semantic/BM25 ranking
+        take over untouched, rather than needing special-case handling.
+        """
+        stemmed_tokens = tokenize(phrase, self.stopwords)
+        if not stemmed_tokens:
+            return []
+
+        merged_token = "".join(stemmed_tokens)
+        doc_freqs = self._bm25.doc_freqs
+
+        candidate_indices: list[int] = []
+        for i, freqs in enumerate(doc_freqs):
+            if all(t in freqs for t in stemmed_tokens):
+                candidate_indices.append(i)
+                continue
+            if len(stemmed_tokens) > 1 and merged_token in freqs:
+                candidate_indices.append(i)
+
+        if not candidate_indices:
+            return []
+
+        candidate_ids = [self._chunk_ids[i] for i in candidate_indices]
+        chunks = self._db.get_chunks_by_ids(candidate_ids)
+        if not chunks:
+            return []
+
+        raw_words = [w for w in re.split(r"\s+", phrase.strip().lower()) if w]
+        literal_pattern = re.compile(
+            r"\b" + r"\s+".join(re.escape(w) for w in raw_words) + r"(?:es|s)?\b"
+        )
+        merged_pattern = (
+            re.compile(r"\b" + re.escape(merged_token) + r"(?:es|s)?\b")
+            if len(stemmed_tokens) > 1
+            else None
+        )
+
+        scores = self._bm25.get_scores(stemmed_tokens)
+        score_by_index = {self._chunk_ids[i]: scores[i] for i in candidate_indices}
+
+        matched_chunks: list[tuple] = []
+        for chunk in chunks:
+            text_low = chunk.text.lower()
+            matched = bool(literal_pattern.search(text_low))
+            if not matched and merged_pattern is not None:
+                matched = bool(merged_pattern.search(text_low))
+            if matched:
+                score = score_by_index.get(chunk.chunk_id, 0.0)
+                matched_chunks.append((chunk, score))
+
+        if not matched_chunks:
+            return []
+
+        matched_chunks.sort(key=lambda pair: pair[1], reverse=True)
+
+        video_ids = list({chunk.video_id for chunk, _ in matched_chunks})
+        videos_by_id = self._db.get_videos_by_ids(video_ids)
+
+        results: list[SearchResult] = []
+        for chunk, score in matched_chunks:
+            video = videos_by_id.get(chunk.video_id)
+            results.append(
+                SearchResult(
+                    chunk_id=chunk.chunk_id,
+                    video_id=chunk.video_id,
+                    title=video.title if video else "",
+                    blog_url=video.blog_url if video else "",
+                    text=chunk.text,
+                    summary=chunk.summary,
+                    score=float(score),
+                    percentage_score=0.0,
+                    source="bm25",
+                    url=video.url if video else None,
+                    start_char=chunk.start_char,
+                    end_char=chunk.end_char,
+                    video_length_chars=video.video_length_chars if video else None,
+                )
+            )
+        return results
+
     def check_query_terms(
         self,
         query: str,

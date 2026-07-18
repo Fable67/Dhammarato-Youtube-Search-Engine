@@ -6,6 +6,72 @@ here with a one-line justification before the parity test is allowed to
 treat it as an expected pass rather than a failure. Nothing gets silently
 waved through.
 
+## 6. Exact-phrase (quoted query) ranking was fixed; two golden fixtures were regenerated
+
+Discovered during a later investigation (unrelated to the original
+old-vs-new rewrite parity effort, but affecting two of that effort's golden
+captures): quoted phrase queries (e.g. `"hot dog"`, `"right effort"`) were
+NOT actually being ranked by literal phrase match at all in either the old
+or the original new-rewrite code. Two distinct bugs combined to produce
+this:
+
+1. **BM25 has no phrase/proximity awareness.** `sanghabot/search/bm25.py`'s
+   tokenizer strips quote characters entirely, so a quoted phrase like
+   `"hot dog"` was fed into `BM25Plus.get_scores()` as the independent,
+   unordered bag-of-words tokens `["hot", "dog"]` -- a chunk that says "hot"
+   fifteen times (and never once says "dog") could easily outscore a chunk
+   that actually contains "hot diggity dog".
+2. **The exact-phrase filter in `reciprocal_rank_fusion()` was
+   exclusionary, not a boost, AND had a branch-coverage bug in `engine.py`
+   that skipped it entirely for the single most common quoted-query shape**
+   (a query that is JUST a quoted phrase, with nothing else -- this routes
+   to `use_semantic=False, use_bm25=True`, which used to go straight to the
+   bm25-only branch in `engine.py` without ever consulting
+   `intent.exact_phrases`). Separately, even when the filter DID run (for
+   queries with extra context outside the quotes), it excluded any
+   candidate not literally containing the phrase -- which could reduce an
+   entire result set to ZERO when the corpus never spells the phrase
+   exactly as quoted. Verified directly against the real corpus: the
+   correctly-spelled Pali/Sanskrit term "paticca samuppada" (with a space)
+   appears in literally zero corpus chunks -- transcripts always spell it
+   as one word, "paticcasamuppada" -- so `What is "paticca samuppada"?`
+   returned **zero results** under the old exclusionary-filter behavior,
+   even though the underlying semantic/BM25 engines had good candidates.
+
+Fixed in `sanghabot/search/phrase.py` (new module) +
+`sanghabot/search/bm25.py::find_exact_phrase_results()` +
+`sanghabot/search/fusion.py` + `sanghabot/engine.py`: exact-phrase matching
+is now supplied as additional ranked lists fed into the SAME
+reciprocal-rank-fusion mechanism already used to blend semantic/BM25 --
+boosting matches, never excluding non-matches -- and is applied
+consistently regardless of which branch a query would otherwise route to.
+See `sanghabot/search/phrase.py`'s module docstring for the full design
+rationale, and `tests/test_bm25.py`, `tests/test_phrase.py`,
+`tests/test_fusion.py`, `tests/test_engine.py` for regression coverage.
+
+**Golden fixtures regenerated as a direct consequence** (both are quoted
+"right effort" queries, the only two quoted-phrase queries in the golden
+set):
+  - `tests/golden/queries/right_effort_e24e0eda.json` (`"right effort"`)
+  - `tests/golden/queries/right_effort_and_how_it_fits_into_the_eightfold_path_in_daily_life_9aa63e32.json`
+    (`"right effort" and how it fits into the eightfold path in daily
+    life`)
+
+Both regenerated files carry a `regenerated_note` field explaining this.
+Before regenerating, every chunk in both the old and new result sets was
+manually inspected against the real corpus text to confirm the new
+ordering is actually better, not just different: e.g. for `"right
+effort"`, the old golden output's #2 result (`956_9`) does NOT contain the
+literal phrase "right effort" anywhere (a pure bag-of-words false
+positive, exactly the bug being fixed), while the new #2/#3 results
+(`1971_7`, `919_1`) both contain the phrase multiple times, front and
+center to their content. All 25 non-quoted golden queries were verified
+to still return the exact same candidate SET as before this fix (order-only
+differences among those were confirmed to be pre-existing, unrelated
+hosted-embedding-API non-determinism per divergence #5 above -- verified by
+running the identical comparison against the pre-fix code and observing
+the same order-differs cases).
+
 ## 0. IMPORTANT: a real bug was found and fixed in the old code during parity testing
 
 During the first parity test run, 25 of 27 golden queries failed. Root
