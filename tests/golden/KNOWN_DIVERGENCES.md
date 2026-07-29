@@ -6,6 +6,78 @@ here with a one-line justification before the parity test is allowed to
 treat it as an expected pass rather than a failure. Nothing gets silently
 waved through.
 
+## 7. Graduated semantic weight for quoted queries with surrounding context, plus a single-quote/contraction bug fix
+
+Follow-up to divergence #6 below. After #6 shipped, further review raised a
+fair concern: EVERY quoted-phrase query used a single fixed 0.85 bm25 /
+0.15 semantic split, regardless of how many extra (non-quoted) words of
+natural-language context surrounded the quote(s). A bare `"hot dog"` and a
+question like `"right effort" and how it fits into the eightfold path in
+daily life` (11 extra context words) got IDENTICAL weighting, even though
+the latter clearly gives the semantic engine much more to work with.
+
+Verified directly against the real corpus, for 6 representative queries
+spanning 0 to 12 extra context words, that scaling semantic_weight up as
+extra context grows does NOT push true exact-phrase matches out of the
+final top-5: the exact-phrase RRF tiers added in divergence #6 (weights
+1.0 for "all quoted phrases present", 0.5 for "any quoted phrase present")
+dominate strongly enough that every query tested kept 5/5 exact matches in
+its top-5 both before and after this change. The graduated weight's real,
+observed effect is REORDERING among/selecting between multiple true exact
+matches (letting genuinely stronger contextual matches surface), not
+excluding or burying true matches.
+
+Fixed in `sanghabot/search/intent.py`: `semantic_weight` for a quoted
+query now ramps linearly from `GRADUATED_SEMANTIC_WEIGHT_MIN` (0.15, at 0
+extra context words) up to `GRADUATED_SEMANTIC_WEIGHT_MAX` (0.5, reached
+at `GRADUATED_SEMANTIC_WEIGHT_RAMP_WORDS` = 8 or more extra words). See
+`tests/test_intent.py`'s graduated-weight test block for the full
+regression matrix.
+
+**Separately, a real bug was found and fixed in the same file**: the
+original phrase-detection regex `r'(["\'])(.*?)\1'` treated ANY single
+quote character as a phrase delimiter, with no awareness of English
+contractions or possessives. For a query like `"Why don't I feel
+satisfaction during 'jhana' practice?"`, the regex matched the `'` inside
+"don't" as an opening delimiter and the next `'` (opening "jhana") as the
+closer, extracting the nonsensical phrase `"t i feel satisfaction during
+"` instead of the user's actual intended phrase, `jhana`. Separately,
+`clean_query = query.replace('"', " ")` only ever stripped double quotes,
+so `meaningful_words` for a single-quoted query like `'Anapanasati'`
+retained the raw quote/punctuation characters glued to the word (e.g.
+`"'anapanasati'?"` instead of `anapanasati`), which fed directly into
+`sanghabot/highlight.py`'s highlight-term extraction and this module's own
+extra-context-word count. Fixed with a new `_PHRASE_RE` that only treats a
+`'` as a phrase delimiter when it is not immediately adjacent to a word
+character on the inside of the quote mark (a negative lookbehind/
+lookahead pair), so `don't`, `it's`, `y'all`, `Buddha's` are correctly
+left alone while `'jhana'`, `'right effort'`, and multi-phrase queries
+like `'Right noble view' vs. 'right view' vs. 'wrong view'` are still
+correctly detected. See `sanghabot/search/intent.py`'s module docstring
+for the full before/after regex behavior and worked examples.
+
+**Golden fixture regenerated as a direct consequence:**
+  - `tests/golden/queries/right_effort_and_how_it_fits_into_the_eightfold_path_in_daily_life_9aa63e32.json`
+    (11 extra context words -> semantic_weight moved from 0.15 to the ramp
+    maximum of 0.5, since this query already had >= 8 extra words). Every
+    returned chunk (`689_4`, `900_0`, `896_0`) was manually verified to
+    still contain the literal phrase "right effort" -- this is a true
+    reordering/reselection among exact matches, not a regression into
+    partial/non-matches.
+
+`tests/golden/queries/right_effort_e24e0eda.json` (the bare `"right
+effort"` query, 0 extra context words) was NOT affected -- 0 extra words
+maps to the ramp's minimum (0.15), identical to the old fixed weight, so
+this fixture's expected output is unchanged and still passes exactly.
+
+All 26 non-quoted-phrase golden queries were re-verified to still return
+the exact same candidate SET as before this change (this fix's code path
+in `analyze_query_intent()` is only reachable when `exact_phrases` is
+non-empty, so a query with no quotes at all cannot be affected by
+construction; this was additionally confirmed empirically by re-running
+the full golden comparison twice, which showed only the expected
+quoted-phrase query differing both times).
+
 ## 6. Exact-phrase (quoted query) ranking was fixed; two golden fixtures were regenerated
 
 Discovered during a later investigation (unrelated to the original
