@@ -18,7 +18,21 @@ Design (see chat history / investigation for full rationale):
   - Terms highlighted are exactly analyze_query_intent()'s own
     exact_phrases + meaningful_words -- i.e. the same terms the routing
     logic already decided were "the keywords," not a separately invented
-    list.
+    list. The caller (sanghabot/bot/discord_bot.py) passes
+    HIGHLIGHT_STOPWORDS (below) into that analyze_query_intent() call so
+    common English function words (the, is, and, between, ...) don't get
+    swept into meaningful_words and bolded alongside the user's actual
+    keywords -- e.g. without this, `'sukha' and 'piti'` would highlight
+    the literal word "and" in transcript text, and a question like `What
+    is the difference between 'sukha' and 'piti'` would highlight "what",
+    "is", "the", "difference", "between", and "and" in addition to the
+    two real keywords. This is purely a *display* filter: it is NEVER
+    passed to engine.search()'s own internal analyze_query_intent() call
+    (see sanghabot/engine.py), so it has zero effect on search ranking or
+    routing -- BM25SearchEngine's own `stopwords` param is intentionally
+    left unapplied for parity with the old engine (see bm25.py's module
+    docstring and tests/golden/KNOWN_DIVERGENCES.md #3); this is a wholly
+    separate, highlight-only list.
   - Matching is case-insensitive, word-boundary-safe, and tolerant of a
     simple trailing "s"/"es" plural (e.g. searching "breath" also
     highlights "breaths"). This is a deliberately simple, predictable rule
@@ -39,6 +53,33 @@ from __future__ import annotations
 import re
 
 from sanghabot.models import QueryIntent
+
+# Common English function/filler words that carry no keyword meaning on
+# their own and should never be bolded in transcript text, even when they
+# survive into analyze_query_intent()'s meaningful_words (that function has
+# no stopword list applied by default -- see build_highlight_terms() and
+# the module docstring above for why the caller passes this set in).
+# Deliberately conservative/short: only words with essentially zero
+# standalone search value in this domain (articles, common prepositions,
+# conjunctions, auxiliary/copula verbs, question words, basic pronouns).
+# Content words that happen to be short (e.g. "self", "mind", "path") are
+# intentionally NOT included.
+HIGHLIGHT_STOPWORDS = {
+    "a", "an", "the",
+    "and", "or", "but", "nor", "so", "yet",
+    "is", "am", "are", "was", "were", "be", "been", "being",
+    "do", "does", "did", "doing",
+    "have", "has", "had", "having",
+    "can", "could", "should", "would", "will", "shall", "may", "might", "must",
+    "in", "on", "at", "by", "for", "with", "about", "against", "between",
+    "into", "through", "during", "before", "after", "above", "below",
+    "to", "from", "up", "down", "of", "off", "over", "under", "again",
+    "further", "then", "once", "here", "there", "as",
+    "how", "what", "why", "when", "where", "who", "whom", "which",
+    "this", "that", "these", "those",
+    "i", "me", "my", "we", "our", "you", "your", "he", "him", "his",
+    "she", "her", "it", "its", "they", "them", "their",
+}
 
 # Matches analyze_query_intent()'s own semantic-heavy routing condition
 # (sanghabot/search/intent.py:177: `elif is_question or len(raw_words) >= 5`)

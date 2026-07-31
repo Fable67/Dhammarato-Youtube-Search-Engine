@@ -7,8 +7,13 @@ Covers:
   - build_highlight_terms()'s dedup of exact_phrases + meaningful_words.
   - highlight_text()'s case-insensitivity, word-boundary safety, plural
     tolerance, stray-asterisk escaping, and empty-terms passthrough.
+  - HIGHLIGHT_STOPWORDS filtering out common English function words from
+    the highlighted term list (a display-only concern -- see module
+    docstring in sanghabot/highlight.py; this must never be confused with
+    or wired into engine.py's own analyze_query_intent() call used for
+    actual search ranking).
 """
-from sanghabot.highlight import build_highlight_terms, highlight_text, should_highlight
+from sanghabot.highlight import HIGHLIGHT_STOPWORDS, build_highlight_terms, highlight_text, should_highlight
 from sanghabot.models import QueryIntent
 from sanghabot.search.intent import analyze_query_intent
 
@@ -189,3 +194,48 @@ def test_highlight_text_longest_term_preferred_over_substring_word():
     result = highlight_text("Practicing right effort daily.", ["right effort", "right"])
     assert "**right effort**" in result
     assert result.count("**") == 2  # exactly one bolded span, not two
+
+
+# ---------------------------------------------------------------------------
+# HIGHLIGHT_STOPWORDS -- filtering common function words out of highlighted
+# terms (display-only; see sanghabot/highlight.py module docstring).
+# ---------------------------------------------------------------------------
+
+def test_highlight_stopwords_filters_and_from_quoted_pair():
+    query = "'sukha' and 'piti'"
+    intent = analyze_query_intent(query, stopwords=HIGHLIGHT_STOPWORDS)
+    terms = build_highlight_terms(intent)
+    assert terms == ["sukha", "piti"]
+    assert "and" not in terms
+
+
+def test_highlight_stopwords_filters_question_filler_words():
+    query = "What is the difference between 'sukha' and 'piti'"
+    intent = analyze_query_intent(query, stopwords=HIGHLIGHT_STOPWORDS)
+    terms = build_highlight_terms(intent)
+    assert terms == ["sukha", "piti", "difference"]
+    for filler in ("what", "is", "the", "between", "and"):
+        assert filler not in terms
+
+
+def test_highlight_stopwords_does_not_remove_content_words():
+    query = "meditation retreat schedule for beginners"
+    intent = analyze_query_intent(query, stopwords=HIGHLIGHT_STOPWORDS)
+    terms = build_highlight_terms(intent)
+    assert terms == ["meditation", "retreat", "schedule", "beginners"]
+    assert "for" not in terms
+
+
+def test_highlight_stopwords_end_to_end_only_bolds_real_keywords():
+    query = "What is the difference between 'sukha' and 'piti'"
+    intent = analyze_query_intent(query, stopwords=HIGHLIGHT_STOPWORDS)
+    terms = build_highlight_terms(intent) if should_highlight(intent, query) else []
+    sample = "The teaching on sukha and piti is subtle. There is a difference between them."
+    result = highlight_text(sample, terms)
+    assert "**sukha**" in result
+    assert "**piti**" in result
+    assert "**difference**" in result
+    assert "**and**" not in result
+    assert "**is**" not in result
+    assert "**the**" not in result
+    assert "**There**" not in result

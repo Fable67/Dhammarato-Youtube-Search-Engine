@@ -30,7 +30,7 @@ from config import settings
 from sanghabot.embeddings.client import embed_query
 from sanghabot.embeddings.legacy_compat import LEGACY_RUN_MARKER, legacy_embed_query
 from sanghabot.engine import CombinedSearchEngine
-from sanghabot.highlight import build_highlight_terms, highlight_text, should_highlight
+from sanghabot.highlight import HIGHLIGHT_STOPWORDS, build_highlight_terms, highlight_text, should_highlight
 from sanghabot.models import TermSuggestion
 from sanghabot.search.bm25 import BM25SearchEngine
 from sanghabot.search.intent import analyze_query_intent
@@ -235,11 +235,12 @@ class SanghaBot(discord.Client):
             # to bold in the displayed transcript text below -- this does
             # NOT affect what engine.search() itself actually searches for
             # or how it ranks results (that's still driven by engine.py's
-            # own internal analyze_query_intent() call). See
+            # own internal analyze_query_intent() call, which is NOT passed
+            # HIGHLIGHT_STOPWORDS -- this is a display-only filter). See
             # sanghabot/highlight.py's module docstring for the rationale:
             # only keyword-style queries get highlighting; long/question
             # queries (answered by semantic search) are shown plain.
-            intent = analyze_query_intent(query)
+            intent = analyze_query_intent(query, stopwords=HIGHLIGHT_STOPWORDS)
             highlight_terms = build_highlight_terms(intent) if should_highlight(intent, query) else []
 
             results = await asyncio.to_thread(engine.search, query, 3)
