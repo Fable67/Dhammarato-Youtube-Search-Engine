@@ -1,0 +1,252 @@
+---
+layout: post
+title: "Anapanasati Mapped Out IOSU 3 1 6 21"
+pubDate: 2021-01-06
+author: Dhammarato
+categories: [transcripts, Dhamma Talk]
+tags: [transcripts, patticcasamuppada, anapanasati, sati, vedana, dukkha, sukha, anicca, salayatana, nama-rupa, consciousness, eightfold-noble-path, right-view, wisdom, contact, mindfulness, meditation, feeling, clinging, craving, habit, wholesome, unwholesome, nurturing, critical-thinking, one-on-one]
+image: "https://i.ytimg.com/vi/5w5uRWhdkjU/maxresdefault.jpg"
+description: "Transcript of January 06, 2021 Dhamma Talk with Dhammarato and Friends"
+featured: false
+hidden: false
+toc: true
+assemblyai_transcript_id: 9dfd1de8-4269-40c5-9c39-0a4ec54af329
+---
+
+## Anapanasati Mapped Out IOSU 3 1 6 21
+
+### Video
+
+
+<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/5w5uRWhdkjU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+
+
+### Transcript
+
+
+**Speaker A:** Okay, there was a very important teaching by Bhikkhu Buddhadasa that I'll go into quite in depth with you today. And in the short version of that
+
+**Speaker B:** is
+
+**Speaker A:** Mindfulness at the point of contact. And so we'll talk about that quite a bit. And that basically what it means is that if we are mindful when our, let us say, perceptions or understandings impact us, in other words, when we get it, That's at the point of time when feelings arise. And the kind of feelings that are arising are the feelings of liking, the feelings of not liking, and the feelings that are not sure whether they like it or not. That is often in the English translated as neutral, but the Pali itself does not indicate neutral. What it indicates is either Adukkha, Asukkha, or Dukkhasukkha, Vedana. Okay, what that means is, is that it's mixed. It's either I like it or I don't, or I have mixed feelings about it. And sometimes those mixed feelings are that I can't decide whether I like it or not. It would almost be like in logic, a question can be answered, a yes or no question can be answered in various ways. One would be yes, the other would be no, the next one would be both, and the one after that would be neither. So both and neither kind of fit into a different category. Okay, and so this is what we mean by that third kind of feeling, and we can actually cause it— the feeling of confusion, giving rise to fear and doubt and uncertainty and postponement and lack of decisions and all kinds of stuff like that that happens in logic. Okay, so the point that I want to start out on though is that when I heard Bhikkhu Buddhadasa talk about mindfulness at the point of contact or pañña giving rise to feelings in the system that is called Piti, Samuppada, I did not know where Bhikkhuni got that. Until I finally found it in the sutra that you're talking about now, which is the Dhammarato number 15. And what is the Pali name of it? The Maha what?
+
+**Speaker B:** Nibbana Sutta.
+
+**Speaker A:** Nibbana. Okay, the Maha Nibbana Sutta, right? Even though the name Nibbana doesn't have anything to do with Piti, Samuppada, the whole teaching is that Now there's a story behind that story about Ananda claiming that he understood Paticcasamuppada and that the Buddha says no, it's too profound, it's too subtle. And the background story from that is that Ananda didn't actually understand the teachings of the Buddha. He still held eternalistic beliefs. And because of that, the suttas are often spoken of in eternalistic framework, but that the Buddha's major teaching about Paticcasamuppada is to understand that this eternalism, this soul, or this thing that goes from life to life experiencing the good and bad actions of a past life, is a teaching that not only is irrelevant to the teachings of the Buddha, it's actually dangerous and harmful. It's an actual harmful misleading interpretation, but that the Brahmins use that kind of teaching to gain power over other people. In other words, if I set the rules and you don't behave by my rules, and I don't really have the power or the army to go make you do what I want you to do, then I can lie to you and tell you that if you do the wrong thing that I tell you not to do, or you don't do the things that I do tell you to do, then someday you will get punished. I will make sure of it. Okay, so this is how people are controlled. And if it goes far enough, we can make it into the law of Kamma, in the sense that if you do good things, then you will get a good from the big guy that's making the rules, and that if you do bad, you'll get a bad result from the big guy making the rules. All right, and if we make that into an even larger thing, a magical world, then we can turn it into the law of Kamma. Because any child can say that, well, I can do wrong and get away with it. That in fact, the Buddha talks about it like that, in the sense that wrong view is I can get away with it. Right view, ordinary right view, is no, you can't get away with it. Eventually you will get caught, even if the Kamma machine has to dig you up 300 years from now just to kick your ass, right? That's the whole idea of it, is that you will get caught eventually. That's the right view. But it's a right ordinary view. Now, the right noble view is, is that you're not getting away with it right now. Yeah, right now you're not getting away with it. Okay, so much of the teaching of the Buddha, especially about the five aggregates and how the five aggregates fit into Paticcasamuppada, points out that this idea of a self or a me or a mind or a selfishness comes into play at a time when the mind has already grasped onto things. In other words, the grasping that the mind does requires the concept of a grasp for the me, the one who wants this thing. Okay, and so this teaching of Paticcasamuppada is actually very useful for the Anapanasati meditation practitioner to begin to understand how his mind works so that he can gain several skills. And one of them is that we want to learn to speed up Sati, that we don't want it to be very slow, because if it's very slow, then by the time we wake up, we're already in Dukkha.
+
+**Speaker B:** Oh yes.
+
+**Speaker A:** The question is, can we wake up before the Dukkha arrives so that we can avoid it completely? In other words, imagine that you've got to go to the other side of the pasture and you're going to step in a cow pie if you don't watch out, because the pasture is— the cows are on the other side of the pasture, but there are cow pies all over the place. You don't want to recognize the cow pie after you step in it, right? You want to see the cow pie before you step in it. This is the whole idea then about the mind. We want to see Dukkha coming, and this is the way that we can do that. In fact, this is a major, major point that Bhikkhu Buddhadasa is making that's hidden in this sutta, and that is, is that When we bring our mindfulness to the point that we know what our feelings are as they arise, then we have great control over them. We can control the way that we feel, that we don't have to create feelings that lead then to grasping, clinging, and wanting. Okay? And that when we grasp and cling and want, etc., like that, then that's the birth of the self. But this self is always born in a woeful state. Okay, anger, sadness, fear is in fact a protection mechanism, and the protection mechanism is from the instinct, the self-preservation instinct. Okay, and so The whole teaching then of the Buddha is to wake up in time so that the feelings do not deteriorate ignorantly. You got me? Okay. So let's go through an example of that. The feeling of liking will lead to the desire or wanting it. In other words, if I like it, if it looks pretty, then if I have it, I will be better off, which means that I'm not better off right now. I'm worse off right now because I would be better off if I had that shiny object that I like so much. Do you understand the feeling that's going on with that? It's a very, very quick thing. It happens very quickly. Yeah, if I like it, I want it. Now, along with that comes judgment in the sense of if I like it and I want it, that must make it good and I will be better off because I get it. And if I don't like something, then I want to push it away. I want to not have to endure it. I want to be away from it, to move away. Just like wanting wants to go close to something, so not liking it wants to draw away from it. I don't like it, therefore I don't want to be around it. I want to get rid of it. And that also means that it must be bad, it must be terrible, it must be evil. So this third kind of feeling is when those things are mixed together, or they are missing in the sense that you want to know how to feel about something, but we don't know how to feel about it. And that gives rise to confusion. Students get confused often when I'm talking. I don't know whether they like this or not. So the confusion then leads not to the judgment of it is good or it is bad, but it leads to the question of mystery, doubt, confusion, And other feelings, which is a Dukkha. Exactly. Being afraid, being all dressed up and ready to go with no place to go. All dressed— in fact, the warriors are all dressed up for battle and fit to go, and they're afraid to go. There's a very, very classic case of that that we know of in history, and that was McClellan was the general that Abraham Lincoln had chosen to lead his army. And McClellan trained and trained and trained and trained, and boy, they were a crack troop. But he wouldn't let them go. He was still afraid that they weren't ready yet. And when Abraham Lincoln replaced him, He replaced him with Grant, and Grant took that First Class Army and went to war. Okay, so this is an example then of that doubt and confusion. All dressed up and no place to go. Or the warrior fit for battle and is yet afraid to go. That's like the student who is ready for the debate, but he's afraid to go out on the stage. Or children when they have a recital to do, a voice recital, or maybe a poem to recite or whatever, and they've learned that poem, but when they get on the stage, there is that stage fright. I don't know what to do. We go into that state of confusion because I really like being out on stage, but what if something bad happens, right? And we don't know, and so we're in that state of confusion. Now, back to the whole teaching is, is that the teaching The interesting thing is that if we know these feelings, if we're wise to them, then we can manipulate them very quickly. And in the practice of Anapanasati, this is when we're beginning to have mindfulness of what we're thinking about, then we can have mindfulness to the idea that this thought is unwholesome, Why is it unwholesome? It's because it will lead to greed, it will lead to ill will, or it will lead to confusion. Let me have the kind of thoughts that do not lead me to greed, do not lead me to ill will, and do not lead me to confusion, and those kind of thoughts would then be wholesome thoughts, nurturing thoughts. Okay? And this is how we practice it when we're actually intentionally practicing. It, but we want to practice Sati so that it can happen at any point during the day, at any time during the day when we are contacted by something, when something impresses us, like walking out on the stage and seeing an audience right in front of us. That's an impressive thing. Everybody, 500 people looking at you. All right, so this is what the Buddha means by contact, right? The point is that the reality is that, so what? I mean, you walk out on the stage, 500 people, maybe now you're the janitor, right? And you just, you know, cleaning up the floor before the act goes on. You don't think anything about 500 people. You ignore them. They're just part of the scenery, right? So in fact, it's not the audience and the stage that brings on the stage fright. It's the mindset of the person who's walking out on stage. Okay, and if you are an old pro and you have done this many times and you know exactly what's going on, you can walk out there in full mindfulness. That's what makes someone a star, is the fact that they can be here now and handle this moment with eloquence.
+
+**Speaker B:** Yeah.
+
+**Speaker A:** So most people are never going to get to that point. Now, most people are never going to get to the point of actually being able to perform really well in front of an audience. We're always kind of in practice mode, not sure of ourselves. And so what the teaching of Anapanasati is, is to bring that mindfulness up, put us back into a really good mood, because we know that whatever happens, we can handle it. That even 'I don't know' is okay, because the 'I don't know' does not lead to confusion, doubt, uncertainty. So when the politician gets asked a question that is hard for him to answer, if he is a sharp politician, he'll have a ready answer. Or he'll be able to divert the topic. But the new politician, when he's asked a really tough question, he'll hem and haw and not talk and try to avoid the question, avoid answering or whatnot like that, you see. All right, so we're talking about a split-second decision that happens inside the mind based upon what our level of Sati is.
+
+**Speaker B:** Is.
+
+**Speaker A:** And so if we can always choose to go the wholesome route, then that means that we have wisdom there at the point of contact when that question is asked, or when you walk out on the stage, yeah, or when something— when things get tight, when you're put on the spot, right? That's when we need Sati. When somebody's yelling at you, that's when you need Sati.
+
+**Speaker B:** And before that?
+
+**Speaker A:** Before also coming into it. In fact, there is the whole idea of, oh, I know I'm about to walk out on stage, that it'd be really cool. Yes, exactly that. That's what wisdom is all about, is knowing so that you're ready for that contact so that wisdom is there at that point of contact. That way we can handle these feelings when they come up, or we can actually manage them into feeling the way we want to rather than the way that we are in the habit of feeling based upon instincts and self-preservation. It's funny that a child will walk out on stage and have stage fright because not one person in that audience is going to start throwing cabbages or axes or anything at them. We don't do that anymore. Okay, so these are big things, and it's good to talk about it in big, big ideas. And if there were selfishness involved, which is actually what is going on here, then someone would say, oh, but I don't have any trouble going out on stage, but it's not talking about whether you have trouble going on stage, because that same rock star who can handle going out on stage, he cannot handle his mother-in-law. All right, and so we're not talking about just going out on stage, we're talking about any kind of event. And so it's a generalization that we go into bad feelings quite often when in fact there's never a reason to go into bad feelings.
+
+**Speaker B:** No, but we— yeah, out of the delusion and maybe wrong view and wrong attitude. We don't know how to get into feeling good,
+
+**Speaker A:** maybe. And so there's an important way of looking that if we are able to handle whatever is going on, then part of the idea of confusion and don't liking things is that we will often take actions that are harmful. Yeah, but if we are in a good mood, then we're not going to be doing things that are harmful and therefore will require retribution.
+
+**Speaker B:** What do you mean by—
+
+**Speaker A:** well, we're talking about cause and effect relationships. Sometimes the cause and effect relationship is kind of slow, but there is actually a direct link cause relationship that is present. One of the most important teachings that the Buddha gave, and he did this in Sutta number 38 in the Majjhima Nikaya, which is a sister sutta to the one that we're talking about. And this is also the teaching of Paticcasamuppada. In fact, there's 3 really good ones. There is Dhammarato, number 15, the Mahayana Anicca, number 9, and number 38. And these are all about Paticcasamuppada, but they don't talk about it in the kind of detail that is pointed out in many other suttas. And in this one sutta, number 38, it has the issue about a fire in the sense that a fire burns with a fuel and that a fire is known by its fuel. For instance, a log fire, a gas fire, a building fire, a house fire, a car fire, a grease fire, a kitchen fire. You see what I'm talking about? An electrical fire. Every fire is known by its fuel. Refuge. Whatever it is that is burning is the fuel. This is an important point. And the Buddha talked to his monks, and in the case of— do you understand what I mean, that a fire has to have a fuel? Do you get that? You understand that? Okay, this is an important teaching of the Buddha. If you cannot get it, it will be to your harm, because then you will think that there are fires that exist without any fuel, and there are no fires that happen without a fuel. This is actually the part that Ananda was missing because he was thinking that, "No, I will exist after I die. That fire will burn without a fuel and then it will get fuel later." And the Buddha has been pointing out in many ways with his teaching. So that's why he told Ananda, he told him, "This stuff is really profound and difficult to understand." and you don't get it. And so he tries to explain it to him again in a way. So, but he's not telling Ananda that in a way of shaking him and saying, don't you see there is no self? Because Ananda will say yes to that, but then he goes back into his magical beliefs, which is what we often do anyway. There's a really, really big point to understand that it's only this moment that actually counts, that the past does not have an effect upon you unless you set it up that way. And when you stop setting up so that the past has an effect upon you, then it doesn't have any effect upon you anymore. And that's an important point. So Fire has to have a fuel. That means that the whole show of Paticcasamuppada is that every event is kind of the kickoff or the cause for the next item on the list. One after another after another, there is actually this fire now sets that fuel on fire, and that fuel on fire creates the next fuel that's on fire. Just like a house starts that way, and it can start with a candle that can start the rug. The rug starts to burn, and then the curtains catch on fire, and now the ceiling is getting roasted. You see what I'm talking about? One after another after another after another. And if you remove the fuel along the way someplace, that whole house does not get burned down. Which is exactly the way that we're talking about Paticcasamuppada, is the whole house gets burned down and that we wind up in a woeful state. We wind up in hell, we wind up full of fear, we wind up in unsatisfactory states, Dukkha, right? So if we can somehow rob the fuel at any point in time along the way, then we can put a stop to it. Now, in normal minds, the way that the normal world operates is someplace around clinging in the sense that some two people can be having an argument. For instance, yak, yak, yak, yak, yak, yak, yak, yak, yak, yak. And then one of them will say, wait a minute, I've gone too far. and he'll walk out of the room and slam the door and finish the conversation. That's when they wake up. Because if nobody wakes up in that thing, one of them is going to wind up injured and in the hospital or worse, dead and buried in the backyard. You see what I'm talking about? Somebody's got to wake up along the way somewhere. And the sooner we wake up in this process, The less damage, the less fire is burning, because we've been able to stop the fuel. This is the teaching of Paticcasamuppada. That's the whole teaching, one step after another, after another, after another. And basically the steps, and I'll teach you this in later detail, because you can get the whole thing, but just as an introduction. Is that consciousness, in other words, we become conscious of something happening on the outside, or maybe a thought that happened of something that did happen on the outside a long time ago. So we can remember and bring it back up, or we can experience it now. We then try to make sense out of that, and trying to make sense out of it is what we call perception. Okay, and when we perceive something, that means perceive, it means that once we become cognizant, we've got to recognize it or recognize it, right? This is what we talk about in the sense of, in the Pali, is the sallyatana, which actually means the internal representation. So what I see on the outside is not what I see on the inside because I've had to make sense of it to get it on the inside. So what's actually out there is not what contacts me, it's something that is inside that's mixed with that which I saw on the outside, right? And that old stuff that we call is memory, a recognition, because we have seen it before, we have cognized this before, and so now when we see it again, we recognize it. An example of that would be a uniform. Many, many uniforms you've seen. And so whenever you see any of the uniforms you've seen, then you will recognize that uniform, right? So you know the difference between a nun's habit and a nurse's uniform, and you know the difference between an army officer and an army general. They wear different uniforms, right? Okay, so this is what we're getting at. But we do that not just with the clothing or the uniform that people wear, but we do that with other things subtly, so that we're always making a representation on the inside of the mind trying to understand and make sense out of the world. And that is what contacts us, not the actual reality. We're not contacted by real reality. Contacted out of a constructed reality that we construct on the inside of our mind, which is where we live, and that where we live is in the Salyatana, a different kind of consciousness than the kind of consciousness that took in the input. Okay?
+
+**Speaker B:** Oh yeah, yeah, I'm kind of getting it right now.
+
+**Speaker A:** All right, so I can use the word seeing to talk about two different kinds of consciousness. I see you has two different qualities to it. One is I actually do see you, and then the other one is to add whatever we've got together. I see you. Aha, I caught you. All right, so that's the recognition part. Yeah. Another one is that I see the tree But what I see with the eyes is just an image. To call it a tree, I've had to process it a little bit.
+
+**Speaker B:** And which is the salayatana?
+
+**Speaker A:** This is the salayatana.
+
+**Speaker B:** The recognition or?
+
+**Speaker A:** The recognition. Okay. In fact, in English we use sometimes the word realization. I realize something. But that's not a very good word to use. It's kind of funny, in fact. If I realize that tree, what does that mean? I've got a tree growing out of my head? No, that's not what we mean at all. So we don't realize. What we do is that we conceptualize or mentalize, trying to grasp or understand the reality of it. And we're always missing a lot of information. There's a whole lot more going on than we generally process. But in fact, while we're processing and thinking about something or trying to figure out what it is, that's the time when we're not receiving input. If we stop processing, then we can receive input, a lot of input, because there's a lot happening around, but we don't pay much attention to it because we're always trying to think our way through things. Okay, so this is what the idea then is, is that if we process less and less, then there's going to be less and less things that contact us. And yet the more input we receive, the wiser we are because we can see things. Without trying to make sense out of it or understand it, we just put it in as part of the database.
+
+**Speaker B:** Okay, yeah.
+
+**Speaker A:** All right, so this is how we look at Paticcasamuppada in the Pali. This consciousness that is the seeing— I see the tree is called Vedana or Vinaya, excuse me, Vinaya. And then Vinaya gives rise to Namarupa. Namarupa is perception, also called Sanna, and what does that mean? Namarupa means that we take the rupa and we name it. Just like I said, I see the tree, but I had to name the tree And that process of seeing the tree then as a tree requires nama-rupa ending up in a salyatana, an internal representation called tree, that is not the same as what the eyes saw. You got that? And that's what contacts us.
+
+**Speaker B:** Oh yeah.
+
+**Speaker A:** And if we have wisdom at that point of contact, then we can choose how we're going to feel about it, or we have a much better way of managing our feelings without letting them go in from "I like it" to "I want it." Okay. In fact, there's a very cute story about this. The story is about Achancha and Achanchameto. Have you heard of either one of those guys? Okay. Achancha and Achanchameto were at a Kuten ceremony, which means that there is a lot of— without going into any detail, all of the young women will go to the temple on that day, all dolled up. This is a kind of a courting or a mating kind of ritual that that's done in Thailand while the mothers are in the background managing the whole show. And Ajahn Chah sits there and he mentions Ajahn Sumedho, what do you think? Because Ajahn Sumedho probably was looking at these girls and Ajahn Chah saw it, and so he's going to confront him with it. And Ajahn Sumedho had a brilliant comeback. His comeback was, "I like it, but I don't want it."
+
+**Speaker B:** Wisdom.
+
+**Speaker A:** Wisdom at the point of contact, so that in fact we can like it, that women in fact do a whole lot of work to make sure that they're beautiful and attractive, and it's all right for you to like it, just don't want it. If you want it, that becomes really dangerous, but you can like it. It's quite beautiful. Yeah, if you have wisdom.
+
+**Speaker B:** So what's, what's the wisdom here?
+
+**Speaker A:** You've got to— the wisdom is, is that it's dangerous for, uh, Samatha, uh, as a monk, to try to want to chat up one of these young girls.
+
+**Speaker B:** Yeah, yeah. Uh-huh.
+
+**Speaker A:** Okay.
+
+**Speaker B:** That's what I thought before I asked the question, danger.
+
+**Speaker A:** Yes, that's what wisdom is all about, is to recognize that we don't have to follow these feelings blindly. That it's time to wake up to these feelings. This is the point that's easiest, but it takes quick reaction. We have to be there. If we're slow or late, then the desire has already kicked in. Now I want it, and now I'm plotting.
+
+**Speaker B:** Really fast.
+
+**Speaker A:** And so if I can catch that liking, just merely liking or not liking, at merely not liking without having to take an action. That we recognize, "Yes, I don't like it, but so what?" Because I ask you, how many things are there for you to not like in this world?
+
+**Speaker B:** Many.
+
+**Speaker A:** Uh-huh. Are you going to spend all your time going around not liking things?
+
+**Speaker B:** No, I don't have to.
+
+**Speaker A:** You don't have to, right?
+
+**Speaker B:** Uh-huh. Oh.
+
+**Speaker A:** So if you come to the state of not liking, be aware that you don't like it, rather than blindly following that feeling of not liking. This is the teaching of the Buddha, is be wise at that point of contact. Now that's that whole point that we're making right now is actually buried right there in that sutta. It's there when the Buddha is talking about Vedana, the feelings. Be wise to these feelings, to know what you're feeling all the time, because if you know how you're feeling, then you also know of the feelings as wholesome or unwholesome. And then you have a time or a chance to make a change. This is the whole practice of Anapanasati now, is to recognize the unwholesome as unwholesome. Wanting something is unwholesome, and in fact is listed as one of the five hindrances, and generally the first one on the list. Wanting things, like wanting enlightenment, if you sit down wanting enlightenment, then you're probably going to have a pretty miserable sit. But if you can sit down and say, 'I'm not going to like anything or want anything right now, I'm just going to enjoy the moment, everything is okay, everything is fine,' and so we cultivate being in a really nice state because we don't want anything, we're satisfied. And yet the danger is, is that people want this state that we're talking about, the state of not wanting anything. It's actually got a term, it's called desiring desirelessness.
+
+**Speaker B:** Yeah, yeah, yeah, that's— well, yeah, I've noticed like maybe the past 2 years or something like that. This is kind of— it's kind of like a trick. It's a trick the mind plays.
+
+**Speaker A:** It is kind of a trick. Here is another way of talking about that same trick, and that is using the dichotomy between nurturing and, uh, critical. Okay, the critical mind is that which wants and likes and judges and wants not, dislikes and judges bad, critical, making a grade, going over a boundary, crawling through a maze, did you do it or did you not, is there light or is there not. Okay, this is criticism. And we learn to be critical from our society, the society itself is critical. And the reason that it became critical is because in the old, old days, it was really a dog-eat-dog, or actually human-eat-human, barbarian, human sacrifice, animal sacrifice, all kinds of terrible things humans did. And so the building of our society was then built upon this idea of criticism, that this is good and this is bad, up and down, back and forth. This is okay. And that this is the also the ordinary view. And this is where, this is where magic comes in. The magic comes in is that this is bad and this is good, and it will always be the case that this is bad and this is good. And that's when the magical thinking— because where's the fire? I mean, the fire that makes it bad right now is because I don't like it. If I start to like it, then it's only my opinion that changed as to whether it was good or bad. The item didn't change, you see. This is an important point, is that things are not inherently good or inherently bad in and of themselves. That things are good or bad because people like it or don't like it. There is the case, for instance, arsenic. Is arsenic good or is arsenic bad?
+
+**Speaker B:** It's just arsenic.
+
+**Speaker A:** Yeah, arsenic. We can use cyanide. Do you know cyanide? Arsenic and cyanide are two poisons that you can die from quickly. Okay, and so I asked the question, is arsenic or is cyanide bad?
+
+**Speaker B:** Well, by itself it's just poison.
+
+**Speaker A:** In fact, arsenic, the one that I started with, is actually used in transistors. Gallium arsenide. There's a lot of arsenides that have arsenic as an ingredient in it, but if you eat it by itself, it will poison you and kill you.
+
+**Speaker B:** Yeah, it's empty of— but the arsenic
+
+**Speaker A:** itself, neither good nor bad. Another example is, is that if you have the intention to poison one of your enemies, then you want arsenic. It's good and you like it because you want it, because you're going to kill somebody with it. Okay, all right. So arsenic has no quality of good or bad by itself. It's how the individual person, the human, responds to it based upon their old memory, their old past, etc., like that. So you, you, you go to the pharmacy and you look and you see a bottle and it's got the label arsenic on it. What are you going to think about? Are you going to think about transistors? Are you going to think about dying if you eat this stuff? Are you going to think about, I'm going to go take this stuff and give it to that dog I don't like, right? All of that is what happens in the mind. I like it. I don't like it, I'm not sure about it, or it's neutral. Okay, this is what we do with the things based upon our past. This is the nama rupa. So the actual rupa is that jar of arsenic sitting on the counter. What I do with it is that I name it or label it according to my own understanding, and then That's what contacts me and that's what gives rise to my feelings. Oh, I want this stuff, or I don't care about that, or I want to get away from it. Okay, so those are the three kinds of feelings. And if we have wisdom at that point of contact, then we know how we feel about it, we know what kind of thoughts that we would have.
+
+**Speaker B:** Yeah,
+
+**Speaker A:** so this is the— this is actually one of the most important points of the Buddha that Bhikkhu Buddhadasa makes a big point about: wisdom at the point of contact. When that stuff hits you, you got to know how to feel. That's the wisdom, because if you don't know how to feel, then you're naturally going to feel according to the instincts And that's what causes Dukkha. That's the whole teaching in a nutshell, and that's why this teaching is so profound and difficult for people to understand when they bring magical thinking into it. But this is all purely logic, and one of the qualities of logic is that it's got to have a cause and effect, it's got to fit in, it's got to make sense. Fires don't burn without a fuel. And so that's why the introduction to Paticcasamuppada in Sutta number 38 is the idea of fire, because in fact consciousness is just like that also. In the sense that consciousness is known by its fuel. So you have eye consciousness or seeing, you have hearing consciousness from sound. The sound reaches the ear and the combination of them causes hearing, but it doesn't cause understanding, it doesn't cause listening, it merely causes hearing. That in fact you could hear somebody and then really not like it and not want to hear anything. You know, it's like some scratchy voice, or maybe it's your mother-in-law or someone like that, and you hear it, but you're not listening at all, intentionally not listening. So the next one is the tongue and the flavors give rise to taste. Taste is a consciousness. Touch is a consciousness. The body and the contact with the body is touch consciousness. And so, part of what we practice in Anapanasati, right from the very beginning, is to bring our consciousness out of the mind consciousness or thought. Into the here-now consciousness of the senses, to become aware of the body, become aware of the feelings, of the sensations of the body, to become aware of the rising and the falling, to become aware of the sensory contact, our posture also. In fact, in the Mahasi Method, they have the little poem: rising, falling, touching, sitting. This is exactly correct. Rising of the breath, falling of the breath, touching the floor and touching the cloth and all of the touch input with the body, and then sitting is the proprioceptive, that when your eyes are closed, you know what posture the body is in. You know whether you're slumping or not, you don't have to look in a mirror to see if you're slumping, you can feel it. That feeling of it is the sitting. Rising, falling, touching, sitting is all about the body. Here now, while the eyes are closed and nothing is going on, you're in a silent room, it's probably a darkened room, and there's no input coming in from the eyes or the ears, we're not eating food or chewing gum, we're not having a Tic Tac, and so there's no flavor, and the only thing that's left is the sensory input from the body.
+
+**Speaker B:** Yeah, the Could you call that like kind of like direct experience?
+
+**Speaker A:** That's why we talk about Sati at the point of mindfulness for bringing in the breath and bringing out the breath. So we want to have Sati with that long deep in-breath and Sati with that long out-breath. So we're intentionally creating Sati. I remember. I remember, I remember, I'm not going to let the mind go wandering away. I'm going to sit here and practice remembering. I'm going to remember to be here now. Any thoughts that come to mind are going to be very wholesome, happy thoughts. Wow, this is nice, no place to go and nothing to do. I feel really good, everything is all right. Those are the kind of thoughts. And when the thoughts come that are unwholesome, then we can use the phrase that the Buddha used was, "Aha, I see you, Mara. Aha, I see you." Okay, because even that's joyful. Ah, I caught you.
+
+**Speaker B:** Yeah.
+
+**Speaker A:** And then we come back into joyful pleasurable, happy, nurturing kind of thoughts. So going back to that point about critical, is that ordinary world, the ordinary right view, the world of the ordinary person, is a world of criticism, rights and wrongs, and goods and bads, and that kind of thing, with punishments and rewards, And that the change of reference that we make is from criticism back into nurturing, the way that a mommy would nurture a baby, that she's not going to fuss or hit the child because the child does a poopy. But if the child is an adult doing a poopy in his pants, that's a really big no-no, you see. But for a baby who's just newborn, a couple of days later, they're actually looking for that first little turd. Or sometimes they're big ones, the first one's enormous. So, at that stage of life, everything is good, everything is nurturing, there is no criticism. And we need to be able to get our mind back into that state, into a state of nurturing, into a state of no criticism. Into a state of not responding to things. Things don't impact us the way that they did, and when it impacts us, we are wise to the feelings that arise so that we can manage those feelings. So this is how Paticcasamuppada fits directly into the practice of Anapanasati and directly into the Eightfold Noble Path. They're divided up so that we can speak about them and talk about them, but the basic skills we need are listed in the Eightfold Noble Path, and then they're presented as enlightenment factors once we have unremitting mindfulness. That's the Sambojana. And the way that we practice the Eightfold Noble Path is through Anapanasati. But we're also in the practice of Anapanasati, we're looking at it from the perspective of the sequence of events in the mind of these fires that are burning in Piti to Samuppada, so that we can decide where we're going to put the fire out by robbing it of its fuel. Let's give some new fuel, let's not give unhappy fuel, let's give happy fuel. We spend our time nurturing with the idea that everything's going to be all right. You're a winner, you can handle this, everything is fine. But it needs to be practiced over and over and over again. Why? Well, look at this this way: how many thoughts have you had in the past 15 or 20 years of critical thinking, critical thoughts? And now we're going to start having nurturing thoughts. But the critical thoughts are the habit. And so, we have to change that habit. This is where Sati comes up, to remember, to remember, to remember. And the first place to look is look at what's happening, look at what's contacting you, look at how you're feeling. If that's unwholesome, then let's change it.
+
+**Speaker B:** Okay, I understand.
+
+**Speaker A:** Great.
+
+**Speaker B:** Great.
+
+**Speaker A:** Good. Anapanasati in the sutta says that the practice of Anapanasati is a great fruit. Uh-huh. So of enormous benefit to practice this way.
+
+**Speaker B:** Yeah, it is.
+
+**Speaker A:** So we'll finish now, and you go off and you, you put this into practice. This is the the right way to practice. And, and this is actually very good. I'm glad that you called about this. That's why I asked you the question, how are you practicing? Because now I've gotten it completely spelled out. This is exactly how we're going to practice. Okay, see you.
+
+
+### Summary
+
+This Dhamma talk, led by Dhammarato (Speaker A) with Sangha friends, centers on the crucial teaching of **"mindfulness at the point of contact,"** as emphasized by the late Thai teacher Bhikkhu Buddhadasa. The core idea is that wisdom (*paññā*) must be applied at the very moment sense impressions "contact" and are processed by the mind, to prevent the automatic arising of *dukkha* (suffering/stress).
+
+Here is a structured summary of the key points:
+
+### **1. Central Teaching: Mindfulness at the Point of Contact**
+*   The critical practice is to be mindful and wise **at the instant** a sense impression (sight, sound, thought, etc.) is recognized and internalized. This is where feelings (*vedanā*) arise.
+*   If we are not mindful here, we react instinctively, leading to a chain of suffering (*paṭiccasamuppāda*, dependent origination).
+
+### **2. The Three Types of Feelings (Vedanā)**
+Feelings that arise upon contact are not simply "pleasant, unpleasant, and neutral." They are better understood as:
+1.  **Liking** (*sukha*)
+2.  **Not Liking** (*dukkha*)
+3.  **Mixed/Uncertain** (*adukkhamasukha*): This includes confusion, doubt, and indecision ("I don't know if I like it or not").
+
+### **3. The Chain Reaction of Suffering**
+Without mindfulness at the point of contact, feelings automatically lead to craving/aversion:
+*   **Liking → Wanting (Greed)**
+*   **Not Liking → Rejecting (Ill-Will)**
+*   **Mixed/Uncertain → Confusion & Fear**
+This craving/aversion is the "fuel" that ignites the fire of suffering, leading to clinging, becoming, and rebirth in a woeful mental state (anger, fear, sadness).
+
+### **4. The Role of Perception & Internal Reality**
+*   What "contacts" us is **not raw reality**, but our internal mental representation (*saḷāyatana*)—a construct built from sensory input filtered through memory and recognition (*nāmarūpa*).
+*   Example: We see a "tree," not just visual data. This labeled perception is what we react to.
+
+### **5. Practical Application & Similes**
+*   **The Cow Pie:** Don't notice suffering *after* you've stepped in it (reacted). See it coming *before* you step (be mindful at contact).
+*   **The House Fire:** *Paṭiccasamuppāda* is like a fire spreading from fuel to fuel (consciousness → contact → feeling → craving, etc.). By removing the "fuel" (e.g., with wisdom at the feeling stage), we stop the blaze of suffering.
+*   **Ajahn Chah & Ajahn Sumedho:** The wise response to a beautiful sight is, **"I like it, but I don't want it."** This separates appreciation from craving.
+
+### **6. Connection to Formal Practice (Ānāpānasati)**
+*   The practice cultivates the skill of "waking up" quickly. We train to:
+    *   Notice unwholesome thoughts (leading to greed, ill-will, confusion) and replace them with wholesome, nurturing thoughts.
+    *   Anchor awareness in the present body (breath, touch, posture) to stay out of discursive thinking.
+    *   Shift from a **critical mind** (judging good/bad) to a **nurturing mind** (accepting, calm, kind), akin to a mother's care for an infant.
+
+### **7. Key Takeaways & Warning**
+*   **Wisdom at Contact:** The ultimate skill is to manage feelings as they arise, not be controlled by them.
+*   **No Inherent Good/Bad:** Things (like arsenic) are not inherently good or bad; their value is assigned by our mind based on past conditioning. Wisdom sees this emptiness.
+*   **The Trap of Desire for Desirelessness:** Don't crave the state of "not wanting." This is just another form of craving.
+*   **It's All in the Present:** The past only affects you if you let it. The cause of suffering is the craving ignited **now**, at the point of contact.
+
+**In essence:** The entire path is about speeding up mindfulness to intercept the automatic chain of suffering at its weakest link—the moment a feeling arises from contact. By applying wisdom there, we can choose a nurturing response, rob the fire of its fuel, and abide in peace. This is the profound, non-magical, cause-and-effect logic of the Dhamma as taught by the Buddha and highlighted by Bhikkhu Buddhadasa.
+
+### Metaphors and Stories
+
+Based on the transcript, the speaker uses several **metaphors** and references a few **stories** to explain complex Buddhist concepts, particularly the teaching of "mindfulness at the point of contact" and *Paticcasamuppada* (dependent origination).
+
+### **Metaphors**
+
+1.  **The Cow Pie / Stepping in Dung:** This is used to illustrate the need for timely mindfulness. You don't want to notice the cow pie *after* you've stepped in it (i.e., realize suffering after it's arisen). You want to see it *before* you step (be mindful before unwholesome mental states lead to suffering).
+
+2.  **Fire and Fuel:** This is a central and extended metaphor drawn from the suttas (specifically MN 38). Consciousness and the process of dependent origination are likened to a fire that requires fuel.
+    *   A fire is known by its fuel (e.g., a grease fire, electrical fire).
+    *   Similarly, the "fires" of suffering (greed, ill-will, confusion) require the "fuel" of unwise attention, craving, and clinging.
+    *   The chain of *Paticcasamuppada* is like a house fire spreading: one event (fuel) ignites the next. If you remove the fuel at any point (e.g., with mindfulness), you stop the entire blaze of suffering.
+
+3.  **The Warrior / Stage Fright:** This metaphor describes the "mixed" or confused feeling (*adukkhamasukha vedana*).
+    *   A warrior is "all dressed up for battle and fit to go, and yet afraid to go." This represents being prepared but paralyzed by doubt and confusion.
+    *   This is compared to a student ready for a debate but afraid to go on stage, or a child with stage fright—the potential for both liking (the performance) and not liking (failure) creates a stuck, suffering state.
+
+4.  **The Politician's Answer:** Used to illustrate the need for quick, wise mindfulness at the point of contact. A sharp politician has a ready answer or diversion for a tough question (wisdom in action), while a new one hesitates and falters (the mind succumbing to confusion).
+
+5.  **The Janitor on Stage:** Contrasts the experience of the same sensory contact (an audience) based on mindset. A janitor cleaning the stage ignores the 500 people; they are just "scenery." The performer, with a different mindset, may experience stage fright. This shows that suffering arises not from the contact itself, but from our internal relationship to it.
+
+6.  **Nurturing Mother vs. Critical Society:** This is a dichotomy used to describe two modes of mind.
+    *   **Critical Mind:** The habitual, ordinary world view of good/bad, like/dislike, reward/punishment. It's the mode that leads to suffering.
+    *   **Nurturing Mind:** Like a mother caring for a newborn, it is accepting, non-judgmental, and supportive. The practice aims to shift the mind from the critical to the nurturing mode.
+
+### **Stories & Anecdotes**
+
+1.  **The Story of Ananda and the Buddha:** The speaker references the background story from the *Maha-Nidana Sutta* (DN 15). The Buddha tells his attendant Ananda that the teaching of dependent origination is too profound for him because Ananda still secretly held "eternalistic beliefs" (the idea of a permanent soul). This story sets up the danger of misunderstanding these teachings magically or metaphysically.
+
+2.  **General McClellan and General Grant (Historical Anecdote):** Used as a real-world example of the "warrior" metaphor. McClellan trained the Union army but was afraid to commit it to battle (doubt/confusion). Grant took the same army and acted. This illustrates how the "mixed feeling" of doubt leads to paralysis and inaction.
+
+3.  **The Anecdote of Ajahn Chah and Ajahn Sumedho:** A short, pointed story from the Thai Forest Tradition. At a festival where young women were dressed up, Ajahn Chah noticed Ajahn Sumedho looking. When questioned, Sumedho replied, **"I like it, but I don't want it."** This is presented as the perfect example of "wisdom at the point of contact"—acknowledging a feeling (liking) without letting it escalate into craving and clinging (wanting).
+
+4.  **The Example of Arsenic/Cyanide:** While not a narrative story, it's used as a **conceptual illustration** to deconstruct inherent "good" and "bad." The poison is not inherently evil; its value depends on context and intention (used in transistors vs. used for murder). This demonstrates how our labeling (*nama-rupa*) creates the "reality" that contacts us and triggers feelings, not the thing-in-itself.
+
+**In summary,** the speaker uses **metaphors of immediate, sensory experience** (cow pies, fire, stage fright) to ground abstract philosophical concepts. They use **stories and anecdotes** from the suttas, history, and monastic life to provide concrete examples of the principles in action, emphasizing the practical, non-magical application of the Buddha's teachings on mindfulness and dependent origination.
+
+### Connect with Dhammarato and Sangha Friends
+
+☸️ **Dhamma Friends Discord** — [Join our Discord](https://discord.com/invite/kmQUUJysZJ)
+Join our Sangha on Discord and please send a friend request to Dhammarato
+
+🌐 **Open Sangha Foundation** — [opensanghafoundation.org](https://opensanghafoundation.org/)
+Connect with friends, teachers, and explore places to visit and stay
+
+▶️ **Youtube** — [Dhammarato Dhamma - YouTube](https://www.youtube.com/@DhammaratoDhamma)
+Videos of Sanghas and One-on-One Calls
+
+🎧 **Podcast** — [Podbean](https://dhammaratodhamma.podbean.com/)
+Find our content on Spotify, Apple Podcasts, and more by visiting Podbean
+
+📧 **E-mail Dhammarato** — dhammarato16@gmail.com
+Please put name, age, location and practice info when sending an e-mail

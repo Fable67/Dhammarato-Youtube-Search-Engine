@@ -1,0 +1,503 @@
+---
+layout: post
+title: "Dhamma Friends Discord 2 06 18 24"
+pubDate: 2024-06-18
+author: Dhammarato
+categories: [transcripts, Dhamma Talk]
+tags: [transcripts, dukkha, anapanasati, sati, samadhi, vipassana, anatta, anicca, nibbana, sankhara, vedana, metta, karuna, sila, jhana, sangha-us, one-on-one, brahma-viharas, noble-eightfold-path, sense-restraint, craving, clinging, disenchantment, dispassion, relinquishment, liberation, impermanence, unsatisfactoriness, non-self, satisfaction, happiness, meditation, mindfulness, seclusion, detachment, duty, nature, oral-tradition, beliefs, refuge]
+image: "https://i.ytimg.com/vi/LW2OHXjYmjo/maxresdefault.jpg"
+description: "Transcript of June 18, 2024 Dhamma Talk with Dhammarato and Friends"
+featured: false
+hidden: false
+toc: true
+assemblyai_transcript_id: 6ee96f06-ab7f-40a1-b425-4cee1d700715
+---
+
+## Dhamma Friends Discord 2 06 18 24
+
+### Video
+
+
+<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/LW2OHXjYmjo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+
+
+### Transcript
+
+
+**Speaker A:** So yeah, tonight is the Monday evening in the US Sangha Discord hangout. I think it's early morning in Malaysia where Ivan is, so that just gives you two points of reference for time zones. Looks like it's later evening on the East Coast where Brett's hanging out. We've got a good group of people here today, and this is an open conversation. Anybody can talk or contribute or ask a question or ask for clarification on anything that anyone says at any point. So we're just here as friends enjoying talking about the Dhamma. And just to start out today, the question that came up from Ivan was just more so a topic, which is sense restraint. And I think this is actually a great topic to discuss, especially in this particular Sangha, because Dhammarato, he has a very direct approach. He reminds us that of all the things that the Buddha talked about, he talked about many, many things. He talked about Metta, he talked about Jhana, he talked about, you know, different levels of attainment thresholds and practice to look back and see what fetters we've given up. He talked about all kinds of things with different audiences in different contexts. But when pressed to take a position on anything, the Buddha always, always said that he doesn't take any positions and that there's only one thing that he teaches, which is Dukkha, Dukkha, Nirodha. And Dukkha is, you know, fundamentally any disturbance of the mind. And we think of that here mostly as dissatisfaction. So it's all about dissatisfaction and the ending of dissatisfaction. Everything the Buddha taught is about bringing this perpetual cycle of dissatisfaction that drives all of human life to an end. So it's very radical in that way. Everything that we do, everything that we think, everything that we feel, everything that we believe is driven by this unconscious cycle of dissatisfaction. And so Dhammarato tells us that we can basically consciously just break that cycle and choose to be satisfied here and now, which is the antithesis of dissatisfaction. And this confuses people sometimes. There's always a lot of resistance. There's always a lot of, well, what about this? For me personally, it was like, what about all the stuff it says in the suttas? What about Nibbana? What about the Jhanas? What about the Four Path, you know, attainments and all that stuff? For others, it's, well, what about politics? What about social activism? What about these personal things in my life? What about this feeling of being a victim? What about all of these bad things that have happened to me. And these are all just different mutations of craving, all different mutations of wanting things that we don't have, wanting to get rid of things that we don't like, feeling unsure and confused and fearful about things that we don't understand, having questions that need to be answered. These are all just different forms of craving, shape-shifting, in order to keep the mind in a perpetual state of dissatisfaction, keeping the mind off balance, keeping the mind in a state of disharmony. That word Dukkha etymologically referred to, in the Buddha's time, an axle that didn't quite fit its wheel. So the wheel would shake around the axle, and that Dukkha, that disturbance, would reverberate through the whole chariot. It would make everything unstable. So that's the etymology of the word Dukkha. It's this fundamental disturbance of mind, and its cause is always craving, the unconscious drive to want things that we don't have, to want things that are pleasing to the senses, to not want things that are uncomfortable or displeasing, to feel confused or unsure about what is neither pleasant or unpleasant, and to seek distraction, to get into doubt and confusion and uncertainty and fear about that neutral feeling. So this is what drives the mind around. These are all the different ways that we're dissatisfied. Our personalities are built on this. The world is built on this. Our sense of self is built on this. And so Dhammarato's teaching is to break out of this cycle. We just see it. We take a look. We see the dissatisfaction we have, thoughts about the past, thoughts about the future, delusions about the present. And everything that makes us feel like things aren't already okay, and we choose to just throw that all out, you know, just rip it out of the mind, chase it out like a lion, right? Roar at it, get it out of there. I see you, Mara. Take all that dissatisfaction, all those unwholesome thoughts out of mind, get rid of it, and make a conscious choice to just be in a state of satisfaction, to break that cultural narrative that You can't get anything without earning it. No pain, no gain. Those who can't— don't work, don't eat. Meaning happiness doesn't come for free, right? We have to like get things to be happy. We have to do things to be happy. We have to achieve things to be happy. We have to become someone or something great. But that's one way of thinking about the Dharma. True happiness is completely free. Did you ever have that, Brett?
+
+**Speaker B:** Briefly, just, yeah, all this is wonderful. Where does training the mind fit in this framework?
+
+**Speaker A:** Right, so essentially the point I was getting to here is that we resist this idea that we can just choose to be satisfied. And then also we misunderstand the word satisfaction to be like, okay, everything's okay already as it is. And we hear that we can just sort of go with craving and indulge our senses, right? But the Buddha, the Buddha talks about, he talks about the Dhamma, and he talks about the world. And when the Buddha talks about the world, he talks about the world as being— he calls this phallic mind. So essentially what he's saying there is that the world is a construction of this organism, the senses and perception, cognition. Essentially, we construct the world within our own minds. So that's what the world is. And in order to come to understand that the Buddha teaches sense restraint. And I see the practice of being satisfied with the way things are is not being satisfied with, like, the guys with what we call the world, but being satisfied with the way things are apart from chasing after pleasures and running away from pains, like breaking that cycle and being satisfied getting off the wheel, essentially. It's a choice to— it's a gradual training, a gradual process of letting go. So, you know, we do this on gross, gross levels. When we're young, we always want to go out with our friends. We get into our 20s and we want to go out drinking. And then as we get older, we don't want to go out drinking anymore. We want to stay home and be with our family. Maybe when we're old, we're content to just sit and read a book, and then eventually we're content to sit on a rocking chair and just look at the landscape, right? So there's a gradual process of letting go, refining the senses, but that's still, you know, in the mundane sense. In terms of the Dhamma, your sense— the purpose of sense restraint is to sort of shine a light on where this dissatisfaction hides within us. It's only when we choose not to indulge some kind of craving for sensuality that we see how it's controlling us. Of a drug addict going into Anapanasati, that the substance has kind of taken over their lives and all of their thoughts, feelings, emotions, friends, everything is feeding that narrative that keeps them there. But then when they go and they try to live without it, they see how it's controlling them. And all of us, you know, all of our TV, Netflix, or whatever it may be. And it's only when you sort of cut these things off, you go into seclusion, maybe you go and you sit in an empty room in your house, you don't turn any screens on, you don't, you know, you don't go on the internet, you don't listen to music, you don't read a book, whatever. And then you start to see how the mind begins to get restless. The mind starts craving. The stimulation of senses. This is kind of a popular thing. They call it dopamine fasting. But that's the purpose of sense restraint. It's to sort of reveal where the mind is addicted and then to eventually see how the craving for these things itself is impermanent. It fades and it reveals that unconditioned happiness that kind of lies underneath it all. And I would say that's the same thing as being satisfied with things as they are. It's not, oh, I'm going to go and and do everything that I crave. It's I'm going to realize that I don't need it. I'm happy without it.
+
+**Speaker B:** So then what has emerged, what has become emergent here then is the retreat model in terms of seclusion. And if we're alone with our conditioning, if we're alone with our propensities that have built up over time, of constant stimulation of the senses, then there's time then for that detox effect to occur. So we've, again, we've seen the Titthavasuddhi or the purification of mind, allowing the mind to go quiet and feel perhaps the first time the oppression of those Dukkhas, of our Samskara, of our tendencies. To these addictions. So it looks like then we've reintroduced then the possibility for noble silence and the rest.
+
+**Speaker C:** I have something to say. So something, just speaking from my practice, it has been really wonderful every time when I meditate I find it so funny how my mind can shift so fast. Like when I'm meditating, suddenly there's a craving, oh, I want to check what's— have that person reply me back. You know, the mind can come up with all sorts of things to shift you away to like, hey, you know, it's okay, just look at it, you can meditate, you can come back and sit and meditate. But then as you resist and you resist, suddenly that desire just goes away. In fact, I suddenly had the desire to just— I wish I could sit longer. Like, hey, I don't want to move. So I'm just wondering how— I find it funny how quick the mind can shift. Do you have any thoughts on that? Yeah, I don't know. It shifts so quickly.
+
+**Speaker A:** Yeah, I think all of us here— some of us have no background in Buddhism, some of us have different backgrounds, and Anagami, Arhat, and I all have histories, as well as the people I just mentioned, with Buddhism. But for me, I can say that much of what I've developed in the Dharma It was sort of like Dhammarato added the missing piece, right? And that missing piece was satisfaction. So like you just mentioned, Ivan, you'll be sitting in meditation, the mind will go into withdrawal, right? When you— because meditation is a sensory detox, it's a detox from our addiction to stimulation, a proper seclusion practice. To sensory stimulation. And then you'll notice that even the craving and the withdrawals and all that Dukkha that you're experiencing, even that itself is impermanent. Then the mind will stillness. And then in the next, you'll think, oh, I wish I could keep this stillness forever. You know, how can I hold on to this? Or whatever, some doubt or some form of dissatisfaction will immediately arise to disturb that state, right? Because Dukkha is any level of disturbance. And so imagine when you're not in seclusion and you haven't discerned this behavior of the mind, how ever-present your behavior, your thoughts, your feelings, your emotions, your actions are being driven by this perpetual undercurrent of dissatisfaction, of distress. And so it can change so fast. You know, the Buddha once said that the mind, that if one was to actually choose to identify something as self, they would be better off identifying the body as the self, because the body appears to be the same over the course of years from birth to death, you know. It changes gradually and slowly, but the mind is a different mind from one moment to the next, from when you wake up until you go to sleep. You wake up with one mind and go to sleep with a different mind, right? And I don't know if it's the same sutta or a different sutta, but he talks about— yeah, I think it is the same sutta— he says the mind is like a monkey swinging from branch to branch. And what that illustrates is why doesn't the monkey settle on one branch because it's not satisfied. Every object the mind picks up, as soon as it picks up, it becomes dissatisfied and it changes. And Ajahn Buddhadasa talks about how if you pay attention to the mind, you can see that first arises desire and then arises a desirer. So the mind creates an object of desire, desires it, and then the one who desires that object arises in order to carry out the activities necessary to obtain that object. And as soon as the object is obtained, that self that was fabricated in order to get that object dies, essentially. And then a new object of desire is fabricated immediately. So this is the cycle of Samsara that's happening inside of us all the time. It's a constantly fluctuating— it's constantly fluctuating mental states that appear to be the same because the function of memory glues it all together. It seems like the same mind from one moment to the next. And this is something that if you can discern— the Buddha calls it, you know, seeing the sign of the mind, the Citta Nibbana— if this is something that you can discern, the nature of the mind, the behavior of the mind, it leads to disenchantment. You become disenchanted by the mind, because the mind is the thing that we've identified as the self, you know, apart from the body, for a very, very long time. The Buddha says that what we call the mind is that which we've identified as ourselves for a very long time. But when you see that it's a constantly changing mutant with its own nature, its own drives, it's like a wild animal You know, it's running around in the dark, going after one thing after the other, and we're constantly being born into this cycle, and it's unsatisfying. We've already seen that it's impermanent, and it's not us, it's not in our control, we can't possibly own it. And that's what leads to disenchantment. That's why the Anapanasati Sutta is a full illustration of the gradual training. You know, you come to understand the body and the nature of the body. You understand the feeling and the nature of feelings. You understand the mental states and the nature of the mental states. And then you get to that fourth tetrad, and the first step of that fourth tetrad, that group of four, the fourth group of four, is the perception of Anicca, or impermanence. And built within Anicca is non-ownership, is the unownability of the body and the mind and the feelings and all of these things, even the jhanas, everything. And right after the perception of impermanence, step 14, is nibbana, right? Disenchantment. The illusion gets broken that this is me, that this world that I perceive, that the self that I perceive is a solid real thing that endures. You realize it's not. It's a conditioned arising, and everything that arises due to causes and conditions is impermanent, unsatisfying, it's not controllable, it's not worth holding on to. And then after that, and then the 15th step of Anapanasati is dispassion, or cessation. It's like you lose interest in it. You're like, I don't want this anymore, you know, it completely loses its hold on you. And then the 16th step is relinquishment. That's when you just give up the ownership. You just, you fully, fully understand, you fully see that it's not ownable, that, that this experience that we're having right now is founded upon the body and the mind, which are of their own nature. The body and the mind are themselves unownable. And if my whole sense of self and my whole sense of world comes out of that body-mind complex, that my sense of self and world are also by, you know, they're not ownable either, right? Um, and so that's what leads to that full disenchantment, dispassion, relinquishment, giving it all back to nature, as Buddhadasa says. And then that lifts the burden off your shoulders, this whole everything that we're carrying, right, is lifted off your shoulders. And that, and that, and then that, that, and the Anapanasati Sutta goes through the 7 factors of awakening, which really arise from being free, right? You know, it's, it's like, um, I'm not gonna list them all, but you know, it's like Piti, Sukkha, Pamoja. Um, so that's a lot of really good happy feelings that then clarify the mind so that you can see reality as it is, Dhamma Vichaya, right? And then seeing the reality as it is, which is not the world that's constructed but the things as they are, then that's sort of the vision of the Dharma that arises right there. And the way I like to illustrate this is, you know, I don't even have to say this because this group, I'm sure has, but I'm sure everyone here knows the game Pokémon Go. Have you guys played that?
+
+**Speaker D:** Yeah, I played that.
+
+**Speaker A:** So yeah, I remember I never really played Pokémon Go, but I remember when I heard about it, people talked about it being an augmented reality and I was like, what does that mean? And it was explained to me that when you look through your phone, when you're playing Pokémon Go, you're seeing like the room you're in, but there's Pokémon there. So the interface of Pokémon Go is augmenting the reality of the room and adding Pokémon to it, right? So this knowledge and vision of things as they are sounds really profound and epic, but it's actually sort of the way I like to illustrate it is that you see that that this process of perception under the condition of ignorance with the agent of craving is augmenting reality. It's adding all of the problems that we perceive, all of the judgments that we hold, all of the liking and the disliking, our sense of self, our sense of world. It's all being augmented onto reality. And so I like to say that problems are like the Pokémon. And when you see that the problems are like Pokémon, you realize that they're not really there. They're part of the process of perception. They're fabricated by craving under the influence of ignorance. So that's the knowledge and vision of things as they are, you know. And that leads, you know, to the fruition of knowledge of the path and then liberation, at least in that structure there. Would you, would you, um, Ivan, the thoughts that you're having right now, and as Ajahn Chah says, whatever you're holding on to right now, that's the Dhamma. And he also says, he pointed out his wat, he said these cracks are the Dhamma. What is he trying to say? He said without these cracks there wouldn't be the Dhamma. What he's trying to say is that the cracks in the wat are telling us, you know, speaking to us about impermanence. And the things that we're holding right now are teaching us about the Dukkha that arises from clinging. So whatever it is that you're holding on to right now, that's what you have to put down. And if you were to see what you're holding, what the mind is holding on to right now, in the same way that you see a Pokémon through the interface of Pokémon GO, then you wouldn't take it so personally. You would say, oh, it's part of the interface. In the same way that when you see the Dharma you see that these problems, these creations of the mind, are part of the interface of the body, the mind, the body and the mind, the process of perception, as I like to call it that. I used to call it the narrative construction of reality because I was an English major. But whatever you call it, you know, it's an interface. And you can see that, that, that it's all part of the interface. And so it's hard to take seriously when you see it that way.
+
+**Speaker E:** Michael.
+
+**Speaker F:** Sorry, Ivan.
+
+**Speaker C:** No, go ahead, go ahead, go ahead.
+
+**Speaker E:** Yeah.
+
+**Speaker F:** Hey guys.
+
+**Speaker A:** Hey.
+
+**Speaker F:** I have a question, Michael. You say give it back to nature. Would you also call nature God?
+
+**Speaker A:** I don't, I don't have a problem with that.
+
+**Speaker E:** We're Buddhist, we don't talk about God.
+
+**Speaker F:** No, but you know, nature can also mean the instinct, you know. If you say back to nature, you could mean like becoming more like an animal again. But if you say give it back to nature and yeah, things sort of flow, you know, um, well, in a more wholesome way, more harmonious way. Then you sort of have to almost imply that there's something else going on here, you know?
+
+**Speaker A:** Maybe not. Before I respond to that, I see Brett wants to say something. Go ahead.
+
+**Speaker B:** I just wanted to throw the tiny thing is that it may just mean to allow the possibility to let go without forcing. Letting go, and it's going to go back to nature because nature is all there is.
+
+**Speaker A:** Yeah, it depends on what the word nature refers to for you. Um, for me, nature's always, you know, I, I came into a lot of these ideas that I'm sharing now at a very young age, and then I encountered Buddhism later in my life and then clarified my understanding of different things through the Dhamma. But for me, since the beginning, nature's always been the word that I've preferred. And so when I talk about nature, I'm talking about the way things are. And the person— like, I personally think that one of the best Dhamma satellites, conveyors of the Dhamma since the Buddha, is Ajahn Chah. Because every, every Dhamma teaching that you listen to is very, um, I don't want to use the word hung up, but they're very concerned about wording things in the way that they like to word them and whatever sort of conceptual framework that they have found to be useful. You know, Bhante Punyaji likes to use the dictionary of philosophy and psychology to translate Dharma terms. You know, Ajahn Yanamoli uses an existentialist phenomenological framework based on Yaniverana's teachings on the Dharma to convey his Dharma. And there's a whole bunch, right? There's a whole bunch of really skilled teachers out there who talk about the Dharma. But just like what's happening right now and what you're saying, Kim, it all depends on what the words that we're using are actually referring to. And some of us, some of us can listen carefully and hear how different teachers, even sometimes from different traditions— I hesitate to say that just because I've gotten into some interactions with Buddhists online who would invalidate everything I have to say just for saying this— but even, you know, teachers from different traditions, you can hear that what they're saying is referring to the same Dhamma, you know. Which for me, I haven't seen a problem with that. But so when you talk about— when you— I don't want to go on a tangent about that. The point I was making about Ajahn Chah is that if you listen to Ajahn Chah, he's always referring to direct experience. He doesn't really— he doesn't really care about the conceptual framework. His words really refer directly to the meaning he's referring to. For me, I mean, it really just resonates so strongly. And when Ajahn Chah speaks about the Dhamma, and so I think that's why his Sangha has grown so prolific, right? Because really Ajahn Chah was a student of Ajahn Buddhadasa, but the language he used had more universal appeal, and he also put more energy into building Sangha. But when you talk about whether or not we can call nature God, if I'm just to try to get to the point here, when I said give it back to nature, for me that resonates. Ajahn Buddhadasa talked about that, and the way that Ajahn Buddhadasa and Ajahn Chah talked about nature is the way things are. Right, in their own nature, unfabricated, right, unaugmented. So that's kind of what they mean when they talk about nature. That's what I mean when I talk about nature. When you sort of, you know, get through all of the ignorance and craving, fabricated stuff that we add to reality, uh, just the way things are, that's what I'm talking about. But if you— if— and if you want to call that God, because, you know, nature is the true owner, right? Nature is the true owner of this body, mind, and experience. If you want to call that God, that's fine. The only thing is, is that if, if, if it's personified in any way, then it wouldn't necessarily fit within a Buddhist framework. That's the best way I can say it. Um, yeah, so I'll leave it at that.
+
+**Speaker G:** I've been influenced by different spiritual traditions, but I know that they all kind of have their own way of looking at things and so on. And I realized, well, I've been practicing mindfulness in a sense for like 20 years, but I never really associated or hung out with Buddhists because there aren't really Buddhist temples around here, you know, too much. But I've been influenced by, you know, Buddhist writers and so on for like 20 years or something like that.
+
+**Speaker A:** Yeah, Ajahn Buddhadasa felt that the Dhamma as well as— I mean, Ajahn Buddhadasa was not— so Buddhism's been criticized rightfully by people for being exceptionalist and for being What's the other word that's used? I can't remember. But essentially, like, Buddhists tend to believe that, you know, that only if it came from the Buddha is it the Dhamma. He's the one who discovered it, right? You're not going to find the Noble Eightfold Path or the Dhamma in other traditions. So it's exceptionalist in that way and a bit hierarchical. Um, but Ajahn Buddhadasa did not have that problem at all. He, at the end of his life, taught that we got to the core of all religions, that we would understand the same Dhamma, at least the way he saw it. Sometimes, you know, when you see the Dhamma, you see it in everything. So maybe he saw the Dhamma in all traditions, but he really liked to talk about Genesis, um, you know, the first few chapters of the Bible, um, being a great, like, one of the best Dharma teachings, right? So, you know, Adam and Eve are running around in, in paradise in the Garden of Eden. They don't know they're naked. They don't know. They, they don't have no sense of self. They have no sense that they're naked. They have no sense of there being problems, right? Um, everything that they need is right there. God's like, I gave you the herbs, you can eat that. He said, don't eat of the fruit of the tree of the knowledge of good and evil. Um, which that whole phrase is important to understand in order to understand what's being said there. And then when they ate of the fruit of the Tree of the Knowledge of Good and Evil, the first thing that happened was they realized that they were naked. They started covering themselves up. When God came to look for them, they started hiding. He said, why are you looking for me? They said, because I'm naked. He said, how do you know you're naked? So then he knew they ate, and then he kicked them out, right? So I'm just going to go through that quickly. But what Buddha also said about that story is that it's one of the best Dhamma teachings because The fruit, which is the result, the consequence of the tree of the knowledge of good and evil, that means judgment, you know, seeing things as good and bad, beautiful and ugly, pleasing or displeasing, all of these binaries that we create is what destroys paradise. It's what destroys the world, essentially. And that's how he read the Garden of Eden. And, you know, what Adam and Eve experienced when they ate the fruit of the Tree of Knowledge and Evil is the birth of selfishness. And so Ajahn Buddhadasa really believed that the Dhamma is about uprooting and extinguishing selfishness, and he believed that every religion had that same purpose and same goal. And then he eventually got to the idea that we can go above and beyond good and evil and eventually end up at a point with what he called no religion. And this is what distinguishes true Dharma from the way most Buddhists practice and the way most religions are, which is that there's no sort of last thing to hold on to in the Buddha-Dharma. There's no like final ground to stand on. It's a gradual process of letting go, letting go of my narrative sense of self, letting go of my sense of ownership of this body, letting go of the sense of ownership of the thoughts, the feelings, the emotions, letting go of the likes and the dislikes, the preferences, the judgments about what's good and what's bad, letting go of doubt, letting go of rights, rules, and rituals, letting go of craving and ill will, letting go of attachment to the Jhanas, letting go of attachment to the Dhamma, letting go of the thought I am that divides self and other and world, letting go of ignorance. And when everything is let go, when there's just— when the letting go is complete, what's left is what's left. And so it's just what's left. He doesn't give it a name, whereas other traditions that have come close to this, they give what's left a name. But once you give something a name, it is objectified by the mind, and it's grasped, and it's grasped to and clung to. Right? So it's just, it's still anything that is objectified is fits within that broad insight that Alara Kamma had. All things subject to arising are subject to change, subject to degradation, right? So even the concept of pure consciousness, or the concept of God, or the concept of Nibbana as a concept, even anything that that the mind can give a name to and attach a mental image to, which is what nama-rupa means— it means name and image— is a fabrication, and therefore subject to the three characteristics of Anicca, Dukkha, and Anatta. So Buddhism is really about gradually letting go at a pace that's comfortable for you until there's nothing left to let go of. So about.
+
+**Speaker F:** That idea that all religions eventually lead to the place of no religion, there was actually in the West, we have some philosophers like Nietzsche who he actually already saw that like Jesus and the Buddha both were not religious at all, that Jesus was not religious. And Nietzsche, he proposed that—.
+
+**Speaker E:** Well, I.
+
+**Speaker F:** Have a teacher, I had a teacher who said that Nietzsche actually was the only religious one, because he said this is not enough. Like the Buddha and what Jesus and the Buddha are doing, that's that's all fine, a way out of suffering, but what we actually need to do is get back into suffering and sort of fabricate again. So he said Jesus didn't live long enough to see that emptiness is just like empty and we need to, yeah, and the end of history, you know, we need to get back in, we need to do some fabricating now. So, and that requires like some kind of God concept. Even in the work of Nietzsche, there's some kind of idea that the universe is fundamentally creative, and we need to sort of surrender to the creative power of the universe and then get these new fabrications going. And that's how we sort of reinvigorate history. And when you see that sort of teachers like Dhammarato for him. I heard like the Guru Viking podcast, um, where— I don't know what the guy, what his name is, uh, the Guru Viking.
+
+**Speaker A:** Um, James.
+
+**Speaker F:** James.
+
+**Speaker A:** Well, he was— his name is Steve.
+
+**Speaker E:** Steve.
+
+**Speaker F:** I asked Steve. Well, he was quite upset.
+
+**Speaker A:** Um, by.
+
+**Speaker F:** The fact that Dhammarato eventually said like, yeah, the Dharma leads to the end of history. Like, um, Like, if everyone did the Dharma right now, society would just sort of collapse, and that's it. And Dhammarato even said, like, what a glorious moment. Everyone is happy. Finally, everything— it doesn't matter if everyone dies. That glorious moment, that's it. And like, there's these Western philosophers like Nietzsche, but also like Heidegger and a couple of others who are in this they say, no, we need to get back into history. And, um, yeah, so that's, that's interesting. I don't know what you say to that, Michael.
+
+**Speaker A:** I, I relate to it a lot actually, because I've gone through a lot of changes in the Dharma recently, and part of it was that I co-taught a philosophy class with my principal, and he taught Nietzsche, and I felt a shiver go through my entire being when Nietzsche said he was criticizing the noble ascetic, right? I think that's what he calls it. And the last line in that chapter was, um, he said something something something something because the will to nothingness is better than no will at all.
+
+**Speaker G:** And I was like, did Nietzsche end up in like an insane asylum?
+
+**Speaker A:** As I recall, he might have been one of the people who got syphilis and went crazy. Yeah, um, and you know, he's right. You know, he was criticizing the ascetic, the religious ascetic, and he was criticizing that what the perceived nihilism of Buddhism, which it's not just perceived, it's not— that's not what the Buddha taught. But a lot of Buddhists are nihilists. Um, so the Buddha was accused of being a nihilist constantly in his life, and he refused it beautifully, if you, if you understand it. But But what Nietzsche saw is nihilism. Buddhism was there. But, but yeah, ultimately, so I was really excited about Nietzsche, but then I asked my, my coworker or my principal about him, and he said ultimately Nietzsche was a romantic, like you said, that he believed like after we deconstruct and take down all of these structures that we have to like follow this will to power, become the Superman, the Übermensch, and, and create something.
+
+**Speaker B:** Yeah, in my opinion, that's just fear, anxiety, restlessness.
+
+**Speaker F:** Well, he was also like a bit of an ego, megalomania type of figure, Nietzsche.
+
+**Speaker C:** He was.
+
+**Speaker F:** But he also talks like— bring it.
+
+**Speaker A:** All down or whatever.
+
+**Speaker F:** He talks like about the final stage of the Ubermensch is actually sort of like become like a child again and play. And he uses the metaphor of the dance. And I also actually heard Dhammarato mention that on some occasion, that we sort of playfully interact with life. But that also implies allowing just a little bit of Dukkha, you know, in order to sort of— I mean, people still go to Thailand and go to a wat, you know. They don't only sit at home. They still sort of go with the flow, do some stuff.
+
+**Speaker A:** So almost— that's the same.
+
+**Speaker C:** Actually, probably.
+
+**Speaker B:** Even more expensive than Lindian mixed driveway.
+
+**Speaker A:** Um, sort of, Andrew, your mic is on unintentionally.
+
+**Speaker G:** I think the idea of noism, it sounds abstract and like— but it has practical use sometimes.
+
+**Speaker B:** No, what did he say for one?
+
+**Speaker E:** I don't know.
+
+**Speaker A:** I should be able to mute his mic, but I'm not sure if I know how. Let's see if I can do it. Oh, there we go.
+
+**Speaker E:** Do it, Michael, do it.
+
+**Speaker A:** I did it. I have power. I muted his mic. Yeah, so this is actually where the conversation has gone, is actually a good illustration of what makes the Dhamma unique. And because Nietzsche is great, you know, and Western philosophy is fantastic. And, you know, whatever else.
+
+**Speaker C:** I see your smile.
+
+**Speaker A:** No, no, because of the point I'm getting to. It's all fantastic. I want to come in. But, you know, it's just one other thing for the mind to pick up and and become interested in and pursue until it reaches the end of— it's impermanent. A lot of times a great way to understand impermanence is not this sort of like, even though I use this perception a lot, like all phenomena are just appearing and disappearing and they're bubbles and foam side of impermanence, but it actually— the really, the emotional, like, experiential side of impermanence is that Your passion is impermanent. Your interest in any idea or object is itself impermanent. Whatever it is that you become obsessed over, that you become identified with, the passion itself is impermanent. You're going to lose interest. So it's not ultimately satisfying. Nietzsche, you think that we're going to be passionate about Nietzsche's ideas until the day we die. Eventually we're going to lose interest. You know, and this applies to everything that we take up as an interest. So what the Buddha is trying to do is trying to get us to stop identifying with, picking up, grasping onto, and investing our lives into things that we're just going to lose interest in. Because the only true lasting happiness is the happiness that is causeless, right? In order to discover this causeless happiness, this unreasonable happiness, You have to train the mind to delight in letting go. The pleasure of renunciation is what the Buddha calls it, because you're always going to have that, right? Things are going to come up and you're going to have to let them go. And if you delight in letting go, then you're always going to be having a smile on your face. This is why a lot of, at least what I believe, a lot of like gurus and advanced monks are giggling constantly. You know, like Buddha, he was always giggling. Why is he giggling? Because every time a thought comes into his mind, he lets it go. It's like, you know, it's, it's a constant letting go. It's, it's, it's a weird visceral pleasure you get in letting go, letting things go, especially when you remember the things that you used to hold on to and you think about them, and then they just go up in a puff of smoke. It used to be a whole mountain, a whole world that you got swept up in, you know, and now it's, it's absolutely nothing to you. Um, my other favorite— oh, go ahead. I think, uh, Mr. Ben, I think Mr. Ben wants to say something.
+
+**Speaker C:** I just wonder, related question, not that.
+
+**Speaker A:** We have an answer, but like, at.
+
+**Speaker H:** The end, if we can let go.
+
+**Speaker C:** Of everything, everything, what would we do?
+
+**Speaker A:** It's hard to hear you with the echo. I think maybe your microphone is too loud or something.
+
+**Speaker C:** Let me change.
+
+**Speaker A:** Is that better? Yes. Yeah, at the end of it, we sort of let go of everything.
+
+**Speaker H:** What would we actually do? Would the world just end or would.
+
+**Speaker A:** We just sit some.
+
+**Speaker D:** Time?
+
+**Speaker A:** This is another popular question. And the reason that question is so popular is because, you know, in traditional polytextual cosmology, we have been driven by craving for endless expansions and contractions of the universe. It's beginningless. We don't have to, we don't have to believe that cosmology if we don't want to, but we certainly can see that the whole of human history, this is true, right? That craving has always been the driving force of all of our ideas, all of our belief systems, all of our desires and fears, all of our personalities. You know, religions are agreed-upon realities that make people feel safe. You know, it's the herding instinct fancied up in human perception. And so all of a sudden we're about to uproot this thing that has been driving all of human life for all of human history. And if you take on Buddhist cosmology for beginningless expansions and contractions of the universe through all the different realms, and so then you're like, okay, well, without that, what do we do? Yeah, I don't know if there is an answer to that, but at least in the framework of life, of our own small little lives, when you no longer have craving and dissatisfaction driving your behavior, what then drives your behavior is mindfulness and wisdom and duty. You know, Ajahn Buddhadasa used to say, Dhamma is duty, duty is Dhamma. So you do the things that you are sort of duty-bound to do. If you have parents that you need to care for, if you have a family that you need to care for, you have a particular profession that you've developed. This is all in regard to lay life. If you're a monk, there's certain duties that go with being a monk. If you're a father, a husband, a son, whatever, there's certain duties that go with each station in life. And Ajahn Buddhadasa would say that duty is Dhamma. Because if you're not using what your duties are to guide your behavior, then the other option is to let craving guide your behavior, right? Because what's making you resist those things, it's putting the self first, right? So unlike a Dhammic level, putting the self first at the center of experience is the problem. That's what causes suffering, right? Because the self is not first, the self is epiphenomenal, it's secondary to the body, the mind, and everything, right? It's sort of like a shadow or an echo. It's an effect, it's not a cause. But then in practice, in how we live, putting the self first is, you know, because the self is created by desire. It's really like the whole metaphor of seeing a rope as a snake, and when then you see the rope as a rope, the snake vanishes because it was never there. That's sort of the experience with the self. You see that what we perceive as the self is actually just craving. Craving creates a sense of self. For me, it's felt, the sensation of self is felt as patterns of tension in the body. You know, images of desire in the mind, right? And the narrative, the storyline that is born to pursue those objects in the mind, and the pressure that these patterns of tension in the body create, almost like Morse code to drive behavior. But this is just the way I think of it. But anyway, so when we take self out of the center of experience, We don't say there's no self. We don't say that I am the body or I am the mind. We don't take a position or a doctrine of self, as the Buddha would say. But we see that this and this and this and that is not self. It's not mine. It's not ownable. And there's a relationship between that sense of ownership and craving, and one diminishes the other. I personally think diminishing craving diminishes the self. Other people really believe that seeing the non-ownability diminishes craving. But so, so what's left then is, is the duty to the Dharma, which Dhammarato says our duty to the Dharma is just to be satisfied and then to do everything from that state of satisfaction. So if I'm completely satisfied, then the fact that I have to work 3 jobs to support my household and be with my kids and, you know, I can do all of these things happily without, without having resistance or developing a poor me narrative, um, and whatnot. So we all have different things that we, we have to do. So we use mindfulness and wisdom to, to do the things that we have to do happily. That's what I would say. Go ahead, Brett. That makes sense.
+
+**Speaker B:** Elaborate, uh, on our friend's question. We don't know what a society founded on the lack of Moha, Loba, and Dosa. Okay. Deception or ignorance. We don't know what a society based on honesty, generosity, and non-hatred would look like, but we can get a taste of that in our practice.
+
+**Speaker C:** Mm-hmm.
+
+**Speaker B:** And we know that it's the direction we'd like to go in with the society. It's an experiment as a human species. As far as we know, it's never been tried on a global scale. So it would end the world as we know it, a world of Anagami, deception, greed, and hatred. That would end. But what's the new world? We don't know.
+
+**Speaker A:** Beautifully, beautifully said, Brett. Thank you.
+
+**Speaker G:** Is there any sense of, uh, oral traditions and Buddhism, because I think the Dalai Lama, I think, claims that all this stuff came from the Buddha, but he must be saying that it wasn't written down. I mean, I know there's oral traditions in some religions, so I wonder where he's coming from on that type of thing, because I think— I'm guessing that the Tibetan stuff isn't really in the Pali Canon. Yet the Dalai Lama claims it's a Buddhist teaching. So I just want to learn about that.
+
+**Speaker B:** As far as we know, the Pali Canon was word of mouth as well, written down by the Arahant disciples and the rest. But I mean, luckily we can check it out for ourselves in practice.
+
+**Speaker A:** That's what the Dhamma Sutra is all about.
+
+**Speaker G:** But are there other stuff that wasn't in the Pali Canon maybe? Or who— I really have no idea. And these kind of things I have no idea about. I'm just wondering what people think.
+
+**Speaker A:** I don't know. There's a lot of different theories, you know. As far as I know, Buddhism started as an oral tradition, all based off of Ananda, who had what we would nowadays call perfect autobiographical memory. He remembered everything the Buddha ever said word for word, and there are people like that nowadays. He was the Buddha's attendant, and in the First Council, he recited these 17,500 discourses that the Buddha gave throughout his life from memory over the course of a period of time. And so the tradition of chanting and the numbering and the repetition and the structuring, these are all mnemonic devices so that the discourses, the actual words that the Buddha said, could be committed to memory and passed down through oral traditions over time. And, you know, we have this bias against oral traditions in the West, but there's a lot of arguments out there that oral traditions are more well preserved than written traditions because they don't get as lost in translation. And the people who are the gatekeepers who memorize these discourses in various oral traditions, they embody the teachings, you know, it's inside of them. And as far as there's so many different theories, but I guess like the first, you know, whenever it was first written down, the earliest suttas were written down, I've heard 100 years after the Buddha's death. I've heard 250 years after the Buddha's death, whatever, you know. And according to, you know, Bhante Puññaji, the split between the southern tradition, what we now call the Pali tradition, and the Mahayana tradition happened over a disagreement about holding the precepts or not holding the precepts. And I don't know, it's, it's, it's a, it's a complex history, and there's lots of people who who are doing the work of discerning it all. But it really comes back to about Brett's point, is that in the Kalama Sutra, the Buddha said, you know, don't hold any views or practices or anything just because it's come through tradition, or just because it's, you know, written in a text or said by a noble teacher. I guess he's referring to himself even, in perpetuity, right? Sometime in the future, they're going to say, I said this, right? He said you should only take on a view, which views are all constructed in the Dhamma, right? They're seen as all fabrications. But the Buddha says the purpose of a view, if you're going to adopt it, is does it lead to greater dispassion, greater renunciation, greater loving kindness, greater happiness with the way things are? I'm paraphrasing, but you can read the Kamma Sutra if you'd like. So that's what Brett's talking about. We test the Dhamma in our own experience if it's If it leads to letting go, if it leads to happiness with the way things are, if it leads to dispassion, disenchantment, renunciation, the bliss of being without is what I like to call it, then you can accept it to be true, or at least useful to that end.
+
+**Speaker G:** But then different groups of people might say, well, this works for me, and somebody else says, well, it doesn't work for me. And but Ananda listened to the discourses and remembered everything, but maybe somebody would claim, "Well, I was talking to the Buddha, had a private meeting with him, and he told me this or something." I don't know. You were talking about oral traditions. Judaism has kind of a rich tradition of oral traditions as well. It's kind of a complicated can of worms there.
+
+**Speaker A:** Yeah, Judaism goes back, what, 3,000 years before the Torah was put down on paper, you know? And that's not a bad thing. That's what we, we, we keep forgetting, that like oral traditions aren't less credible than written traditions.
+
+**Speaker G:** Um, sure, right?
+
+**Speaker E:** They were all oral for quite a while. The same for Zoroastrianism, you know, until the Muslim conquest. They hadn't written down much, and then suddenly they had to, when they went to India, they were like, "Oh, we got to write this down." But I was going to ask you, I mean, this is such an interesting topic, so I apologize if somebody else was going to ask, but when you were talking about, so as you get closer to that nature, I'm not saying the goal, but does it happen that eventually the thoughts recede a lot more? Because I mean, if you're constantly either having wholesome thoughts— and that's another thing I wanted to ask you, this wholesome thoughts versus you're having a good time, how do you kind of tell the difference? So that's one question. The other question is how much do you actually— because, you know, in Hinduism, for example, which I'm not, but I'm interested in, they— a lot of them talk about, you know, the cessation of thoughts. Is that kind of almost equal to this state where all the thoughts that come in that you allow are basically wholesome thoughts and then just everything else goes away? Does that happen or is that something that's not really on the radar for Buddhists?
+
+**Speaker A:** You might want to pick that one up first or not. That's up to you.
+
+**Speaker B:** Some of the forest Dhammarato Jhanas tell us that, um, or we're told that some of their experience is of not only an attenuation of restlessness after some time of training the mind, but also even when the thoughts arise, we're told that they arise in a way that's transparent. And like Michael pointed out earlier, they no longer hook the mind or cause objectification and the pain that comes with that that they used to. But this isn't to place goals of the future or things such as that. It's just merely a reminder that when you return to the here and now, to the here and now with this very breath, and we gain the satisfaction from just knowing we can do that, and we do this over and over again, our bodies will grow new neural pathways and we will have healthier thoughts that just come up automatically. But yeah, I think expecting complete cessation of all thought as some sort of permanent state goes against or is contrary to the teachings of Buddhism and the forest of Jhana for sure.
+
+**Speaker E:** So, but even— I don't expect— sorry, go ahead.
+
+**Speaker B:** No, I was going to add that, sorry about that. I was going to add though that even Vedanta Hindu masters, for example, Sri Nisargadatta Maharaj, have admitted that when devotees asked him, do thoughts still arise or do discursive thoughts arise or thoughts that would be indicative of suffering? They still arise, but they're not grasped. They just slip away. So the mind doesn't grasp those, even for Hindu masters. Yeah, I don't believe it's realistic to expect a cessation of all thoughts.
+
+**Speaker E:** Yeah, I mean, I'm not, you know, my meditation practice keeps changing. It's not very formal, but suddenly I'm able to, and this is a combination of guys, even Eckhart Tolle, I've added a little bit of him because he made a really good point. At one point he says, you know, just He was doing a guided meditation and he said, just pay attention to all the things that your mind or your thoughts are trying to lure you into. And that just completely, like, it made me aware that, you know, the thoughts are coming in so fast that I'm only hanging on to a few and then I'm hanging on to them very strongly. But if I'm aware of this constant avalanche of thoughts that are coming in that are trying to get my attention, basically. I mean, it's hard to talk about this stuff. Then I can be free for a few seconds and just feel that freedom. And it's just been incredible. So I'm just wondering where does this fit into Buddhism? And I don't expect it to happen all over again because you get that expectation again and then you get attached. So It's just what I've been experiencing lately. But I was just wondering, the thoughts—.
+
+**Speaker B:** I think that's right, Bhante. I think that's it. I think our practice of Anapanasati can be summarized as watching the mind while it watches the mind. And that's happening for you. You see the mind, it's besieged by thought after thought after thought, and you see the mind when it has some gap. And separation, and you can enjoy those thoughts passing without identification. I think that's spot on to the practice. That's step 1, is to be mindful, be aware, be non-reactive when those thoughts are pinging in the mind. And then step 2 is to go within the mind. And so it looks like you've already touched on step 2 as well, through mindfulness.
+
+**Speaker E:** Well, only during meditation this happens. As soon as I'm done, like, I don't So once in a while, I'm like, I see you, Mara. But it's like hours between each of these. So I know there's like millions of thoughts that are going in. And so like the practice of in real life, that's really where I'm looking at because the meditation has been amazing. But I do believe in going back to that Nichiren teaching, that philosophy starts with words and ends with words. And you can't— this thing, I believe— I mean, correct me if I'm wrong— I believe what the Buddha talks about is beyond words. Like, you have to actually let go of these words so that you suddenly become aware there's this whole other thing that's way bigger that the words cannot really touch.
+
+**Speaker B:** Yes.
+
+**Speaker E:** But anyway, thank you. I'm listening.
+
+**Speaker B:** Thank you.
+
+**Speaker D:** I did notice, like, I've been meditating a lot, maybe the last 8 years. And I noticed when I practiced changing my thoughts that I've never been able to meditate, like, when I'm at work. But when I was actually doing that and just trying to think, like, how can I just be here now? Or like, how can I make this situation as fun as possible. That became like a meditation by itself where I was like, my thoughts became less and less, more space between thoughts, and like I just like open myself up to like, like what, like what can I do right now just to be happy? And like, like I've never been able to do that like through meditation of like just focusing on something and having my thoughts gone and then still being able to work. Like, that hasn't worked for me. But actually, even, yeah, the last 2 weeks I've been trying this. It's the only time I've been able to actually been sort of in a meditative state. And it's like, I'm not even meditating, I'm just like following, like making changes that are making me feel happier, which has never been my goal. I like, I never really cared about being happy or not. I didn't think it was that important. But I realized being happy actually makes it easier to actually be in the present moment. And that's sort of a little theory I have that the Buddha seems to be really focused on dissatisfaction and removal of dissatisfaction. I think that's because that's sort of like, that's what's keeping you from actually being in the present moment. And that's sort of like the overall real goal is to be in the present moment, and what's sort of an obstacle is the dissatisfaction.
+
+**Speaker A:** Yeah, so the latter thing of what Navid was saying, where he said this only works in meditation, connects to, I think, what you're saying, Jordan, in that everything— so the purpose of stilling the thoughts is to see thoughts as thoughts. Because when you bring thoughts to a cessation and then they start up again, you begin to understand the nature of thoughts. And before you discern the nature of thoughts, feelings, perceptions, emotions, you just are them, right? Whatever thought you're having, that's you, right? Whatever emotion you're feeling that's your whole world. Whatever perception is perceived, that's the world, that's you. And so seeing them in their nature requires enough observation to see sort of their behavior over a period of time so you could see how they arise and cease, or in some frameworks, how they increase and decrease. But the whole purpose of that is not to walk around with a mind out of perception, with a mind free of feeling. But it's to bring about the dispassion, because you can't take the state of non-activity where the body is stilled and the mind is stilled and go into daily life. You know, the mind has to go into— the body has to go into activity to stand up and walk. The mind has to go into activity in order to think and speak, right? And if your happiness, if your satisfaction depends on having a quiet, still mind, then it's going to be a conditional happiness. And that's not what the Dharma is about. It's not about a conditional happiness. It's not about a happiness that is only there when the mind is in a state of quiet stillness. The point of the quiet stillness is to discern exactly what the mind and body are in order to become disenchanted by them and to become dispassionate due to that disenchantment and to relinquish ownership due to that disenchantment and that dispassion and then to become free due to that relinquishment. Right. That's the last 4 Dhammas in Anapanasati. Right. So The way I compare this, like, okay, so like fish, they don't know the nature of water. They don't know that they're wet. They don't know the nature of water. They don't know the quality of wetness. But a frog knows the nature of water and knows the quality of wetness because the frog eventually— it lived in water as a tadpole, eventually grew legs and crawled out to dry land. It stayed on dry land long enough to become dry. So then by contrast, it knows what it means to be wet. And this is why the Buddha taught Jhana, right? In the Rupa Jhanas, we become dried of sensuality, or in Bhante Paññaji's description of emotion. So we exit the sensual realm, we bring the sensual realm to cessation in the first 4 Jhanas. So we know what the functions of sensuality are like. And then in the Arupa Jhanas, or in the Ayatanas, as they're actually called in the suttas, we understand the constituent parts of perception, the processes of perception, and we understand how perception works, how it arises and ceases, how all of these things under the influence of craving fabricate the self, the world, right? So it's like the frog leaving the water. We then understand the nature of it. And the whole purpose of understanding nature, it's not like you have to stay in, you know, the ayatthanas. You have to see things for what they actually are in order to become dispassionate towards them. So let's say you were in love with a girl and you thought she was the most wonderful, most beautiful person in the world. And then, you know, you found out I say a girl because— or a boy, okay, a man or a woman— and you thought they're the most wonderful person in the world, and then you were with them for 50 years. Why did I go to that extreme? Whatever, let's say 30 years. And then you found out that, like, since you met them, that they've been lying to you. They're actually a serial killer, or they have a whole other family, something like that. In that moment, you become disenchanted, you know. You see them as they actually are. You become disenchanted, and because of that disenchantment, you become dispassionate. You no longer love them. And because of that lack of passion for them, you no longer feel like they're yours. The sense of ownership is then relinquished, right? And then you become free of them. So that's how that process works on a grosser level. That's the whole point of bringing the mind. It's sort of like a lot of traditions got stuck on the means and forgot the ends, right? So stilling the mind, quieting the mind is a means to the end, and the end is freedom. You just Still the mind, so you can discern what the mind is, so that you can see that it's not what you thought it was. That's the disenchantment. It's not worth being in love with. That's the dispassion. It's not worth taking as mine. That's the relinquishment. And then from those three things comes that liberation, that you're free of it. And then the Dhamma then becomes part of your whole life. At that point, because you don't have to be sitting still in a quiet forest. You can be doing whatever, and you know exactly where that place of freedom is within your own being. There's a place of stillness, there's a place of coolness, there's a place of freedom right here within our own being. And this is what Dhammarato is talking about when he talks about being satisfied. He's not saying go do whatever the hell you know, stimulates you. He's saying that you can actually just give up this whole make-believe system, feeling like you're a victim to life, and you can just be happy without all of that stuff. That's that place of coolness within us. And we can either have somebody like Dhammarato convince us of that aggressively, or we can do the hard work of discerning it for ourselves and discovering that place of place of coolness for ourselves, or, you know, a combination of the two, which is actually what the Buddha suggests, right? The words of another, somebody who's seen this place of coolness, who understands it, can point it out to you, can point out where your blind spots are, can point out where that place of freedom is. That's the words of another. And then yoni so manasikara, that's attention directed at the womb, the origin of experience. And then, you know, those two things together is how you gain freedom.
+
+**Speaker E:** That's a good one. That's a really good one. I like it.
+
+**Speaker D:** Do you see any value in having lots of passion?
+
+**Speaker A:** In what?
+
+**Speaker D:** In having lots of passion. You said being dispassionate is sort of— you're looking at it as good if you want to get rid of suffering, I guess.
+
+**Speaker A:** I mean, yeah, I mean, I suppose. Go ahead, go ahead, Brett.
+
+**Speaker B:** For Dhamma, that's it. That one fortunate attachment, Dhamma, until it's time, until you're on shore and put the boat down.
+
+**Speaker A:** Yeah, but, um, you know, I hear like a tone of like trepidation in the question, which is—.
+
+**Speaker D:** Okay, I might be misunderstanding, but it, it seems like dispassion, like you're leaving out a lot of experience if you're giving up, uh, attachment to things. That you could— it seems like there's a lot of experience you'll miss out of if you give up your attachment to things.
+
+**Speaker E:** Yeah, but it's all terrible experiences that you're giving up because you think they're going to be fun, and then you go in it and it is fun, and then of course you come out the other end where nothing is fun anymore. It always goes the other way. And you keep doing this over and over and nothing happens. I have a cousin that's 70 years old and she's like, okay, I can't keep doing this. But she doesn't know the Dhamma or any of that. She just has that sense that I'm not looking for that next experience because I already know it's going to be great and then it's going to be bad again. You know, so.
+
+**Speaker A:** Been there, done that.
+
+**Speaker E:** Yeah.
+
+**Speaker A:** Um, go ahead, Brent.
+
+**Speaker E:** No, I was just going to say.
+
+**Speaker B:** That, could we not— and I'm sure Michael will correct me if I'm off course, but I think they're out of balance— but I think, um, we can be involved in process, even projects, building things, whatever it is what we're doing. And that process can be participated in, or we can be involved without the need to crave what we don't have, or without leaning excessively to the future or trying to reattain some favorable state from the past, or carrying out these processes unhealthy competition or unhealthy comparison mind, such that often if we remember prior when we were our operating system, as Michael has enumerated in the past, ran off of primarily off of fuel, it was fueled by craving. And because of that, our mind then was rife with all sorts of mythologies, fears, Macro superstitions, many of which are far beyond the visible event horizon of our conditioning set, wouldn't even know they're there, often until the light of Sati, Sampajanna, or what we call right mindfulness or clear seeing when it's purified from the hindrances. And when we can see via the light of that mindfulness, then we'll notice, wow, we were operating, like when we were participating in the processes of life, whatever they are, projects, hobbies, family, whatever it is, it often, we were hindered and these processes took, for one thing, they were time-bound, they were painful, and they were, we were up all night wondering, wait, is this going to come true the way we want? Is this dream going to get deferred by some other impermanent factor? So without rambling any further, I'm just saying that we can be often involved in the same positive, constructive, creative, or destructive of delusion type activities without the craving as enumerated by Michael in this teaching discussion, I think we're making it skillful, but I think to do so, we have to really be specific about what the Buddha meant when he said craving.
+
+**Speaker D:** Okay, so are you saying like you can be very involved and like look like you're passionate but not actually care whether you succeed or not?
+
+**Speaker B:** I think the passion, yeah, the word passion again has to be looked at in terms of what we mean and rather than the word and the many connotations that it takes in our projected world. And so or even the way our memory shows us that we used to operate. So yeah, I think as we move toward a mind that's purified of its delusions, then yeah, using the word passion is often, at least in this context, not the appropriate one. Although, yeah, I think the trepidation then that Michael may have detected was the fear, the rather natural fear that we come into this practice with as beginners, or sometimes even we carry into the intermediate stages or beyond. And we have these little fears that like, oh yeah, am I going to lose something? Or, you know, we're identified with all these things that when they're gone, we're simply more empowered to have true freedom, which we may have, which I know I didn't experience to its fullest extent until Dhamma, until training the mind.
+
+**Speaker A:** Yeah. Yeah.
+
+**Speaker C:** Let's see.
+
+**Speaker A:** Is that Jordan or Eddie who was talking? I think it was Jordan.
+
+**Speaker D:** It wasn't there, but yeah, if someone else wanted to say something.
+
+**Speaker E:** That's fine.
+
+**Speaker A:** What I was gonna say is the Buddha talks in the Enlightenment Factors and in the experience of making progress in the path, he talks about energy, enthusiasm, interest, right? These are all wholesome qualities. So a lot of times the language, we have to really think carefully about the language. There's different ways to talk about this subject. I think Dhammarato is really skillful. He talks about I remember that one time he said this and I was like, is that second thing Buddhism? But he said wanting things that we don't have is painful, so we have to stop wanting what we don't have. And then he said, or this is the part that got me, or more wisely, want what's freely available. Wanting what's freely available. I was like, what the hell is he talking about? Freaking crazy. No. Because, you know, traditionally in Buddhism, we're trying to destroy wanting, but there's a lot of wisdom in that. So wanting what's freely available is having that energy, that enthusiasm for, you know, what is present right now. And he usually uses the example of this breath, you know, what a wonderful breath, or like this smile, right? This present moment. And when you talk about life, like, life is not out there in these experiences. Like, life is what we actually are. I like to say that life is void of birth and death. Birth and death are conceptual. They're concepts that are nested within the context of the world. We take one point in a process and we call it birth, and we take another point in a process and we call it death. And then we call everything in between aging and illness, right? Well, those are all just mental fabrications that we assign to a certain process. Life is, is, is what we are. It's what everything is. It's just, it's just what is, you know. So life is void of birth and death. You're not going to miss out on life because you are life. It's impossible to miss out on. So being satisfied with life, you don't need to go out and pursue these things. But okay, so to your question, you know, experiences and whatnot, in general, you're trying to— in the Dhamma, in general, specifically in the Dharma, it's about having a happiness and a freedom that is not dependent on causes and condition, not dependent on this, you know, all the way down to these sense faculties. Why? Because the Buddha points out that everything that's dear to you is going to be stripped away. Specifically, when you reach a point in your life where you're aging, you're going to lose your sight, you're going to lose your vision, you're going to lose your hearing, you're going to lose your memory. And somebody said this, and I can never remember who it was to give them proper credit, but they said, if you identify with your passions, then when your passions die, you die. So if you're passionate about playing guitar and you lose the ability to play guitar, then you're going to experience a death when you can't play guitar. And for some reason you lose the ability to run, you're going to die when you lose the ability to run. If you're passionate about speaking and you lose your voice, then you're going to have a panic attack. If you're passionate about sights, right, beautiful landscapes, just the world of seeing, which we all are, that's the biggest one all human beings are caught in. Then when you lose your vision, the world's going to become very small and it's going to be very scary, right? So the Dharma is really about becoming independent of even the senses. And so that's the danger of passion. It's passion is what creates identification. So you can enjoy life without passion a lot more freely, but you'll find that there's not a lot of things that you'll seek. You'll be enthusiastic just about the freedom that you gain from not having passion. I'm going to stop short because I saw Brett raising his hand. Go ahead.
+
+**Speaker B:** Oh, I'm just going to say, I guarantee you, you'll lose your memory, you'll get old, you'll fall apart. And then something else— oh yeah, it started raining here, and I have to admit, what bliss.
+
+**Speaker A:** You don't want to die in a panic attack, right? Have any of you guys had the experience of one of your faculties being disrupted for any reason and it triggering a panic attack? Like you lost your ability to speak, or you lost your ability to see for a time, or even you just imagined it and you felt like a panic, right? Or like you thought about losing something that you really love and it created a sense of panic or anxiety. That's, that's what clinging is, you know. Clinging is, clinging is synonymous with identification, and, um, it fabricates an identification with whatever the object of clinging is, you know. In Buddhist language, it's the five aggregates, but they take many forms— the sense organs, the thoughts, the feelings, the emotions, whatever it may be. All of these things are subject to degradation, and because of that fact, we're insecure when we're, when we're identified with them. And like I said, the identification comes from the passion or the craving. I'm using passion synonymous with craving here. But, um, so, so the Dharma is really about becoming independent of that, um, that danger, as the Buddha calls it.
+
+**Speaker D:** Okay, yeah, that makes a lot more sense now that you explained it, that, that passion or like craving is an illusion that is keeping you in a cycle of dissatisfaction. And that like once you break the illusion, you can go back and have some fun being your normal human self that has lots of delusions. But if you spend like, if you have like come from a place of like removing your illusions, you can have a better understanding that's more close to actual reality.
+
+**Speaker A:** Let's say you enjoy traveling, but you know that if your passport is snatched from you, then you're like, oh, okay, and just settle where you're at. You're fine. Or you enjoy playing guitar, and you know, like, if you lose the ability to play guitar, it's like, oh, okay, that's gone now. Like, that ability to let go, you know. That to enjoy things without clinging, if you can develop that skill, which I think is what Dhammarato teaches well, then that's a safe, wholesome way to enjoy, to continue to enjoy experiences as well.
+
+**Speaker G:** But then old age is also a temporary state.
+
+**Speaker A:** Yes, part of the process.
+
+**Speaker G:** So then what happens then? Then you like, well, I don't know.
+
+**Speaker A:** I'm not answering that question.
+
+**Speaker G:** No, but you think about when I meditate on impermanence, I also think about, yeah, well, I'm going to be old, but that's just temporary. So then I don't know, like.
+
+**Speaker E:** Yeah, that's right, a good way to look at it.
+
+**Speaker B:** Pass away.
+
+**Speaker A:** That is true, yeah. One way or another, it's temporary.
+
+**Speaker E:** I just want to say thank you. Every time I come to these, I'm just overjoyed. You guys remind me of the basics, and then you always go into great stuff. So thank you. I have 3 kids that are going to kill me if I don't go, not even feed them, just put them to bed, because it's like 9:40 on the West Coast here of the US. But Pleasure to see you guys. I hope to see you guys again soon. Thank you.
+
+**Speaker A:** Yeah, I love, I love talking to parents in the Dhamma.
+
+**Speaker E:** You guys are the best.
+
+**Speaker A:** See y'all.
+
+**Speaker C:** Bye-bye.
+
+**Speaker A:** Have a good night.
+
+**Speaker G:** When you go to a job interview, you almost have to use this language like, well, yeah, I'm passionate about this kind of work, you know. If you don't say that, it's like nobody's going to hire you or something.
+
+**Speaker A:** You don't want to say that. You can, you know, enjoyment. I know it's, it's, it— the language is, language is confusing, you know, like, yeah, enjoyment is just fine. Let's just put it that way. It's totally fine to enjoy your life. In fact, do enjoy everything you do. Enjoy it deeply. I think, I think for, for the Buddha Dharma, the Dharma that came from the historical Buddha, to have survived for 2,600 years, he had to phrase everything the way he did. Because we pick up and conceptualize things, we create— I mean, look at, okay, look, Christianity, there's a lot of similarities in Jesus's teachings, but look at all of the I'm like already thinking the same thing happened with Buddhism, but you know, look at all the different sects of Christianity that have created different sort of concepts out of the more positive types of teachings. And then it happens in Vedanta as well. Really, Buddhism is supposed to be sort of like— the teaching is really supposed to undermine the effort to conceptualize it and to objectify it, to turn it into a thing. But, you know, Buddha said, hold my beer, and they managed to do that anyway.
+
+**Speaker D:** So, so yeah, I really liked how Dhammarato, like, he gives a really simple, like, like, I forget what the word is, but like really simple things you can actually do in your life, like right now. And it's like, even though I haven't read like barely any suttas or anything or like understand conceptually a lot of the, like, the framework, but I can just, like, he gives, like, advice that you can actually do without knowing anything, which I like. Basically nothing, not knowing anything. I really like that sort of teaching style.
+
+**Speaker A:** He's a very skillful teacher.
+
+**Speaker C:** I have a question. On the sense of self again, something with sensory strain. I realized that every time I'm in a forest or somewhere secluded, right, I don't have a sense of self. It's just very effortless. It just comes naturally. And every time I enter the world, you know, maybe I bombard those senses it'll start to be this formation of self again. Oh, I like this. I like this. I hate this. I don't like that. It comes so fast. Actually, I'm not sure what I'm saying.
+
+**Speaker A:** The trees aren't judging you and you're not judging the trees.
+
+**Speaker C:** Yeah. I mean, in an ideal world, I could just live in a forest forever. But that is still rooted in craving, craving to escape from this, whatever.
+
+**Speaker A:** That distinction, Ivan, is coming from inside of you though, because you're projecting your own judgments onto people and places that are familiar to you, and you're projecting their judgments about you back onto yourself. And when you're in a forest, you're not judging the trees and the trees aren't judging you, right? So you've— that those triggers aren't there that are part of your daily life. So it's a reflection of a difference that's internal, not external. That makes sense.
+
+**Speaker C:** Yeah, yeah, it makes sense. I have wishes. I think this is why I was asking about Samatha training. Post.
+
+**Speaker G:** I thought it was interesting.
+
+**Speaker C:** So cool.
+
+**Speaker G:** This guy had— oh yeah, psychologist. They study like indigenous cultures, and he claims that a modern society has a lot of different things that people that live like in Papua New Guinea out in the jungle, and they have a lot of parasites, but they don't suffer from certain diseases, or they don't have depression and stuff like that.
+
+**Speaker D:** I do have something to say on that. Like, I noticed the same thing when I go for a walk, but then when I see someone coming the other direction, my mind sort of goes into like thinking, oh no, no, like I can't just like relax and just be there. I think it's a lot of your mind like gets scared and trying to protect you from being like ashamed, or like you're like, you have fears coming up because like your mind sort of is trying to protect you. Um, so I think like what I would think what would help with that is if you, if you do practice thinking differently in those situations. So you're saying, oh, everything's okay, I'm completely safe right now. It's like, and just like changing your thoughts to actually not be as afraid when you're around people.
+
+**Speaker C:** Yeah, it almost requires practice again and again. I was, yes, as I was saying earlier on, sometimes I ask myself, is there a way I could not pay attention to what's happening around me because when I am, I may be, it almost feels like a wrong kind of concentration because I'm aware of like, okay, these people there, these people here. There's some unwholesome arising. I mean, yeah, as Michael said, it's internal reflection. Of myself. I go to Anagami.
+
+**Speaker A:** It's a religious identity. Sorry? You know, it's the kind of idea is like the image that you have of yourself, but it's also an image you create of others.
+
+**Speaker C:** Yes, yes. What can I do? Well, I guess Jordan kind of said something really interesting. Which is basically as it has happened, you practice wholesome deeds.
+
+**Speaker G:** That's why sometimes I used to go for walks at night because I felt it was more private because people aren't like staring at you.
+
+**Speaker C:** Yeah.
+
+**Speaker D:** So what you should be paying attention to is like, well, what I would recommend is you pay attention to the emotions you're feeling. If you find like shame coming up or a feeling of embarrassment, then try to pick out the subtle thoughts that you're thinking and just try to think thoughts that are true that you believe but are going to make you feel happy. And once you get into the habit of thinking those thoughts, then you will not feel the same shame or fear that come up in those situations because you're in the habit of thinking, oh, I'm safe right now. These people like me. They want me to be happy. You'll slowly change your, like, those emotions that'll come up because it'll be your habit of thinking those thoughts over time, right? That's basically what I was taught 2 weeks ago by Dhammarato.
+
+**Speaker B:** So yeah, that's excellent. Yeah, noticing the feeling tone of the body, Vedana, Vedana, Nibbana, then, and then we replace that with Lightning thoughts?
+
+**Speaker C:** That makes so much sense. I was also just thinking about Metta. I remember there was a time when I'm more intentional with the practice of Metta. This feeling of whatever I was describing, that's almost, yeah, it kind of goes away. It's kind of cool.
+
+**Speaker D:** And you have to be able to practice it during the times when you're like around people as well, which I found like if you're triggered only when you're around people but you practice when you're by yourself sitting by a tree or something, I don't think it's as beneficial as actually practicing when the negative thoughts are coming up. That's exactly when you have to change your habits.
+
+**Speaker G:** You have to work at a job and then you think, okay, I'm going to be mindful, but then you're like under pressure to get something done or something like, I don't know.
+
+**Speaker B:** Ben, you were going to say something?
+
+**Speaker H:** I find it helpful to sort of maybe, I know you live in Malaysia, Ivan, like I'm not sure whereabouts, but if you're somewhere that's really busy, just start off going to somewhere that's not quite so busy, so it's not quite so, so, so, so much stimulation. Like, I was in Hanoi for a long time, and just, I could try— I did try and practice, I did practice, but doing it when there's just an ocean of people and stimulation constantly, it's, it's like playing it on expert mode. When if you can try and do it somewhere a bit less intense to start with, you could maybe see some results and then get confidence from that before going into places with more triggers for you.
+
+**Speaker A:** Yeah, yeah.
+
+**Speaker C:** Yeah, I agree.
+
+**Speaker B:** Yeah, I wanted to comment on something Jordan said. Yeah, I, I totally agree though, that like if you can work in, in the If you can work your practice in the social situation where it's challenging, go ahead and do it if it's not too difficult or too overwhelmingly stimulating. But I think our minds, if we pay attention, are constantly simulating social encounters even when we're alone. Often I know that in the past, and if I go through memory on a retreat I was at, it At a 10-day retreat, it still took— of course, this was many years ago and the mind's different and my life was different back then, but still it took 4 days before the mind kind of began to let go of like simulating social encounters, even though I was alone out in the desert for 4 days straight. So, and then, you know, around 4th or 5th day, the mind began to, um, take breaks from inner chatter and eventually let go of that altogether for the duration of the retreat? Anyone back in those days?
+
+**Speaker D:** For me, open-ended questions that I'm not trying to answer in words, like, how can I be as happy as possible right now? Really helps me out because I'm not looking for the answer. I'm just like paying attention to what's going on, and that is making me feel happy. So that's sort of like the answer without putting it into words. In your mind, you just— how can I be as happy as possible right now? And just like look around and be like, hey, I feel a bit happier now.
+
+**Speaker B:** Yeah, I think the Zen tradition is replete with these types of open questions, and the Of course, there's not a goal of answering, or it's not for the purpose of deriving or discovering an answer, but rather leaving the question open and creating a situation where one doesn't tend to turn away, where one faces the question and faces the challenge in order to discover the truth of reality and our delusions with regard to reality.
+
+**Speaker D:** Michael, I really like that Pokémon Go analogy. I've been thinking a lot about like how every belief you have is actually not reality because it's like a story about reality. And but the Pokémon Go thing like is a good way of looking at it. I like the way you put that.
+
+**Speaker A:** Oh, the Pokémon Go. Okay, I was—.
+
+**Speaker D:** Yeah, because, yeah, I.
+
+**Speaker A:** Mean, Jordan, you kind of summarized it really well.
+
+**Speaker D:** People don't realize that they have their, like, a conceptual overlay going on all the time. Like, everything you believe is actually separate from reality, but you think it's true because you believe it. So it's like If you actually drop away all your beliefs and actually look at what's really true, you'll realize the difference between having a conceptual overlay and not. But if you explain it in words, it's kind of hard to understand, I think. Like, you'd actually have to experience not having the overlay to, like, understand what people are talking about.
+
+**Speaker A:** You have to not avoid the fear. Um, I used to say all beliefs are equally— and all beliefs are equally true and untrue. Our beliefs create our realities. When I was a kid, I used to say that, and what I noticed was people become very afraid and angry and defensive when they encounter people with different belief systems. And what was apparent, for whatever reason, is that it's because it makes people insecure about their own beliefs. Right? When we see somebody who has a different set of beliefs than we do and they believe in it very fervently, it tells us at some level that that's us, right? Because we can see other people's beliefs are bullshit, but we don't want to know that our beliefs are bullshit because our beliefs are like our sense of self and our sense of world. It's our herd. It's our sense of security. We We take refuge in our beliefs. We take refuge in our doctrines of self. We take refuge in our doctrines of the world. We take refuge in our doctrines of the origin of the world. And when we encounter people with different belief systems, it makes us insecure about our own belief systems. And that's why there's so much conflict between religions, and not just religions, but secular belief systems, government systems. Republican and Democrat, liberal and conservative, whatever it may be, because we don't want to be in the presence of people who have a different security blanket, because it makes us realize that when we see that that's their security blanket, we realize that this is our security blanket, and we don't want to know it's a security blanket. We want to think it's reality. So it's the avoidance of that, the avijja, you know, and then of course it's various movements of greed, hatred, and delusion, or, you know, lobha, moha, and dosa, that are keeping us from just stopping and looking at the very simple reality. And it's not a reality that's like an affirmative reality that the Buddha teaches. It's a reality that thoughts are thoughts, views are views, beliefs are beliefs, feelings are feelings. The body is a body, the mind is a mind. It's made up of thoughts and perceptions. This is what these things are. They're phenomena that arise due to the presence of necessary conditions they are dependently arisen, and therefore they are subject to impermanence, dissatisfaction, and they're unownable. We don't want to see that because we take refuge in these things. And what the Buddha is saying is take refuge in the knowledge of things as they are, the knowledge that thoughts are just thoughts, views are just views, beliefs are just beliefs, the body is just the body, right? And take knowledge, and then take refuge in in reality, like in accepting things as they are, being okay with the way things are instead of taking refuge in convenient fictions that the mind creates. Because these convenient fictions are subject to degradation. At best, they'll last until your memory degrades and death comes, right? But most of the time, life comes and kicks these fabrications in the ass, and they don't make it through. So, but then we shift into something else. We shape-shift and fabricate something else in order to avoid feeling lost. So we have the wrong refuge. That's mitchaddhiti, wrong view. We've taken the wrong refuge. We've taken refuge in our doctrines of self and our doctrines of the world and our doctrines of the origin of the world. And that's not the true refuge. The true refuge is Buddha, which is awakened awareness, as Ajahn Sumedho likes to say. And the Dhamma is the reality. So Ajahn Amara and Ajahn Samatha like to say that, you know, the Buddha, Dharma is knowing the reality as it is, or it comes from Ajahn Chah. That's the way they simplify it. And the Sangha is our community of friends who take that same refuge, people who are happy knowing things as they are and take refuge in knowing things as they are, because that's a stable refuge. To secure refuge. So that will probably be my last contribution to today's talk or discussion. I have to go back to my life, to put it anyway. I've got to get off the call, basically.
+
+**Speaker C:** Thank you.
+
+
+### Summary
+
+This Dhamma talk, led by **Speaker A (Michael)** and involving several Sangha friends, centers on the core teaching of **ending dissatisfaction (dukkha)** through **sense restraint, satisfaction, and letting go**. Here is a structured summary of the key themes discussed:
+
+---
+
+### **Core Teaching: Dukkha and Its End**
+- The Buddha’s teaching is unified: **dukkha (dissatisfaction)** and its cessation.
+- Dissatisfaction arises from **craving**—wanting what we don’t have, avoiding what we dislike, or feeling confused about neutral experiences.
+- **Dhammarato’s approach**: Consciously choose **satisfaction** here and now, breaking the cycle of craving.
+
+---
+
+### **Sense Restraint and Its Purpose**
+- **Sense restraint** is not about repression but about **revealing where craving hides**.
+- By reducing sensory stimulation (e.g., digital detox, solitude), we see how the mind craves distraction and becomes restless.
+- This practice helps uncover **unconditioned happiness** beneath conditioned cravings.
+
+---
+
+### **The Role of Meditation and Seclusion**
+- Meditation acts as a **sensory detox**, allowing the mind to settle and observe its patterns.
+- In stillness, we see how quickly the mind shifts between craving, doubt, and temporary peace.
+- **Seclusion** (retreat settings) helps purify the mind, making underlying tendencies (samskaras) more visible.
+
+---
+
+### **Disenchantment, Dispassion, and Relinquishment**
+- Through practices like **Ānāpānasati** (mindfulness of breathing), we observe:
+  1. **Impermanence (anicca)** of body, feelings, and mind.
+  2. **Disenchantment**: Seeing phenomena as unsatisfactory and not-self.
+  3. **Dispassion**: Losing interest in clinging.
+  4. **Relinquishment**: Letting go of ownership.
+- This leads to **liberation**—freedom from identification with experiences.
+
+---
+
+### **Metaphors and Illustrations**
+- **Pokémon Go analogy**: Problems and judgments are like augmented reality—projections of the mind, not inherent in reality.
+- **Frog and water**: Just as a frog understands water by leaving it, we understand sensuality by stepping out of it (through jhāna or seclusion).
+- **Rope and snake**: The self is a misperception; seeing clearly reveals its empty, fabricated nature.
+
+---
+
+### **Living the Dhamma in Daily Life**
+- Letting go doesn’t mean inactivity. One engages in **duty (Dharma as duty)**—caring for family, work, etc.—but from a place of **satisfaction**, not craving.
+- **Wholesome enthusiasm** replaces passion rooted in clinging. One can enjoy life without dependency on outcomes.
+- **Mindfulness in social situations**: Notice triggering thoughts/feelings (e.g., shame, comparison) and replace them with wholesome, reassuring thoughts.
+
+---
+
+### **Addressing Common Questions & Challenges**
+- **“What’s left after letting go?”**: Duty, mindfulness, and natural wisdom guide action. Society based on non-greed, non-hatred, and non-delusion would be radically different but unknown historically.
+- **“Does Buddhism lead to nihilism?”**: No. It leads to **freedom from suffering**, not annihilation. Happiness becomes unconditional, not dependent on conditions.
+- **“What about passion and creativity?”**: Enthusiasm and energy can be wholesome when free from clinging. The Buddha encouraged joyful engagement with the present (e.g., appreciating the breath).
+
+---
+
+### **Community and Refuge**
+- True refuge is in **Buddha (awakened awareness), Dhamma (reality as it is), and Sangha (community practicing this)**—not in beliefs, views, or fabricated identities.
+- **Beliefs are security blankets**: Clinging to them causes conflict when challenged. The Dhamma invites seeing beliefs as beliefs, not absolute truths.
+
+---
+
+### **Final Emphasis**
+- The path is **gradual letting go**—of views, clinging, and finally the sense of self.
+- **Satisfaction is always available**; it’s a choice to stop chasing external validation and to find peace in the present.
+- The talk blends traditional sutta references (Ānāpānasati, Jhāna) with direct, practical advice from Dhammarato’s teaching style.
+
+---
+
+**Overall**: The discussion reinforces a non-dogmatic, experience-based approach to ending suffering—through sense restraint, mindful satisfaction, and gradual relinquishment of all clinging, leading to a freedom that permeates daily life.
+
+### Metaphors and Stories
+
+Based on the talk, here are the key **metaphors and stories** used by the speakers to explain Dhamma concepts:
+
+### **Metaphors**
+1. **The Unfitting Axle (Dukkha)**
+   - *Speaker A* explains the etymology of *dukkha* as an axle that doesn’t fit its wheel, causing the whole chariot to shake—symbolizing the fundamental disturbance of mind.
+
+2. **The Lion Chasing Out Mara**
+   - *Speaker A* describes dissatisfaction as something to “chase out like a lion”—roaring at unwholesome thoughts and “Mara” (representing temptation/delusion) to clear the mind.
+
+3. **The Monkey Swinging Branches**
+   - *Speaker A* references the Buddha’s analogy: the mind is like a monkey constantly swinging from branch to branch, never settling due to dissatisfaction.
+
+4. **Pokémon Go (Augmented Reality)**
+   - *Speaker A* compares the mind’s perceptual overlay to *Pokémon Go*, where problems and judgments are like digital Pokémon added to reality—fabricated by craving and ignorance.
+
+5. **The Frog and Water**
+   - *Speaker A* uses the frog (which leaves water and understands wetness by contrast) to illustrate how meditation (e.g., jhāna) helps us understand sensuality by temporarily stepping out of it.
+
+6. **The Rope and Snake**
+   - *Speaker A* references the classic illusion: mistaking a rope for a snake (self) until you see it clearly—then the snake “vanishes,” just as the sense of self dissolves when seen as fabrication.
+
+7. **Dopamine Fasting / Sensory Detox**
+   - *Speaker A* compares sense restraint to “dopamine fasting”—withdrawing from stimulation to reveal the mind’s addictions and restlessness.
+
+8. **The Mountain That Becomes a Puff of Smoke**
+   - *Speaker A* describes letting go of old attachments as watching a “whole mountain” of concern turn into “a puff of smoke”—showing the visceral pleasure of release.
+
+9. **The Security Blanket**
+   - *Speaker A* says beliefs and doctrines are like “security blankets” we cling to for comfort, but which are fragile and cause conflict when challenged.
+
+### **Stories & Examples**
+1. **Adam and Eve (Garden of Eden)**
+   - *Speaker A* recounts Ajahn Buddhadasa’s interpretation: eating the fruit from the “Tree of Knowledge of Good and Evil” represents the birth of judgment and selfishness—which destroys paradise, paralleling how craving and ignorance create dukkha.
+
+2. **The Serial Killer Spouse**
+   - *Speaker A* gives the example of discovering a long-time partner is a serial killer—illustrating *disenchantment* (seeing reality), leading to *dispassion* and *relinquishment*.
+
+3. **The Aging Process & Letting Go**
+   - *Speaker A* describes a natural “gradual training” of letting go through life stages: from going out drinking in youth, to staying home with family, to quietly sitting in old age—mirroring the refinement of sense desire.
+
+4. **Nietzsche’s Criticism & the Übermensch**
+   - *Speaker F* and *Speaker A* discuss Nietzsche’s critique of asceticism as “will to nothingness” and his idea of the *Übermensch* who creates anew—contrasting with the Buddhist goal of dispassionate freedom.
+
+5. **Ajahn Chah’s Cracks in the Wat**
+   - *Speaker A* recalls Ajahn Chah pointing at cracks in the temple, saying, “These cracks are the Dhamma”—teaching impermanence through direct observation.
+
+6. **Ananda’s Perfect Memory**
+   - *Speaker A* briefly tells the story of Ananda reciting the Buddha’s discourses from memory at the First Council—highlighting the oral tradition’s role in preserving the Dhamma.
+
+These metaphors and stories serve to make abstract Buddhist concepts—like *dukkha*, *anattā*, *sense restraint*, and *awakening*—relatable and vivid, often using modern analogies (Pokémon Go, dopamine fasting) alongside traditional imagery.
+
+### Connect with Dhammarato and Sangha Friends
+
+☸️ **Dhamma Friends Discord** — [Join our Discord](https://discord.com/invite/kmQUUJysZJ)
+Join our Sangha on Discord and please send a friend request to Dhammarato
+
+🌐 **Open Sangha Foundation** — [opensanghafoundation.org](https://opensanghafoundation.org/)
+Connect with friends, teachers, and explore places to visit and stay
+
+▶️ **Youtube** — [Dhammarato Dhamma - YouTube](https://www.youtube.com/@DhammaratoDhamma)
+Videos of Sanghas and One-on-One Calls
+
+🎧 **Podcast** — [Podbean](https://dhammaratodhamma.podbean.com/)
+Find our content on Spotify, Apple Podcasts, and more by visiting Podbean
+
+📧 **E-mail Dhammarato** — dhammarato16@gmail.com
+Please put name, age, location and practice info when sending an e-mail

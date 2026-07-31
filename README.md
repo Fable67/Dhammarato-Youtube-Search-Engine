@@ -56,6 +56,64 @@ content the bot searches. If it's missing, the bot has nothing to search.
 
 ---
 
+## Adding new blog posts
+
+New Dhamma talks get published as markdown files on the
+[dhammarato-site](../dhammarato-site) blog (`src/content/blog/*.md`). To
+get any new posts searchable by the bot, run one command:
+
+```
+conda activate Dhamma
+python scripts/update_blogs.py
+```
+
+That's it. This single command:
+
+1. Copies any new/changed post files from the site repo into this repo's
+   `data/raw/blogs/`.
+2. Backs up `data/index/` first (skipped automatically if you already ran
+   this today).
+3. Parses, chunks, and embeds every post not already in the database.
+4. Rebuilds the search indexes and switches the bot over to the new,
+   combined data.
+5. Tells you to restart the bot (if it's currently running) so it picks
+   up the change -- it loads everything into memory once at startup and
+   doesn't watch for live updates.
+
+It takes a few minutes per new post (it's calling an AI embedding API
+along the way), and it's completely safe to run at any time -- run it
+whenever new posts have gone up, as often as you like. If it's ever
+interrupted partway through (network hiccup, closed laptop, Ctrl-C), just
+run the exact same command again -- it automatically figures out what's
+already done and picks up where it left off, without redoing (or losing)
+any work.
+
+**Options**, if you ever need them (normally you won't):
+```
+python scripts/update_blogs.py --dry-run       # preview what would happen, changes nothing
+python scripts/update_blogs.py --site-dir /path/to/other/blog/dir
+python scripts/update_blogs.py --skip-backup   # not recommended
+```
+
+<details>
+<summary>Why this needs its own script instead of just editing the database directly (click to expand)</summary>
+
+The bot's search index is a single file (`faiss.index`) that all the
+transcript-chunk "meaning vectors" (embeddings) live in together, and
+every vector in it has to be the exact same size/format. The existing
+~23,000 chunks were embedded with a specific older pipeline; new chunks
+have to go through that *same* pipeline to end up compatible with
+everything else already in the index -- otherwise search results would be
+meaningless. `scripts/update_blogs.py` handles all of that automatically:
+finding new posts, breaking them into search-friendly chunks, generating
+compatible embeddings, and rebuilding the index -- so you never have to
+think about any of it. See `sanghabot/embeddings/legacy_compat.py` and
+this script's own module docstring if you're curious about the technical
+details.
+</details>
+
+---
+
 ## Project layout
 
 ```
@@ -79,10 +137,11 @@ sanghabot/
     chunker.py                   Splits a transcript into semantically coherent chunks
   bot/discord_bot.py          The actual Discord bot (entry point)
 scripts/
+  update_blogs.py            THE command to run to add new blog posts (see below)
   migrate_legacy_data.py     One-time script that built data/index/ (already run)
   capture_golden_queries.py  One-time script used during development (already run)
-  rebuild_index.py           Rebuilds the search indexes (e.g. after re-embedding)
-  ingest.py                  CLI for parsing/chunking new transcripts
+  rebuild_index.py           Lower-level index-rebuilding building blocks
+  ingest.py                  Lower-level parsing building block (mostly superseded by update_blogs.py)
 data/
   index/                     The actual search data the bot uses (see above)
   raw/blogs/                 Original markdown source files (if present)

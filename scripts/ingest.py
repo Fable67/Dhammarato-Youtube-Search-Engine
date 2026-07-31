@@ -8,10 +8,18 @@ Replaces AI_Transcripts/chunk_videos.py's interactive input()-driven main()
 mode at all, making it impossible to automate/schedule). This is a real CLI
 with flags, usable from cron/systemd-timer/CI.
 
+NOTE: for the actual day-to-day task of adding new blog posts, use
+scripts/update_blogs.py instead -- it's the single command that does
+everything below (sync, parse, chunk, embed, index, promote) in one call,
+with automatic backups and resumability. See README.md's "Adding new blog
+posts" section. `parse` (below) is kept as a lower-level building block
+(useful for just checking what parse_blogs.py extracts from a directory of
+files, without touching chunks/embeddings at all); `chunk` remains an
+intentionally unimplemented stub -- see its own docstring for why.
+
 Usage:
     conda activate Dhamma
     python scripts/ingest.py parse --blogs-dir data/raw/blogs
-    python scripts/ingest.py chunk --resume
 """
 from __future__ import annotations
 
@@ -67,21 +75,22 @@ def parse(blogs_dir: Path = settings.raw_blogs_dir):
 @app.command()
 def chunk(resume: bool = typer.Option(True, help="Skip videos that already have chunks.")):
     """
-    Chunk every video's transcript (via the semantic chunker) and store
-    chunk rows in sanghabot.db. This step calls the embedding API for
-    boundary refinement (see sanghabot/ingest/chunker.py), so it costs
-    real API time/money -- use --resume (default) to avoid redoing
-    already-chunked videos.
+    Intentionally unimplemented stub -- this command's `parse` sibling
+    above only persists title/blog_url/tags, not the raw transcript text
+    a real chunk() would need, and was never wired up (see git history:
+    this was true from the initial rewrite through the first real blog
+    re-ingestion). Left in place purely to document the originally
+    intended CLI shape.
+
+    Use `python scripts/update_blogs.py` instead for actual blog
+    ingestion -- it parses, chunks, embeds, and indexes new posts in one
+    command, including persisting the transcript text this stub was
+    always missing. See README.md's "Adding new blog posts" section.
     """
     typer.echo(
-        "NOTE: this command requires raw transcript TEXT to be available "
-        "per video, which the current 'parse' command does not yet persist "
-        "(only title/blog_url/tags). Wiring the full transcript text "
-        "through into chunk() is a follow-up once blog re-ingestion is "
-        "actually needed -- current scope (REWRITE_PLAN.md Section 10) is "
-        "the search-serving path against migrated legacy data, not a full "
-        "blogs -> chunks re-run. This stub documents the intended CLI "
-        "shape for that future work."
+        "This command is an intentionally unimplemented stub -- use "
+        "`python scripts/update_blogs.py` instead. See README.md's "
+        "'Adding new blog posts' section."
     )
 
 

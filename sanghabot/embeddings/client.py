@@ -44,16 +44,29 @@ class PermanentEmbeddingError(Exception):
 
 
 def _post_embeddings(texts: list[str], model: str, dimension: int, api_key: str) -> list[np.ndarray]:
-    response = requests.post(
-        url=OPENROUTER_EMBEDDINGS_URL,
-        headers={
-            "Authorization": f"Bearer {api_key}",
-            "Content-Type": "application/json",
-            "X-Title": "Sanghabot Rewrite",
-        },
-        json={"model": model, "input": texts, "dimensions": dimension},
-        timeout=60,
-    )
+    try:
+        response = requests.post(
+            url=OPENROUTER_EMBEDDINGS_URL,
+            headers={
+                "Authorization": f"Bearer {api_key}",
+                "Content-Type": "application/json",
+                "X-Title": "Sanghabot Rewrite",
+            },
+            json={"model": model, "input": texts, "dimensions": dimension},
+            timeout=60,
+        )
+    except (requests.exceptions.Timeout, requests.exceptions.ConnectionError) as e:
+        # Connection-level failures (read timeouts, DNS blips, dropped
+        # connections) never even produce an HTTP response, so they can't
+        # be caught by the status-code checks below. Discovered directly
+        # in production: a real `ReadTimeout` on a large batch mid-run
+        # propagated straight past this function and crashed a long-running
+        # ingestion script, losing all in-memory progress since the last
+        # per-item checkpoint. Route these through the exact same
+        # TransientEmbeddingError retry path as HTTP 429/5xx -- a timeout
+        # or dropped connection is definitionally a transient condition
+        # worth retrying, never a reason to give up immediately.
+        raise TransientEmbeddingError(f"Connection-level error calling embeddings API: {e}") from e
 
     if response.status_code == 429 or response.status_code >= 500:
         raise TransientEmbeddingError(
@@ -117,12 +130,14 @@ def embed_texts(
     """
     Requests `dimension` natively from the embeddings API for every text.
 
-    Only retries on TransientEmbeddingError (429/5xx). Anything else --
-    malformed responses, auth failures, bad requests -- raises immediately
-    as PermanentEmbeddingError instead of silently retrying 6 times with
-    exponential backoff, which is what the old code's bare
-    `except Exception` did (wasting up to ~126s per row on unrecoverable
-    errors before giving up).
+    Only retries on TransientEmbeddingError -- HTTP 429/5xx, an error
+    payload smuggled inside an HTTP 200 response, or a connection-level
+    failure (timeout, dropped connection, DNS blip) that never produced an
+    HTTP response at all. Anything else -- malformed responses, auth
+    failures, bad requests -- raises immediately as PermanentEmbeddingError
+    instead of silently retrying 6 times with exponential backoff, which is
+    what the old code's bare `except Exception` did (wasting up to ~126s
+    per row on unrecoverable errors before giving up).
     """
     dim = dimension if dimension is not None else settings.embedding_dim
     mdl = model if model is not None else settings.embedding_model

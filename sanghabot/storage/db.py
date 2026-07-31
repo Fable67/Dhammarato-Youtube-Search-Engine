@@ -188,6 +188,33 @@ class Database:
             return None
         return _row_to_video(row)
 
+    def get_video_by_blog_url(self, blog_url: str) -> VideoMetadata | None:
+        """
+        Looks up a video by its blog_url rather than video_id.
+
+        Why this exists: video_id is NOT a stable/consistent identifier
+        across the corpus's history. The original ~2,061 videos were
+        migrated from a legacy CSV where video_id was an arbitrary integer
+        (row position at migration time -- see scripts/migrate_legacy_data.py),
+        while videos ingested since (see scripts/update_blogs.py) use the
+        source markdown filename's slug as video_id instead. blog_url,
+        however, is deterministically derived from the filename slug for
+        EVERY video regardless of which era it was ingested in
+        (f"https://dhammarato.com/blog/{slug}"), so it's the one reliable
+        way to check "has this specific blog post already been ingested,
+        under whatever video_id it happened to get" -- which a naive
+        get_video(slug) lookup cannot answer for the ~2,061 legacy-era rows.
+        """
+        cur = self._conn.execute(
+            "SELECT video_id, title, blog_url, url, published_date, tags, video_length_chars "
+            "FROM videos WHERE blog_url = ?",
+            (blog_url,),
+        )
+        row = cur.fetchone()
+        if row is None:
+            return None
+        return _row_to_video(row)
+
     def get_videos_by_ids(self, video_ids: list[str]) -> dict[str, VideoMetadata]:
         if not video_ids:
             return {}

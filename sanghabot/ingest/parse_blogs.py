@@ -54,6 +54,24 @@ def extract_section(content: str, header: str) -> str:
     return match.group(1).strip() if match else ""
 
 
+def _find_transcript_header(content: str) -> str | None:
+    """
+    Returns whichever of the two header spellings actually appears in
+    `content` for the Transcript section ("### Transcript", the normal
+    case, or "## Transcript", seen on a handful of posts with a shallower
+    heading structure -- e.g. site content that also uses a single "#"
+    top-level title instead of "##"). Returns None if neither is present
+    (a small number of posts have no Transcript section at all -- an
+    essay-style post or a differently-organized dialogue transcript --
+    which callers should treat as "no usable transcript" rather than
+    guessing at a fallback).
+    """
+    for header in ("### Transcript", "## Transcript"):
+        if re.search(rf"(?:^|\n){re.escape(header)}\s*\n", content):
+            return header
+    return None
+
+
 def remove_connect_section(content: str) -> str:
     pattern = r"\n### Connect with Dhammarato and Sangha Friends.*?(?=\n### |\n## |\Z)"
     return re.sub(pattern, "", content, flags=re.DOTALL)
@@ -77,14 +95,20 @@ def process_markdown_file(filepath: Path) -> ParsedBlogPost:
     metadata, content = extract_yaml_frontmatter(raw_text)
     content = remove_connect_section(content)
 
-    transcript = extract_section(content, "### Transcript")
+    # Almost every post uses "### Transcript" (H3), but a handful use
+    # "## Transcript" (H2) instead -- detect whichever is actually present
+    # rather than hardcoding H3, so those posts don't silently parse to an
+    # empty transcript. See _find_transcript_header()'s docstring.
+    transcript_header = _find_transcript_header(content)
+    transcript = extract_section(content, transcript_header) if transcript_header else ""
     video_section = extract_section(content, "### Video")
     youtube_id = extract_youtube_id(video_section)
 
     summary = ""
-    split_after_transcript = re.split(r"\n### Transcript\s*\n", content, maxsplit=1)
-    if len(split_after_transcript) > 1:
-        summary = re.sub(r"^(.*?)(?=\n### |\n## |\Z)", "", split_after_transcript[1], flags=re.DOTALL).strip()
+    if transcript_header:
+        split_after_transcript = re.split(rf"\n{re.escape(transcript_header)}\s*\n", content, maxsplit=1)
+        if len(split_after_transcript) > 1:
+            summary = re.sub(r"^(.*?)(?=\n### |\n## |\Z)", "", split_after_transcript[1], flags=re.DOTALL).strip()
 
     transcript = re.sub(r"\*\*(.*?)\*\*", r"\1", transcript)
 

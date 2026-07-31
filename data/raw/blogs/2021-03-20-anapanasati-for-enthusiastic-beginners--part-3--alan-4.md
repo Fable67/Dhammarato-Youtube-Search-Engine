@@ -1,0 +1,400 @@
+---
+layout: post
+title: "Anapanasati for Enthusiastic Beginners (Part 3) Alan 4"
+pubDate: 2021-03-20
+author: Dhammarato
+categories: [transcripts, Dhamma Talk]
+tags: [transcripts, anapanasati, vedana, piti, sukkha, jhana, samadhi, sati, sankhara, patticcasamuppada, one-on-one, meditation, mindfulness, brahma-viharas, noble-eightfold-path]
+image: "https://i.ytimg.com/vi/c6zMuF6nPkg/maxresdefault.jpg"
+description: "Transcript of March 20, 2021 Dhamma Talk with Dhammarato and Friends"
+featured: false
+hidden: false
+toc: true
+assemblyai_transcript_id: 004c591b-2f84-472e-99ef-9869245485c0
+---
+
+## Anapanasati for Enthusiastic Beginners (Part 3) Alan 4
+
+### Video
+
+
+<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/c6zMuF6nPkg?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+
+
+### Transcript
+
+
+**Speaker A:** Hello, hello.
+
+**Speaker B:** Yes.
+
+**Speaker C:** Thank you for listening again, I appreciate it very much. And so today we're gonna to use Bhikkhu Buddhadasa's mindfulness with breathing as something often talked about, the Anapanasati teaching. Citta, the strength. And in the previous discussions, we've
+
+**Speaker A:** summarized
+
+**Speaker C:** the Four Tathagatas, and then we worked through the first, second, third, and fourth training. So today we'll begin talking about the second Tathagata in depth, and we'll start with the fifth training, which he has translated here as he trains himself thoroughly experiencing Piti 'I shall breathe in.' Train yourself thoroughly experiencing the 'I shall breathe out.' He has a few, you know, obviously a few things to say about that, but just a few maybe I'll just throw out here. He says that the Vedana are the master or dictators of our lives. When we are unable to control them, we become their slaves.
+
+**Speaker B:** Yes.
+
+**Speaker A:** I'll just say I appreciate that very
+
+**Speaker C:** straightforward and type of language. It feels very incisive and direct. Whereas you feel like maybe some other teachers would soften it, you know.
+
+**Speaker A:** But one other thing here that I found interesting was this. So he says there are two kinds of Vedana: foolish feelings conditioned by ignorance,
+
+**Speaker C:** and wise feelings conditioned by correct Understanding.
+
+**Speaker B:** Yes.
+
+**Speaker A:** If we are foolish at the moment of sensory contact, foolish feelings arise. If we are clever and knowledgeable at the moment of sense contact, wise feelings arise. Foolish feelings lead to ignorant desire or craving. Wise feelings lead to correct desire and wise wanting. We should make sure that the Vedana are always wise feelings.
+
+**Speaker B:** [Speaker:DHAMMARATO] Let me come in on some of this. We're looking at, first off, two kinds of feelings, and second off, we're making the distinction between those two kinds of feelings as wise conscious feelings versus ignorant feelings. He also used a word in passing there, and that was contact, which is a very important word. That basically, when Bhikkhu Buddhadasa is talking about Anapanasati, he's doing it from a firm foundation of the understanding of Piti, Samuppada. Which a lot of people, when they read the sutra, they don't have that foundation, so they're beginning to miss a few things. Okay, now the point about Paticcasamuppada is that the things that contact us through our sensory awareness, through our sensory input, is not actually what contacts us, is the thing out there that actually impress the senses, but rather that the senses have to go through a processing in order to fully understand or to make sense out of it for the human. And so it's our internal representation of what we see that contacts us. This is an important point, okay, that we are— the reality is, is that we don't— humans don't live didn't live in reality. They lived in a constructed reality. And if we lived in real reality, we couldn't make any sense out of it at all. That we have to try to make sense out of things. How we do that is through a process we call in English perception. There is a Pali word for that, Pañña, and also the word Namarupa which actually in this sense takes— means to take the rupa of reality and name it or bring it into the mind in a way. So if I look at that object out there and name it as a tree, that's because I already know what trees are. I have seen trees before. I have seen a lot of trees, various varieties. That one is a palm tree. I know it's a palm tree because it fits all of my recollections of all the palm trees that I've ever seen. Okay, now this is the whole quality that we have to understand, is what contacts us is not the sense object, but it's what we make out of it. What we make out of it comes out of our past. This is what is called the Samskara. Which means that our current perception is flavored by our past, which means if we've made mistakes in the past, it's quite logical for us to continue to make that same mistake. For instance, misnaming something and continuing to misname it. That in fact we give it a new name by misnaming it, and we continue to use that name that we have invented for it, even if it doesn't fit with other people. Okay, so this is the naming process, and it's that naming process that is bound to bring in not only old concepts but old feelings as well. And so this current moment, if it is ignorance, means that it's going to be influenced by past feelings. And if this present moment contact is wise, then that means that the feelings that are arising are going to be arising according to this current moment and not so much flavored by the past.
+
+**Speaker A:** Is this sort of what is partly how karma is understood?
+
+**Speaker B:** Yes, karma is understood as not just the results of past actions, but our actions are stored as memories, and so the results of past actions can be stored so that they're brought up in the present moment. This is exactly why Bhikkhu Buddhadasa talks about the issue of you've got a choice to either follow your Kamma, which means to follow your old habits, which means to follow the cause-effect relationships of the past. And another way of saying it is to follow your destiny. Or to follow Providence, okay, or you can wake up and make a choice. You can become wise by waking up and seeing that what we feel right now was influenced by the past, or basically if we wake up soon enough, then our feelings are not in fact influenced by the past, but they're absolutely brand new in this present moment. This is what we kind of mean by wise feelings as opposed to ignorant feelings, and this means Sati or mindfulness or wisdom at that point of contact. And what is that point of contact? When something hits us or when we say we realize something. All right, guess what? That's a misuse of the word. We don't realize anything. I don't realize that that's a tree. If I realized that tree, I would have one growing out of my head. A better word would say that we mentalize it. Okay, and that mentalization that we do is— that is what contacts us, and sometimes it has huge amounts of power behind it so that we have great expletives that will pop out at that point in time.
+
+**Speaker A:** So, you know, we're receiving input through the sense doors. And then the mind identifies sort of in an automatic way what that different stimulus is. So, you know, you see an object and then the mind says, palm tree, or you hear a sound and your mind says child. And that's just sort of an automatic process based on having lived in the world and seen many things.
+
+**Speaker B:** And it happens very quickly. But it doesn't happen as fast as one might like, in the sense that if you see something, an object, perhaps in motion, and then you try to make sense out of that object, you perceive it, and then come up with a mentalization of that object, that time that it took to process that object and to make sense out of that object so that that object can then impact us and cause feelings, all of that time that it took meant that now we're no longer watching or paying attention to that object. That is like a little bit of input, a whole lot of processing, a realization that impacts us. Now we're off into feelings and we're still not in the present moment. We're in our own feeling systems now. Okay. And that ignorance of those ignorant feelings, the way that we process stuff then those feelings will lead to grasping and then clinging and then becoming, and then the— let us say the self or the being is reborn into one of the woeful states. Okay, now you're talking about Anapanasati and the Piti there. And so let's not turn this into a whole lecture on Paticcasamuppada, but rather that the Paticcasamuppada now is the foundation for this. So let's look at the other kind of feelings. If in fact the kind of feelings that occur ignorantly winds us up in a woeful state, that means that there is one kind of feeling which is ignorant that would be in the classification of fear, anger, guilt, remorse, sadness, grief, and the primary one of all of those is fear. So the fear of loss is the sense of loss. These are ignorant feelings because we've been having those kind of feelings for our whole lives. And then there is the kind of feelings that are wise feelings that could be said in the— an easy way to say it is the kind of feelings that you would want to have would be wise feelings, and the kind of feelings you have when you're not wise are ignorant feelings, and those ignorant feelings hurt, and the wise feelings feel nice because we choose them. Why would we intentionally choose to feel bad, though that happens on occasions? An example of that is if I feel bad enough and act like I'm hurting bad enough, then maybe I can get someone to rescue me out of my bad feelings. And so we will intentionally have bad feelings. For instance, a kid gets sick in the morning so he doesn't have to go to school. Yeah, okay, that's an example, not the only. Can think of many. But generally, especially if you're sitting alone in seclusion, then the kind of feelings that you're going to have that are ignorant are going to wind up being then the bad feelings that you would want to avoid. And that the kind of feelings you would have that you could have because you know how to have the kind of feelings that you want would be then good feelings. So let's review those because we just reviewed those on this side, which is anger, fear, sadness, grief, a sense of loss. The other side of it is going to be more or less the opposites of that. Instead of fear, we're going to feel safe. And secure. Instead of feeling like that we've lost something, we can feel like instead that we've got everything that we need, we haven't lost anything at all. That in fact, because there's no fear, we also have no reason to feel angry about anything. That in fact, we can feel quite joyful. This is where the feelings of Piti and Sukkha come in as training to train the mind to be in good feelings, because we are already well trained in ignorant feelings.
+
+**Speaker A:** Right, yes.
+
+**Speaker B:** Okay.
+
+**Speaker A:** Understanding too is that, so, you know, something comes in through the sense doors, your mind identifies it, labels it, And then there's a feeling tone that arises. So you then experience either—
+
+**Speaker C:** you find
+
+**Speaker A:** it either pleasant or unpleasant or neutral.
+
+**Speaker B:** Not neutral. That's an absolutely bad translation. The Pāli does not use the word neutral at all. It uses it, and it depends upon where you find it, but it generally has it as either Anicca, Dukkha, or Sukkha Vedana, or Dukkha, Sukkha Vedana, which means that it's either neither one or it's mixed. And in reality, that's kind of how that feeling operates. It operates in the sense that we don't know whether we like it and want it, or we don't like it and want to get rid of it. We don't know whether it's dangerous or whether it's friendly. That's a feeling that arises, a feeling of confusion. It can also be called the feeling of doubt, insecurity. We're not sure. We don't know what's going on. And that if that not-sureness is an ignorant not-sureness, then it can lead to doubt and the feelings of danger. Which then means that you cannot like it. Or you can have that feeling wisely in the sense of not sure, and now that can create something like curiosity, that, "Hey, I would like to figure what that is out," but I don't have to do it ignorantly in the sense of it might be dangerous. Or something to be avoided.
+
+**Speaker A:** An example of that might be, you know, you're camping and you wake up in the middle of the night and you hear a sound and you're not sure what it is. Is it a wolf? Is it a child crying? Is it the wind? And you're in that moment of, you know, should I be afraid? Should I not care? Should I be concerned? Should I be, you know, right?
+
+**Speaker B:** All of that is ignorant feelings. Wise feeling would be listen closely, listen carefully, figure out what that is, put that together, use some wisdom in there. But you see, most people will, what you would call either in a big way or a small way, freak out. It might be dangerous.
+
+**Speaker C:** Yeah, yeah.
+
+**Speaker B:** Okay.
+
+**Speaker A:** Or think it's a ghost, or, or think you're— you know, why would there be a child in the wilderness here? You know, it's not likely, but you go into fear or something.
+
+**Speaker B:** Precisely so, because that sound doesn't sound like that it ought to be here. But it woke us up. So we may have not gotten a very good, clear, uh, hearing of what that sound was. And so we're manufacturing a lot of stuff based upon the fact that, uh, we heard it ignorantly and it impressed us ignorantly. And so now is the time to wise up, to wake up and listen closely. So yes, that would be that example. But let's go back now to Anapanasati and point out— by the way, one of the things that I would like to point out is that I have been spending quite a lot of time recently with some old Mahasi material, where Mahasi generally misses out on this particular one point that I'm about to discuss, in the sense that Maharishi does talk about the removal of the hindrances, but then he says that the removal of the hindrances is so that we can note in the Mahayana noting style. But most students don't understand that, and so what they wind up noting is the hindrances. Rather than noting while free from hindrances. But in either one of those cases, the student is making a mistake, because in the teachings of Anapanasati with Bhikkhu Buddhadasa's teachings is that the removal of the hindrances is very important. At this point, and how they're removed is kind of important. So let's talk about the various kinds of thought that can exist. There is, first off, discursive thought, and that's the kind of thinking that we normally associate with thinking, is discursive thought, or let us say verbal thinking and concepts. This kind of thinking. But that's not the only kind of thinking that we do. And when I'm talking about thinking here, I'm talking about how can an individual, a human being, spend a mind moment. All right, one of the ways that they can spend that mind moment is in discursive thought. But there's also the possibility of spending that time in observational thought in the sense of looking at something, observing it, watching for instance one's breath. This is what the Mahasi Method is actually talking about in the sense of noting, is to change the kind of thinking that we have from discursive thinking into observational thinking. All right, and yet many of the students will have a hindrance and then an observational thought of that hindrance and then note more hindrance and then another observational thought of that hindrance, which is not the right way to practice at all. The right way to practice in the Mahasi Method is to change that discursive thought and drop it and go into just the noting kind of thought. Now there's another kind of way that we can spend the mind moment, and that is in feelings. And in fact, we could also use the word feeling in the sense of observational, only now what we're observing is that we feel bad. Okay, we feel sad, we feel pain, we feel whatever like that. So Vedana is a method of spending a mind moment in the sense that we are noting or observing feelings. So we have both the discursive and an observational and kind of a feeling thought. These are the kinds of thoughts. I think that in fact we could probably wind up with getting a few more, but these are the ones where we spend most of our time, especially the discursive thought. Now what the Buddha recommends, which is not part of the Mahasi Method, is that we also work with the discursive thought that Mahasi seems to point out, and I want to really read it carefully and get all the details out to show, because it appears that they only are talking about either hindrances being discursive thought or the noting kind of thoughts which are observational. And are missing out on a whole different kind of thinking that the Buddha puts a whole lot of emphasis on, and so did Bhikkhu Buddhadasa. And that is the kind of discursive thoughts that are not in fact hindrances. There are discursive thoughts that in fact are useful, valuable, and wholesome, and this is where Mahayana The Buddha and Bhikkhu Buddhadasa kind of part company is at this point about what are we going to do with the discursive thoughts. Now there's actually a kind of an issue with the Mahasi Method that if they do away with the hindrances and all discursive thoughts, then one is already almost in the neighborhood of the second Jhana. It is extremely difficult for a person to go absolutely from unwholesome discursive hindrances into no thought at all, or into no discursive thought and having only noting thought. That we have to kind of turn that big ship around rather than bring it to a stop. Bringing your ship to a stop is really, really hard to do out on the ocean. But what you can do is you can turn it around and change your head, uh, its direction. It does take a while to turn things around. So this is the analogy that we want to use. And this is where Bhikkhu Buddhadasa is talking about step number 10 of gladdening the mind, because if we do not gladden the mind, then we will not develop Piti and Sukkha cannot be done. We have to do that through the discursive thought. That observational thought in and of itself does not bring on this kind of joy, but rather the discursive thought that you've heard me talk about in the sense of everything's going to be all right, everything is fine, there are no problems, everything is okay. These are the kind of thoughts that are intended to gladden the mind, to get us into a state of Sukkha, because the only other option is with the hindrances that are mixed in with the noting thoughts. So you'll have discursive thought and noting thought, discursive thought and observational thought mixed together, but neither one of them are taking us out of the feelings that are brought on by the hindrances. Observational thoughts do not change the Vedana. It is actually the discursive thoughts that we have to change from the unwholesome to the wholesome. And that I can show this in so many different suttas, including the Mahasi's very favorite favorite one in the Satipatthana Sutta, but it's also very well laid out in the Anapanasati Sutta and also in the Exposition of the Eightfold Noble Path, number 117, the Great Forty. It makes a big deal out of it, and then it tells a big story about it in Sutta number 19, which is two kinds of thought. Okay, and what we're talking about here is two kinds of discursive thought. The Mahasi doesn't make that distinction. He just says hindrances must be removed so that you can do the noting kind of thoughts. But the Buddha talks about two kinds of discursive thought as wholesome thought and unwholesome thought. Naturally, the hindrances are going to be unwholesome thought and Let's talk about the wholesome kind of thought, because this is so important. In Sutta 19, there is an analogy of a cowherd that is taking his cows down a path, and on that path there are people, there are food stalls, there are children, there's all kinds of things. And so the cowherd has to make sure that his cows are not going to be doing a lot of damage going down that pathway. And so he's got a stick, and when that cow goes off the path, maybe gets his face in the groceries on that food stall table, then the cowherd is going to whack that cow. He's going to whack him to get him out of danger. Now, a lot of people will say how violent it is for that cowherd to whack that cow, but we're really talking about the cowherd in his mind anyway. And so if the cowherd whacks that cow, then that means that the cow did not mess up that food stall, and therefore the cowherd can have— what a great relief that is that that cow is about to cause a lot of damage, and he didn't. What a relief it is I don't have to go there. Okay, this is an important point that we have to whack that cow. Now, Mahasi actually talks about it in that sense that a lot of them miss about the noting, that the noting has to actually seize the object, just like the cowherd has to actually whack that cow. And Bhikkhu Buddhadasa— in fact, you and I read this just not long ago about Anapanasati, that where Bhikkhuni Buddha is talking about seizing the breath, taking control over it, grasping it. All right, so we also need to do that in the sense of whacking that cow to keep it on the path, or to keep it from having an unwholesome thought, and making sure that it has wholesome thoughts. So we can think of those cows walking as discursive thought. What are the cows going to do, just sit down and stop? No, they're going to keep going, but you want to keep them in the right direction. You want to herd them so that they are able to travel without any damage. So this is a major point then, is that we have to change our thoughts from unwholesome into wholesome thoughts. Now, the next part of that story is, is that after the cowherd has got the cows out to pasture and he's taken them to a place where the rice has already been harvested and there's chaff and stubble, and so now it's okay for the cows to eat. In this sense, he can relax because now, in our analogy, every thought is wholesome. One wholesome thought after another wholesome thought after another wholesome thought. And now those wholesome thoughts are also mixed in with observational or noting thoughts. So when we are noting now, we're noting wholesome thoughts. Okay, is it beginning to make sense? Yeah, yeah, yeah. Okay, so this is how the Sukkha and Piti are built up, is because we no longer have unwholesome discursive thoughts that keep the mind contacting things ignorantly. Giving rise to ignorant feelings that wind up having us with anxiety, tensions, worries, whatnot like that. So you can see the meditator sitting there in his meditation and he begins to observe anxiety or restlessness, not understanding that this is normally the result of having Observational thoughts mixed with hindering thoughts or unwholesome thoughts. But when we can get it all into one wholesome thought after another wholesome thought after another wholesome thought, one after another, that is when the cowherd can now, while the cows are out to pasture, he can relax. But you don't hear in the Mahasi Method this quality of being able to relax. Because now all of the thought, all of the mixture of observational thoughts and discursive thoughts are all wholesome. Okay, that's the important thing. So now that the cowherd can relax, this is actually part of then, let us put step 4 of Anapanasati in here, that the body relaxes. The fear relaxes, there's nothing to be afraid of, and we keep telling ourselves and pointing that out that there's nothing to be afraid of. New job that needs to be done. But if we have hindering thoughts, we can think of all kinds of things that could go wrong that we might need to go fix right now.
+
+**Speaker A:** So, a practitioner who was working through the first, second, third, fourth training will enter into the first Jhana, which is characterized by directed thought evaluation and singleness of preoccupation. And when there's a good balance of
+
+**Speaker B:** those— Where did you read that? Is that out of the Anapanasati Sutta, Anapanasati book that you're reading?
+
+**Speaker A:** That definition of Jhana is not in there, but we talked about that last time.
+
+**Speaker B:** Okay, yes, that comes— here's— that's another point then, is that, uh, the Jhana, the first Jhana, which Mahasi would point to as the, uh, uh, full absorption, full Samadhi, as opposed to access concentration. Okay, I'm not really sure about this access concentration, that in fact a possibly better way of looking at it is that the real access concentration that they're all talking about is actually first Jhana, and then the absorption that you're talking about then is second Jhana, because this is when the discursive thoughts fall away completely. But in first Jhana, we do have discursive thoughts and we use them to great advantage.
+
+**Speaker A:** Why?
+
+**Speaker B:** Because they're applied to an object and directed to that object and sustained on that object. And what is that object? Wholesome discursive thought. That's how we're able to have one wholesome thought after another after another, is because the mind has already that quality of being able to apply the mind and sustain it on only the wholesome. And that makes it a Jhana factor, not the only, there's 5 Jhana factors, but the number 1 most important Jhana factor at all is that the mind is free from unwholesome thoughts. But first Jhana is not free from wholesome thoughts, and in fact first Jhana is all about how to manage discursive thoughts so that they will be wholesome. It's not possible for you to drop discursive thoughts just dropping them. That's not going to happen. We have to learn to control them first before we— in other words, we've got to get the pajamas on the kid. We've even got to get the kid into the house and then get the kid into pajamas before we can get him in bed. If you cannot even get the kid to come into the house, how are we going to get him in bed? Okay, so this is the way that we have to look at it. If the mind is completely unwholesome, it's not going to go from completely unwholesome all over the place with all of these bad feelings and all of this work to do and everything into silence. Not going to happen. The mind doesn't work that way. And so it's kind of amazing that the Maharishi Method would leave this out. Because we cannot go from discursive thought to only noting thought, that we only can go from discursive thought that is unwholesome into discursive thought that is wholesome, and this is then the first, let us say, a factor of the first Jhana, is this wholesome thought. Now, once we get the mind into the wholesome thoughts. We could begin to wholesomely talk ourselves into feeling good, just like all of these years with the hindrances we have talked ourselves into feeling bad. Okay, like the child, for instance, uh, on the way home from school on the bus realizes that he did not bring his homework home with him. He left it at school. One thought and now he's in panic, and he's going to possibly stay in panic until he gets home, and maybe in panic all evening, and panic in the next morning when he goes back to school. Okay, so one little thought can cause that panic. Yeah, but if we don't have any unwholesome thoughts— in other words, if the child had had that one thought, I left the work at school, And the child could say, "Well, what can I do to get it? I don't know how to go get it. The school is locked, I can't get back to the school, there's nothing that I can do. Let me at least enjoy the ride home on the bus." But very few kids are that wise, they cannot wake up to that. And so they'll be in misery and anxiety all the way home. Thinking that something bad is going to happen, to where in fact nothing bad is happening. So, what we need to do then is to train the mind into being wholesome so that we can talk ourselves into feeling good, just like that child on the bus talked himself into feeling bad. "Oh no, what about that homework? Oh, I don't know how to get it. Oh, everything's going to go wrong." You can hear all of the thoughts. Will go on that are associated with that, building up the bad feelings. And there's no wholesome thoughts in there anywhere.
+
+**Speaker A:** And so in this training, the fifth one, which focuses the attention on the Piti, so he writes in here that Once the breath is calm, these feelings of Piti and Sukkha appear, and then we take the Piti and Sukkha as the object of our practice. So Bhikkhuni recommends really trying to become familiar with the Piti here. So for instance, is it heavy? Is it light? Is it coarse? Is it subtle? To investigate the influence that the Piti has on the mind and thoughts. And something interesting here, he says that there's different levels of Piti.
+
+**Speaker B:** Oh, absolutely. How good can't you feel?
+
+**Speaker A:** That there are 3 in particular. So what gets translated as satisfaction Uh, so, okay, so no, I think so. Rapture, which is high. Contentment, which is middle. And then satisfaction, which is low.
+
+**Speaker B:** All right, you have to understand that Santi Karo is trying to play with words there, trying to bring in concepts that he really doesn't know that much about. This is an important point, but yes, we can talk about it in threes. But before we do that, let's talk about Piti-Sukkha as a concept first. Now, the word Piti is generally followed in the suttas as Piti-Sukkha, and sometimes the combination of Piti-Sukkha is just left out. Using the word Piti. Now, the reason why Piti-Sukkha is not actually said as Sukkha-Piti is because the Piti is the bigger of the two. Yeah, more energetic.
+
+**Speaker A:** Yeah.
+
+**Speaker B:** And so I've got someone, a new student, I think. All right, so now we can go back. The Sukkha though is something that generally comes first, even though Piti is referred to linguistically as Piti-Sukkha, but it's kind of the combination of the two. And that the way that we develop it is with the Sukkha first, and then as the Sukkha grows, it kind of grows into Piti.
+
+**Speaker C:** Hmm.
+
+**Speaker B:** And another way that you can think of it is, is that there is like a wave. Notice my finger. Okay, that there's kind of a wave, and that sometimes it goes way up. That when it goes way up, that would be the Piti. But it is going to peak, peak and trough. And when it goes back down, then it's going to go back down into Sukkha. And generally the way that it happens with people is something spectacular will happen. Ordinary Piti then, for the ordinary person, will arise in a big spectacular way, and then it will melt down into Sukkha. There's two ways that I can tell you about that. One is like at a football match, let's say a pro football game, and one of the players makes a touchdown. What does he do immediately following the touchdown?
+
+**Speaker A:** Celebrates, slams the ball.
+
+**Speaker B:** Jumps around, spikes around, spikes the ball, jumps around, and displays great pleasure, success. That is Piti in action right there. That is an absolutely observable— and then in fact, not only that, but look at what's happening in the stands, especially the part of the stands where the fans are that are fans of that particular football player. What do the fans do?
+
+**Speaker A:** Yeah, same thing, jumping around, great excitement.
+
+**Speaker B:** Jumping around, maybe with their arms in the air, they stand, they shout, they cheer. Okay, so what do the fans do about a minute later?
+
+**Speaker A:** They all sit down.
+
+**Speaker B:** And what?
+
+**Speaker A:** Well, they're all probably clapping each other on the back and smiling.
+
+**Speaker B:** Smiling and sighing with relief and taking on the scoreboard and going into a state of easygoing pleasure. That's Sukkha. Okay, another example. New Year's Eve, Times Square. Many people in Times Square traveled long distance, paid expensive hotel rooms, and now you've got a million people before Corona, and the ball starts to drop. And what does everybody do? They start to count down. And when that ball gets down to zero, what happens?
+
+**Speaker A:** Jumping around, celebrating. Yay, yay.
+
+**Speaker B:** Uh-huh. Lots of noise. What happens a minute or so after that? Maybe the band strikes up, everybody hugs each other now and swings back and forth to Arahant's sign. You can see that Piti-Sukkha sequence right there also.
+
+**Speaker C:** Yeah.
+
+**Speaker B:** Okay, now the ignorance is, is that everyone in that football stadium and everyone in Times Square thought that the reason that they went there was to have those really wonderful good feelings because it was the, the score, or it was the New Year's that caused those great wonderful feelings.
+
+**Speaker A:** Huh?
+
+**Speaker B:** Guess what? Those feelings were created inside of each individual one, but there was a cue, or there was an anchor, or there was a trigger, or there was a button that was pushed. Why can't we find those same buttons while sitting peacefully on the floor? The answer is we can. Okay, that we can get ourselves into that state of euphoria is a probably better word than rapture. Yeah. And so I'm not sure about the word bliss, but euphoria tends to work as that top-level thing. Okay, but he also used the word contentment and satisfaction. In fact, I would like to point out that the word satisfaction is extraordinarily powerful as a word. Why? Because it is in fact exactly opposite of Dukkha. I don't think that, though Bhikkhu Buddhadasa certainly knows about this, I don't think that Bhante Karuna was making point of it, and that is that Sukkha is the exact opposite of Dukkha. Sukkha is the exact opposite of Dukkha, which means when you have Sukkha, you're free from Dukkha, which means that if you have Sukkha, you're in Third Noble Truth. Okay, this is actually why that Sukkha is such an important quality of the First Jhana. And that Sukkha is also very, very close to its companion of Piti. Piti and Sukkha go together.
+
+**Speaker A:** And with the Piti, you can also
+
+**Speaker B:** have
+
+**Speaker A:** energetic feelings in the body, tingling.
+
+**Speaker B:** Didn't that guy who spiked that football have energetic feelings in his body? What about the guys that are jumping up and down in the stands? Look what doing with their bodies. They feel extremely energetic. That's exactly what Piti does for it. It rouses us up. It's a state of euphoria.
+
+**Speaker A:** And there can be sensations of like squeezing in the forehead or throbbing. Is that Piti as well?
+
+**Speaker B:** Well, I don't think that it would be useful for us to try to get a complete list of all the possible bodily sensations that can occur with Piti, because everywhere it could affect every place on your body, because you're actually changing the body chemistry, you're actually changing the blood chemistry, and because of that you can experience it all over. But let me give you some of them that they talk about in the suttas that are actually very experienceable, and that is that the hair will stand up on end. They call it goosebumps, okay, especially on the back of the neck. Another feeling that can occur is the feeling of tingling like this that comes up the back. This is actually in the Hindu system. This is the Kundalini. The Kundalini arising is nothing but the energy, but also you can feel that tingling in the legs and in the arms, and that actually it can cause jerkiness in the body, that the Piti can become so strong that the person actually kind of sitting in meditation posture the knees will jerk and it looks like that you're bouncing on the floor, sometimes even making a noise. All right, so this is the kind of Piti that can occur as a bodily sensation, but none of those things actually have any quality to it at all. That the real quality to the feeling is the feeling that goes along with the feeling of satisfaction. Or the feeling of, "Right, this is so nice."
+
+**Speaker A:** Yeah, so having a little experience initially with the Mahasi Method and what they call the paths of the insight stages. So there's a stage of insight they call the arising and passing away. And I think from my own experience, when I first went into maybe what they call the arising and passing away, it was essentially when I finally got into first Jhana and I started to get that feeling, the Sukkha and the Piti and then the— Oh, they didn't mention it.
+
+**Speaker B:** This is in fact 13, Anapanasati, the arising and the passing away is step 13, the Anicca, the arising, and then the passing away is step 14, Anapanasati, arising and passing away.
+
+**Speaker A:** And there definitely seems to be sort of a point of passage. So once you get first Jhana and you begin to get the feelings of the Piti and the Sukkha, it seems like you always are able to access it. Because for the 7 years basically that I wasn't practicing in a formal way, I would get Piti sensations just, you know, sort of spontaneously, or, you know, I would, you know, incline the mind to think about something and I'd start to get pulsations in the forehead or I'd get little tingles and stuff like that. So it seems like— You just told
+
+**Speaker B:** me that you can talk yourself into feeling good.
+
+**Speaker A:** Yeah.
+
+**Speaker B:** Yeah, exactly. Isn't that amazing? You were practicing Anapanasati and thinking that you weren't.
+
+**Speaker A:** Yeah, it's interesting.
+
+**Speaker B:** You're actually out there riding a bicycle without a bicycle. And I use that analogy because the point about bicycle riding, the coordination and the balance, once we learn how to do that, you could go 10 or 15 years without riding a bicycle, and within 30 seconds you got that bicycle again.
+
+**Speaker C:** All right.
+
+**Speaker B:** So yeah, once you start developing the practice of Anapanasati, the whole idea is that especially if you're intent on doing it, then throughout the day you begin to do it often. Or if you just forget about a formal practice altogether, still from time to time you will be able to talk yourself into feeling good again.
+
+**Speaker A:** Now one of the interesting things here in this section of the book is then he has some sort of critiques of Piti. So as part of the training of observing the Piti, it's recommended that you observe that the Piti is not peaceful. There is a kind of excitement or disturbance. All levels, yeah, as stimulating, is caught causing the Citta to tremble and shake.
+
+**Speaker B:** Yes, just like that football player jumping around after he makes that touchdown. You would think that once he made that touchdown that he had the thought, now I can rest. Then instead of jumping around or cheering and any of that kind of stuff, as soon as he makes that touchdown down, he would just lay the ball down and lay down, take a deep breath. Wow, I'm glad that's over. But they don't. That Piti, in fact, is disturbing. Yeah, but it is a whole lot less disturbing than hindering thoughts, right? And so in fact, we could go— then the Buddha talks about it in the sense of one wholesome thought after another wholesome thought after another wholesome thought itself. Now, even though that's much more peaceful than one unwholesome thought after another, or wholesome mixed with unwholesome, or unwholesome mixed with observational thoughts— having one discursive thought after another mixed with observational thoughts then also is a bit of tiring a bit of fatiguing in and of itself. And so the next thing then to happen is once we're able to get unwholesome thoughts out of the mind and have only wholesome thoughts one after another, now we can begin to put some space between the wholesome thoughts. In other words, the cowherd can in fact from time to time rest his eyes, close his eyes for a second or two and rest, and then open his eyes and continue to observe the cows to make sure they're not wandering off, and then he can rest again. Okay, so that means that we can begin once we get first Jhana very, very firmly established so that we do have control over the Piti and control over the Sukkha. We can let this Piti melt away into more more of a Sukkha and let the mind come to having some space. Now when the mind generally stops altogether for the first time, a practitioner— and I remember talking about this to Bhikkhu Buddhadasa because I had already had that experience with him when I was with Goenka, so we talked about it— in the sense that when the mind stops completely, the first thing that happens is great euphoria, more Piti, "Finally I've got the darn thing to stop!" Well, that Piti, that euphoria almost always invites back the discursive thought about, "Wow, I've done it," or, "Wow, look at that," and that in fact this is the problem of how to get into second Jhana, is because we are absolutely overwhelmed overwhelmed now with this Piti of being able to have finally gotten the mind stopped. But that's only the path of the second Jhana. The fruit of the second Jhana is to be able to manage all of these really, really good feelings that are occurring because we do feel successful. We actually can control the mind, we can bring it to a stop, but then all of these great feelings are there. So the third Jhana then is going to quiet down this Piti and this Sukkha so that we can bring into a level of equanimity while we have this state of no thought. So this is actually what we are meaning by then the Jhanas are capable of bringing us quicker and quicker or earlier and earlier into the process of the Paticcasamuppada, so that first Jhana will be at that point of contact, so that we can begin to have the feelings that we want to have. Later, we begin to monitor things down at the level of perception so that we can see how we perceive things. So, we have to find a way of getting through all of these feelings to get them to quiet down because they are, in fact, disturbing. Go ahead.
+
+**Speaker A:** [Speaker:Dhammarato] I think that's an important point because when I was practicing before, I think for some reason I felt like the more Piti I was having, the more successful, and so I focused a lot on trying— [Speaker:Arhat] A lot of people do. Increase the feeling of tingling. I wanted to make it more and more and more. And so what's interesting is that the
+
+**Speaker B:** general attitude of your meditator is coming out of Western— I mean, getting a raise in your salary is a good thing. So getting a raise in your Piti ought to be a good thing too.
+
+**Speaker A:** It's got to be, right? The more Piti, the more, I don't know, concentrated you are or And so, you know, you would use it as a judge, you know, "Oh, I don't have as much, you know, tingling this time. It must have not been as good a practice." And so I think it's a very interesting point here that the Piti is
+
+**Speaker B:** not,
+
+**Speaker A:** you know, is not something in and of itself that you want to dwell on, that you want to try to cultivate. You know, once it's there, actually, he recommends noticing its coarseness, the way that it He thinks that it actually becomes in a way a hindrance to the practice because he believes that it makes it harder to observe the mind when there's a lot of— For some people,
+
+**Speaker B:** it is so delicious, it is so nice, it is so satisfying, and they feel so good about themselves that they think that that's the goal. That they don't want to shut down that aspect so that they can go to another aspect. Now let's talk about it in a very strange way. Have you ever heard of the Harlem Globetrotters? Meadowlark Lemon?
+
+**Speaker A:** I have heard. Yeah, I have heard of the Harlem Globetrotters. They were sort of a big thing when I was a kid.
+
+**Speaker B:** Okay, they're an exhibition kind of— they don't play professional basketball. But they're an exhibition on the arts of basketball, and they will go and play college teams and high school teams or whatnot. This is way back in the '60s. But the point is, is that Meadowlark Lemon was so good at making baskets that he did not get any more pity from it. Or imagine that the football star who is now making a touchdown, let us say, very early in the game, And for some reason or another, he has an extraordinary series of luck, so that about every 10 minutes or so throughout that football game, he makes another touchdown, so that he's made now 100 or maybe 130 or 170 points at 6 points apiece because he's made 15 or 20 or 30 touchdowns. Yeah. Now, if he's making the number 27 or 28 touchdown in this football game, is he going to have the same Piti that he had when when he made that first touchdown? Not likely, right? No, it's going to mellow, isn't it? He's still going to feel successful that he's made that touchdown. Well, this is going to be the same way that the meditator does too. That Piti, the very strong Piti, is for a beginner, or let us say an advanced beginner, because raw beginners have no Piti at all. But once they start getting Piti, they think that that's that's the it's-kadits. No, it's just a milestone along the way. But the more successful you get at it, the less important the Piti gets and the more important the Sukkha becomes.
+
+**Speaker C:** Right.
+
+**Speaker B:** Why? Because the Sukkha is in fact the contentment. The Sukkha is in fact the freedom from suffering. The Sukkha Anicca is in fact safe, secure, satisfied, and comfortable, but that the Piti is euphoric, or it's higher than that. It's not just that it is, I'm completely satisfied with this, but this is kind of like over the top. Yeah.
+
+**Speaker A:** And so the sixth training focuses on the Sukkha. He trains himself thoroughly experiencing Sukkha, I breathe in. He trains himself thoroughly experiencing Sukkha, I breathe out.
+
+**Speaker B:** Exactly. Piti and Sukkha work together. And the very beginner will also have Sukkha before they have Piti. But then when the Piti does come, it will then modify back into Sukkha. Think about it as kind of a continuum to where you have budding Sukkha, but as the Sukkha builds, it builds right up to euphoria. But where's the balance in that? The middle path should be somewhere in the middle, above the satisfaction and below the euphoria. At that level of contentment. Wow, everything is so nice.
+
+**Speaker A:** Because when the Sukkha is present, then the feeling that predominates is not the excitement and stimulation of the Piti, but it's a calmness, it's a soothingness, it's a subtleness of the mind, and you relax into it.
+
+**Speaker B:** Right, so you could say then the Piti is realizing that you've won the lottery, all right? And then the Sukkha comes in, the plotting of how later you're going to spend the money, or the actual joy of spending the money. But the— but the Piti is the euphoria of the realization, I've got it. I've done it. This is why the Piti is also associated with the Eightfold Noble Path factor of right attitude, because both of them have the feeling of success. And success is euphoric, success is energetic, success is an energetic But we want to relax that just a bit, that we don't want to stay up at that top level of Sukkha, or excuse me, of Piti, but rather let it mollify into real contentment or real ease. And so now we have all the Jhana factors together. Here they are. That's really interesting about that first, about the Anapanasati Sutta, is that if you understand it correctly, it is nothing but getting the mind into first jhana and giving it the work to do to get into first jhana, then giving it the work to do while in first jhana. And that's the entire teaching of the Anapanasati Sutta. It's all about the Piti and the Sukkha. But there's another point, and that is that in the Anguttara Nikaya, in the threes, it talks about the three trainings or the 3 skills to be developed. And it says the first skill to be developed is to being able to get into the first Jhana easily.
+
+**Speaker A:** Yeah.
+
+**Speaker B:** The second skill is to be able to maintain that first Jhana. And this is the skill that most students miss out on. The Westerner is always more, more, more, more, more, rather than really what you need to do is learn how to
+
+**Speaker A:** walk
+
+**Speaker B:** on the surface that you're on without falling into the cracks. Okay, never mind about climbing the rest of the ladder. Can you at least get yourself onto the first rung of the ladder and get yourself stable? So that you can actually stand on that ladder without having to climb right to the top of it, right? Or another one, uh, the, uh, high wire act. Yeah, first step out onto that high wire so that you're fully supported on the high wire. Until you get that stable, there is absolutely ridiculously stupid to take the next step until you get that first step absolutely stable. Then the third skill to be developed is to be able to leave the first Jhana. Now this is a tricky one. Why? Because everybody says it takes no skill at all to leave the first Jhana, and in fact that's just the lack of the second skill. And you pop right back out of it. But what do you pop out of the first jhana? Is your packet popping out of wholesome thoughts? And the only place to go from wholesome thoughts is to guess what? Unwholesome thoughts. And so you don't fall— you don't develop the skill of coming out of the second jhana by falling out of— excuse me, you don't develop the skill of first jhana maintaining it and then coming out of it as a skill by falling out of it into hindrances. No, the skill of the first Jhana, coming out of the first Jhana, is to quieten then these one after another wholesome thoughts, one after another wholesome thought, wholesome thought, and then we begin to put gaps in those wholesome thoughts. This is now the training of the higher part of, or the fruit of, the first Jhana. Is when we begin to put gaps, visible gaps we could see between the thoughts. This is the third skill. The reason that I'm bringing this up, these three skills— getting into it, maintaining it, and then passing beyond it— is because almost all practitioners— I would assume that this happened to the Buddha also— that in the beginning when he was practicing, he didn't actually develop the skill of maintaining the first Jhana, but rather he was anxious to get into the second and then get into the third. This is the mentality of the ordinary practitioner. Yeah, the noble practitioner is saying, no, we really do need to develop this sustaining of the first Jhana. Let us get into and maintain wholesome thoughts one after another after another. Why? Because if we are actually capable of doing that, we can live our lives in this state. You cannot live your life in the state of second Jhana. No thought will get you arrested, no thought will get you in jail, no thought at all may get you into the ICU. If you do not respond to the doctors at all, because there is no thought, no discursive thought going on at all, then the likelihood is that they don't know what to do with you because they've never seen putting somebody like that. And not only that, but for the guy, it would be unwise for him to maintain a second or a third Jhana while he's got this input of these people picking him up and putting him on a gurney.
+
+**Speaker A:** Yeah, I think that, you know, I think that maybe it's sort of a popular thought out there that the goal is no thought, right? So I guess that would be second Jhana, right? Like, um, that people think, yeah, we
+
+**Speaker B:** should always— of applied and discursive thought. Exactly. It's the stilling of the applied thought. Well, we don't want to still it. We want to make it completely wholesome. It will happen naturally. I would say that if a monk was really skilled in practicing the first Jhana, he's naturally going to go into the higher jhanas simply because he's got nothing better to do with his afternoon. And so, the first jhana is the only goal. The first jhana is the skill to be developed. The higher jhanas will happen on their own depending upon conditions and circumstances so long as you have that absolutely firm foundation that you can control the mind to keep it wholesome. If you can control the mind to keep it wholesome, thought after thought after thought after thought, then you can begin to even relax that. But you don't relax it till it goes away. No, you, uh, it's sort of like imagine that you could catch a bird. Catching that bird would be the first jhana. Holding that bird in the hand would be the, uh, the first jhana. And also then the first Jhana is, can you open your hand and let the bird just sit there comfortably? Okay, can the bird just sit there? That's the question that we're talking about. Can you allow the mind to come into that wholesome state? And eventually, as the Buddha would recommend, you can see that even one wholesome thought thought after another, after another, begins to be even more work that you could find a way to even relax that, that that's what the Jhanas really are about, is relaxation. We start at the top, no relaxation at all, hindrances all around, then the first Jhana is to relax to where now we only have wholesome thoughts. Then we relax that to where we begin to put gaps in those thoughts until we come to the point that there is no thought at and that's even more relaxation. However, that point also has a lot of Piti and Sukkha and a lot of really good feelings in it, so we begin to relax those and come to even more relaxed state. And when we come down to that point, then we recognize that even the perception is work, and we can come out of the perception to where we're fully into sensory awareness or into consciousness because it's just a lot of work to keep trying to make sense out of everything. Why should I keep trying to make sense out of everything in the third jhana when in the fourth jhana I could just be, and I don't have to even process anything anymore. I can just be here in sensory awareness. Okay, so in that regard, it is a state of one relaxation to another relaxation, deeper even to more relaxation, into more relaxation, into into the deepest of relaxation, which would be in a similar state that it would be like a deep sleep, except that you do have sensory awareness. But in order to respond to any of that sensory awareness, you're going to have to come out of that Jhana. Yeah, but if you maintain that Jhana while the cops come by, you're— they're going to put you on a gurney and have you in the morgue because you just will I'm not. Well, you're— it depends upon your breathing, because if they do the mirror test like they did 150 years ago, you know, there was a time when they took a dead body and made it a medical issue in the sense of the time of death. How did they determine that? Was with a mirror. Do you know how they use that mirror to determine death? They held it against the nostrils, and if there was any sign of moisture or anything coming onto that mirror, then they knew that he was still breathing. Except that he may have not been breathing enough for that mirror to show. Yeah, he may not be dead yet.
+
+**Speaker C:** Yeah.
+
+**Speaker B:** Okay, so if they use that kind of text, then these 4 Jhana dudes, they're going to be perhaps buried because they're not responding to anything. So is these are— this is part of the reason why it's important for the monks to get themselves into seclusion, get them into a really, really secure environment. Because ordinary people do not know how to manage monks who are in these states, and there's really no reason for the monks to be in these states anyway, because the real enlightenment is to be free from suffering. Okay, well, agitation— let us say the first Jhana, the Buddha says that's enough. That these deeper, deeper relaxations are not fit for living one's life. The monk can go on vendabat in first Jhana, but he can't go on vendabat in second Jhana. Well, maybe he can go out on vendabat, but he'll have to at least have a thought, "I should stop now and turn around so that this lady can put food in the bowl." That that's in fact the whole point about the second jhana, of why the walking meditation has boundaries. And that beginners don't need those boundaries, but the advanced students who can walk into the second jhana need a boundary so that they can have a thought to stop. Now is the time to stop in this direction, to turn around and walk walk back. And so we go back and forth and back and forth in this walking meditation boundary, because if we walk off in second jhana, we could walk off into all kinds of dangerous territory. Right. So these— and the third jhana, and especially the fourth jhana, you can't even walk. You don't have even that control over the body. Or let us say that you suspended that animation. Not to draw a pun there from Science-Fiction.
+
+**Speaker A:** Yeah, some people talk about the second Jhana as like a flow state.
+
+**Speaker B:** Yes, an example of that flow state, one ancient one, was you and I have spears, we've we're naked, it's 100, maybe 500,000 years ago, and we see a boar. We're in the jungle. I take off after that boar, you take off after that boar, and one thing that we have known for a long time is that if we lose sight of that boar, if that boar can hide from us, if he can go someplace where we can't see him, we've lost him. We have to keep our eye on that boar. That means we're probably not talking to each other or having discursive thought. We've got our mind on that boar and we're chasing that boar. Okay, so that means that this kind of thought process, keeping a mind on that boar, means that we can jump over logs, we can tear through thickets, we can do all kinds of things to keep our eye on that boar. This is not exactly the second jhana that the Buddha is talking about, but you can see that it's free of discursive thought, because if we start thinking about something, we're going to lose track of that ball. We've got to keep our eye on it all the time. Another example of it would be Formula One racing. Okay, not around the track. Indy, we're not talking about. You could be in any kind of state in that and make it around the track. But on Formula 1 racing, you know, that's real road racing in Europe where they just put up a few barriers here and there, but a little old lady can walk right out there on the track. And if you have the thought while you're driving, that old lady ought not be out there on this track, you'll kill her. Yeah, you cannot have those thoughts. You've got to keep your eye on that road and you've got to be able to move that car. So it's actually a very physical exercise, this issue, and it's very, very highly mind-body coordination, but it is energetic. Wow, the thrill! I mean, those Formula One racers do it for the thrill. That very Piti that we're talking about is the object. I know because I used to race motorcycles. I know what we're talking about. And in fact, it is agitating. It's the thrill. That's the whole point of it, is that it's thrill, and we like that thrill. But the thrill itself, let us say, is an agitation, and it's also a little bit dangerous. Because if that Formula One racer is more interested in how he feels while he's going around that race track, he'll probably crash. Yeah, he needs to keep that thrill going by watching what he's doing and, you know, and keeping track of what's going on. So this is actually the quality of the second Jhana that would be naturally occurring, that it is free from discursive thought and it is euphoric. It is energizing, and so it does have these qualities of second jhana, but it is not the jhana that we're talking about because first off, it is not a developed mind that's doing it. So we have to develop the mind. So anyway, this is the way of looking at the second jhana and the way that we're developing it is it's actually just maybe it's okay, maybe it's not, but we do recognize that the real point to come to, the important place, is to be able to have one wholesome thought after another, after another, after another, because if we have a sequence of one wholesome thought after another and we can sustain that for a long period of time, Then where are the fetters? Where is the fetter of doubt? There is no doubt. Why? Because all of my thoughts are wholesome. I'm not having any unwholesome thoughts about what the hell is that. Yeah, okay. How about anger? How about fear? No, we're not. So we're going to— if we can live our lives in that first Jhana, then we have an absolutely marvelous life to live. This is why the Buddha talks about it. And he says, why am I afraid of that rapture and Piti of the first Jhana? Because it's not the same thing as the sensual pleasures that the race car driver gets, or the guy who goes to the brothel, or goes to the bar, or robs the bank for the thrill of it. I know I'll have to confess, I confess, Your Honor, I used to shoplift just for the thrill of it. Haven't done it in 20 years, but I also, by the way, on that same regard, I used to take job interviews just for the thrill of taking the interview with no intention of taking the job, just intention of getting it offered.
+
+**Speaker A:** Oh yeah, wow.
+
+**Speaker B:** Really weird thrill seeking.
+
+**Speaker A:** Well, I mean,
+
+**Speaker B:** that's sort of the,
+
+**Speaker A:** you know, I don't know what, like the conundrum of modern life is, you know, how we're stuck with trying to experience pleasure, you know, as the only means of happiness in life because we're not taught how to cultivate these states from within. And so, you know, like you said, if you experience a certain kind of pleasure enough, it ceases to be as stimulating. And so then you have to keep re-upping or increasing dosage, you know. That's addiction. That's like addictive behavior.
+
+**Speaker B:** Yeah, the name Evel Knievel comes to mind.
+
+**Speaker A:** Yeah.
+
+**Speaker B:** More and more and more thrill-seeking, doing more and more dangerous things.
+
+**Speaker C:** Yeah.
+
+**Speaker A:** And we all have our versions of that, right? Like our compulsion. I think if you look at everyone's lives, you see that we all have our compulsions. And there's a writer, David Foster Wallace, and he had this phrase, a supposedly fun thing. And it's a sort of phenomenon of, you know, something that at one point gave us pleasure, but after doing it enough, it sort of stops being pleasurable, but we keep doing it, we keep chasing it. And then at a certain point, that activity might become unpleasant, but our mind
+
+**Speaker B:** is— [Speaker:BHIKKUNI] We still do it.
+
+**Speaker A:** [Speaker:DHAMMARATO] It should be pleasurable. And so we keep doing it, and now that formerly pleasurable thing is actually causing us to suffer.
+
+**Speaker B:** Exactly. I'll give you a really clear example of that that I saw so many years ago. A good friend of mine, let us say a good friend who was a college professor, he was a psychologist, and one time he took me to an old friend of his and down to the basement. That this guy— this was in Detroit— in his basement he had a model train set that would blow away anybody. I mean, it was all over the place. But the guy had gotten old and he no longer enjoyed it, that he had spent so many hours, so many thousands of hours putting that train set together. But now any mechanical object like that whole thing is going to break down. And he says, every time that I try to play with my trains, they break down, and I don't even want to fix them anymore. Okay, so that's a clear example of that. Yeah, very clear example of a— we get into the habit of doing something, and he builds all of these trains, and eventually it becomes too much work and he quits.
+
+**Speaker A:** Yeah, I think we all have our versions of that. Yes, I think the hoarder is sort of like, uh, uh, I don't know, like a symbol for all of us in a way, you know, like there's a hoarder in all of our hearts. And when we see these horrible, like, hoarder videos, you know, of people who live in piles of garbage, and, you know, I think that in a way— Treasures!
+
+**Speaker B:** They're treasures. Every one of them are treasures. Don't call it garbage, it's treasures.
+
+**Speaker A:** Well, that's the funny thing is that, you know, There's no agreement on it, right? So somebody's treasure is someone else's garbage.
+
+**Speaker B:** Exactly.
+
+**Speaker A:** So people, they live their lives and they fill their homes full of possessions, and then they pass, and then where does that stuff go? A lot of times just in the dumpster because people don't want to dump.
+
+**Speaker B:** Exactly. Yeah, that's exactly what I've thought about with the network. I don't want to go into too much detail here.. But I know that when I die, that the network that I have spent so many years building and maintaining is going to get thrown out. Thousands of dollars worth of hard drives are just going to get thrown out, because nobody here knows what to do with any of it.
+
+**Speaker A:** That's a brave thing, a bracing
+
+**Speaker B:** idea. Yeah, well, the point is, is that if it's all going to be thrown away anyway when I die, why am I bothering to keep it maintained now? I'm right now, I'm in the same place that that guy with the trains. Why bother to maintain this
+
+**Speaker A:** system? Well, you know, well, so that's where the distinction between the wholesome, right? So it isn't that like all feelings are unwholesome. Some feelings are wholesome. And similarly, not all thoughts are unwholesome, some are wholesome.
+
+**Speaker B:** Absolutely. Thoughts of friendship, thoughts of goodwill, thoughts of renunciation. Now these are low-class wholesome thoughts, but they're definitely wholesome. Yeah.
+
+**Speaker A:** Right. The virtues, right? We don't hear a lot of discussion of them sometimes. But yeah, the virtuous actions, what this would be like, some of the moral behaviors that can be
+
+**Speaker B:** cultivated. Right. Well, I tell you what, I've got a student waiting and we've been going about an hour and a half, so why don't we finish this off now and you can let some of this sink in. And we'll continue on.
+
+**Speaker A:** Okay, thank you very much.
+
+**Speaker B:** All right, all right, we'll see you later, Alan. You've been delightful. Thank you for listening.
+
+**Speaker A:** Bye now.
+
+
+### Summary
+
+Based on this Dhamma talk, here is a summary of the key points discussed by Dhammarato and the Sangha friends:
+
+### **Core Topic: Anapanasati (Mindfulness of Breathing) & The Second Tetrad**
+The discussion focuses on the teachings of Bhikkhu Buddhadasa, specifically the **fifth and sixth trainings** of the 16-step Anapanasati practice, which deal with **Piti** (joy/rapture) and **Sukkha** (happiness/pleasure).
+
+### **Main Themes & Insights:**
+
+**1. Two Kinds of Feelings (Vedana):**
+   *   **Foolish/Ignorant Feelings:** Conditioned by past habits (samskaras) and ignorance. They lead to craving, fear, anger, and suffering. We become "slaves" to them.
+   *   **Wise Feelings:** Conditioned by present-moment understanding and mindfulness. They lead to contentment, safety, and freedom.
+   *   **Key Point:** What "contacts" us is not the raw sense object, but our **mental perception and labeling** of it (influenced by past karma). Mindfulness at this point of contact allows for wise feelings to arise.
+
+**2. The Role of Thought in Meditation:**
+   *   Dhammarato critiques an incomplete understanding in some meditation methods (e.g., Mahasi's noting practice).
+   *   He emphasizes that the goal is **not to eliminate all discursive thought**, but to transform it:
+        *   **Unwholesome Discursive Thought:** Hindrances like worry, planning, fear.
+        *   **Wholesome Discursive Thought:** Thoughts of goodwill, safety, contentment, and encouragement (e.g., "Everything is okay").
+   *   The path is to move from unwholesome to wholesome thoughts, using them to "gladden the mind" and cultivate Piti and Sukkha. This is a core factor of **First Jhana**.
+
+**3. Understanding Piti & Sukkha:**
+   *   **Piti (Joy/Rapture):** Energetic, euphoric, stimulating. Compared to the excitement of scoring a touchdown or a New Year's celebration. It can manifest as tingling, goosebumps, or energetic bodily sensations.
+   *   **Sukkha (Happiness/Contentment):** Calm, soothing, peaceful. The satisfying feeling that follows the peak of Piti.
+   *   **Relationship:** They are a paired experience. One cultivates Sukkha first, which can build into Piti, which then mellows back into Sukkha. **Sukkha is emphasized as the true opposite of Dukkha (suffering).**
+   *   **A Warning:** Meditators often mistake increasing Piti as the goal. However, Piti is coarse and agitating. The real aim is the deep contentment and freedom from suffering found in Sukkha.
+
+**4. Jhana as Progressive Relaxation:**
+   *   **First Jhana:** Characterized by **wholesome discursive thought applied and sustained** on an object (like the breath or a feeling of contentment). It is a state of mindful, positive thinking free from hindrances. **This is presented as the primary, sustainable goal for daily life.**
+   *   **Higher Jhanas:** Are natural progressions of deepening relaxation:
+        *   Second Jhana: Wholesome discursive thought fades, leaving Piti-Sukkha.
+        *   Third & Fourth Jhana: Even Piti-Sukkha and then perception are quieted into profound equanimity and stillness.
+   *   **Crucial Skill:** The emphasis is on mastering the **three skills** related to First Jhana: 1) Entering it, 2) **Sustaining it**, and 3) Leaving it skillfully (by letting thoughts space out, not by falling into hindrances). A life sustained in First Jhana is a life free from doubt, fear, and anger.
+
+**5. Practical Application & Critique of Modern Life:**
+   *   The talk contrasts the inner cultivation of wholesome joy (Piti-Sukkha) with external, sensory thrill-seeking, which leads to addiction and dissatisfaction (like the "hedonic treadmill").
+   *   The ability to "talk yourself into feeling good" through wholesome thought is presented as the practical fruit of the practice, contrasting with the compulsion to seek pleasure from unstable external sources.
+
+### **Conclusion:**
+The talk provides a nuanced, practical guide to the middle stages of Anapanasati. It shifts the focus from striving for silent, thoughtless absorption to **skillfully managing the quality of thought and feeling.** The ultimate aim is to develop a mind that can reliably generate wholesome thoughts and wise feelings, establishing a foundation of contentment (Sukkha) that is independent of external conditions. This sustainable First Jhana is framed as the key to a life free from suffering.
+
+### Metaphors and Stories
+
+Based on the transcript, the speakers use several **metaphors and stories** to explain complex Buddhist concepts related to meditation, mindfulness, and mental states. Here is a breakdown:
+
+### **Key Metaphors:**
+
+1.  **The Cowherd and the Cows (from Sutta 19):**
+    *   **What it illustrates:** Managing different types of thoughts during meditation.
+    *   **Explanation:** Discursive thoughts are like cows walking down a path. The meditator (the cowherd) must use a stick (mindfulness/noting) to "whack" the cows (thoughts) that stray off the path into unwholesome territory (hindrances, unwholesome thoughts). Once the cows are in a safe pasture (a state of wholesome thoughts), the cowherd can relax. This metaphor emphasizes the need to actively guide thoughts from unwholesome to wholesome, rather than trying to stop thought entirely.
+
+2.  **Feelings as Masters or Slaves:**
+    *   **What it illustrates:** The relationship between *Vedana* (feelings) and the practitioner.
+    *   **Explanation:** If we cannot control our feelings, we become their "slaves." Conversely, developing wisdom allows us to be the "master" of our feelings. This is a direct, incisive metaphor attributed to Bhikkhu Buddhadasa.
+
+3.  **Turning a Ship vs. Stopping It:**
+    *   **What it illustrates:** The process of shifting from unwholesome to wholesome mental states.
+    *   **Explanation:** It's very difficult to stop the "ship" of the mind (full of discursive thought) dead in the water. It's more feasible to gradually "turn it around" by changing the quality of thoughts from unwholesome to wholesome.
+
+4.  **Piti and Sukkha as a Wave:**
+    *   **What it illustrates:** The relationship between rapture (*piti*) and pleasure/joy (*sukkha*).
+    *   **Explanation:** *Piti* (euphoric, energetic rapture) is like the peak of a wave, while *sukkha* (contentment, peaceful joy) is like the trough. They are part of a continuum, with *sukkha* often building into *piti*, which then mellows back into *sukkha*.
+
+5.  **Getting a Child Ready for Bed:**
+    *   **What it illustrates:** The sequential steps of mastering the mind.
+    *   **Explanation:** You can't put a child (the mind) to bed (into a state of no-thought or second *jhana*) until you first get them into the house (a state of basic focus) and into their pajamas (a state of wholesome thought). This stresses the necessity of establishing wholesome thought before aiming for thought-free states.
+
+6.  **Riding a Bicycle:**
+    *   **What it illustrates:** The lasting skill of meditation.
+    *   **Explanation:** Once you learn to balance on a bike (or access meditative states like *piti*), you don't fully forget the skill even after a long break. You can pick it up again relatively quickly.
+
+### **Key Stories and Analogies:**
+
+1.  **The Football Game / New Year's Eve in Times Square:**
+    *   **Purpose:** To demystify *piti* and *sukkha* by relating them to common human experiences.
+    *   **Explanation:** The explosive celebration after a touchdown (or at midnight on New Year's) is a clear example of *piti*—energetic, euphoric joy. The calm, smiling, and satisfied feeling that follows a minute later is *sukkha*. The story highlights that these states are generated internally, not by the external event, and can be cultivated intentionally in meditation.
+
+2.  **The Child Who Forgot Homework:**
+    *   **Purpose:** To show how unwholesome discursive thought creates suffering.
+    *   **Explanation:** A child who forgets homework on the bus and spirals into anxious, panicked thoughts ("Oh no, what will happen?") is building "bad feelings" through unwholesome narrative. A wise response would be a wholesome thought ("I can't fix it now, let me enjoy the ride"), which would prevent suffering. This contrasts ignorant vs. wise feeling.
+
+3.  **Camping and Hearing a Strange Sound:**
+    *   **Purpose:** To illustrate the difference between ignorant and wise feeling at a moment of sensory contact.
+    *   **Explanation:** Waking up to a strange sound in the wilderness, an ignorant reaction is to "freak out" and imagine dangers (ghosts, wolves). A wise reaction is to "wake up," listen closely, and investigate with curiosity rather than fear. This shows how perception (*sañña*) and past conditioning influence feeling (*vedana*).
+
+4.  **The Formula One Racer / Hunting the Boar:**
+    *   **Purpose:** To describe a natural, non-meditative state analogous to second *jhana*.
+    *   **Explanation:** A racer fully focused on the road without discursive thought, or a hunter completely absorbed in chasing prey, experiences a flow state free of internal narrative and full of energetic focus (a form of *piti*). This helps explain second *jhana* but distinguishes it from the developed, serene *jhana* of Buddhist practice.
+
+5.  **The Professor's Model Train Set / The Network of Hard Drives:**
+    *   **Purpose:** To illustrate the addictive and ultimately unsatisfactory nature of worldly pleasure and compulsion.
+    *   **Explanation:** A hobby (like building trains) or a project (like maintaining a computer network) that was once a source of pleasure can become a burden—breaking down, requiring maintenance, and destined to be discarded. This story points to the *dukkha* (unsatisfactoriness) in conditioned things and the need for wholesome, non-attached engagement.
+
+### **Summary of Core Themes via Metaphor:**
+The talk uses these metaphors and stories to contrast:
+*   **Unwholesome vs. Wholesome Thought:** (Cowherd, Ship, Child going to bed).
+*   **Ignorant vs. Wise Feeling:** (Slave/Master, Child with homework, Camper hearing a sound).
+*   **The Nature of *Piti* and *Sukkha*:** (Wave, Football game).
+*   **The Practical Goal of First *Jhana*:** (Learning to ride a bike, maintaining wholesome thought as a skill for life).
+*   **The Trap of Worldly Pleasure:** (The decaying train set, the addictive thrill).
+
+These devices make abstract meditation concepts relatable and provide practical models for understanding mental training.
+
+### Connect with Dhammarato and Sangha Friends
+
+☸️ **Dhamma Friends Discord** — [Join our Discord](https://discord.com/invite/kmQUUJysZJ)
+Join our Sangha on Discord and please send a friend request to Dhammarato
+
+🌐 **Open Sangha Foundation** — [opensanghafoundation.org](https://opensanghafoundation.org/)
+Connect with friends, teachers, and explore places to visit and stay
+
+▶️ **Youtube** — [Dhammarato Dhamma - YouTube](https://www.youtube.com/@DhammaratoDhamma)
+Videos of Sanghas and One-on-One Calls
+
+🎧 **Podcast** — [Podbean](https://dhammaratodhamma.podbean.com/)
+Find our content on Spotify, Apple Podcasts, and more by visiting Podbean
+
+📧 **E-mail Dhammarato** — dhammarato16@gmail.com
+Please put name, age, location and practice info when sending an e-mail

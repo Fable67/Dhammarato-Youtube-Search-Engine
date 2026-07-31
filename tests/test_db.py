@@ -36,6 +36,29 @@ def test_insert_video_upsert_updates_fields(db):
     assert fetched.title == "New"
 
 
+def test_get_video_by_blog_url_finds_video_regardless_of_video_id_scheme(db):
+    """
+    Regression coverage for the core reason get_video_by_blog_url() exists:
+    video_id is not a consistent scheme across the corpus's history (see
+    the method's own docstring) -- an arbitrary legacy integer id must
+    still be found by blog_url lookup, exactly like a newer slug-style id.
+    """
+    db.insert_video(VideoMetadata(video_id="1847", title="Legacy-era Talk", blog_url="https://dhammarato.com/blog/2019-08-30-itip-i-so-chant"))
+    db.insert_video(VideoMetadata(video_id="2026-07-26-first-jhana", title="New-era Talk", blog_url="https://dhammarato.com/blog/2026-07-26-first-jhana"))
+
+    legacy = db.get_video_by_blog_url("https://dhammarato.com/blog/2019-08-30-itip-i-so-chant")
+    assert legacy is not None
+    assert legacy.video_id == "1847"
+
+    newer = db.get_video_by_blog_url("https://dhammarato.com/blog/2026-07-26-first-jhana")
+    assert newer is not None
+    assert newer.video_id == "2026-07-26-first-jhana"
+
+
+def test_get_video_by_blog_url_returns_none_when_not_found(db):
+    assert db.get_video_by_blog_url("https://dhammarato.com/blog/does-not-exist") is None
+
+
 def test_insert_and_batch_fetch_chunks_preserves_order(db):
     db.insert_video(VideoMetadata(video_id="v1", title="Talk 1", blog_url="https://x.com/1"))
     chunks = [
