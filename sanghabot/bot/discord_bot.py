@@ -28,7 +28,7 @@ import discord
 
 from config import settings
 from sanghabot.embeddings.client import embed_query
-from sanghabot.embeddings.legacy_compat import LEGACY_RUN_MARKER, legacy_embed_query
+from sanghabot.embeddings.legacy_compat import LEGACY_TARGET_DIM, legacy_embed_query
 from sanghabot.engine import CombinedSearchEngine
 from sanghabot.highlight import HIGHLIGHT_STOPWORDS, build_highlight_terms, highlight_text, should_highlight
 from sanghabot.models import TermSuggestion
@@ -61,15 +61,30 @@ def build_engine() -> CombinedSearchEngine:
     # pipeline it was built from, or scores are meaningless (see
     # sanghabot/embeddings/legacy_compat.py). Until REWRITE_PLAN.md Section
     # 11's full re-embed happens and a new run is promoted to active, the
-    # active run is the migrated legacy one (query expansion + 1024-dim
-    # native embed + average-pool to 512) -- so we must use that exact
-    # pipeline here, not a plain native embed_query() call. This check
-    # makes the correct choice automatic once a new run IS promoted,
-    # instead of silently embedding queries in the wrong vector space.
+    # active run's vectors are (partly or wholly) products of the legacy
+    # pipeline (query expansion + 1024-dim native embed + average-pool to
+    # 512) -- so we must use that exact query-embedding pipeline, not a
+    # plain native embed_query() call, whenever the active run's stored
+    # DIMENSION is the legacy 512 target dimension.
+    #
+    # Gated on dimension (LEGACY_TARGET_DIM), not an exact run_id string
+    # match: run_ids are expected to keep evolving as new content is
+    # appended on top of the legacy vector space (e.g.
+    # "qwen3-4b-512-legacy-plus-<date>", produced by
+    # scripts/ingest_new_blogs.py splicing newly-embedded chunks -- via
+    # the SAME legacy averaging pipeline, for vector-space compatibility --
+    # onto the original legacy embeddings.npy) well before REWRITE_PLAN.md
+    # Section 11's full native re-embed happens. Any run whose dimension is
+    # NOT the legacy 512 is, by construction, a clean native run and uses
+    # the standard client.
     active_run = database.get_active_embedding_run()
-    if active_run is not None and active_run["run_id"] == LEGACY_RUN_MARKER:
+    if active_run is not None and active_run["dimension"] == LEGACY_TARGET_DIM:
         embed_fn = legacy_embed_query
-        logger.info("Active embedding run is the migrated legacy run -- using legacy query-embedding pipeline.")
+        logger.info(
+            "Active embedding run '%s' is %d-dim (legacy target dimension) -- "
+            "using legacy query-embedding pipeline.",
+            active_run["run_id"], active_run["dimension"],
+        )
     else:
         embed_fn = lambda q: embed_query(q, dimension=settings.embedding_dim)  # noqa: E731
         logger.info("Active embedding run is native -- using standard query-embedding client.")
