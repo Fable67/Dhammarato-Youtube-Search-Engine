@@ -49,10 +49,9 @@ def test_should_highlight_false_for_long_non_question_query():
 
 def test_should_highlight_matches_intent_routing_exactly():
     """
-    should_highlight() must be the exact logical inverse of
-    analyze_query_intent()'s semantic-heavy routing condition
-    (is_question or len(raw_words) >= 5), for a range of representative
-    queries -- this is the core invariant the whole feature depends on.
+    should_highlight() must mirror analyze_query_intent()'s own routing
+    priority order (intent.py:168-181): exact_phrases wins outright first;
+    only otherwise does is_question/len(raw_words) >= 5 apply.
     """
     queries = [
         "dukkha",
@@ -67,8 +66,39 @@ def test_should_highlight_matches_intent_routing_exactly():
     for q in queries:
         intent = analyze_query_intent(q)
         raw_words = q.replace('"', " ").split()
-        expected = not (intent.is_question or len(raw_words) >= 5)
+        if intent.exact_phrases:
+            expected = True
+        else:
+            expected = not (intent.is_question or len(raw_words) >= 5)
         assert should_highlight(intent, q) == expected, q
+
+
+def test_should_highlight_true_for_quoted_phrase_inside_a_question():
+    """
+    Regression test for the reported bug: a quoted single-word keyword
+    embedded in a natural-language question must still be highlighted,
+    even though the query is a question and has >= 5 raw words.
+    """
+    query = "What is the difference between 'sukha' and 'piti'"
+    intent = analyze_query_intent(query)
+    assert intent.exact_phrases == ["sukha", "piti"]
+    assert intent.is_question is True
+    assert should_highlight(intent, query) is True
+
+
+def test_should_highlight_true_for_quoted_phrase_in_long_non_question_query():
+    query = "please explain 'sukha' and 'piti' further clearly now"
+    intent = analyze_query_intent(query)
+    assert intent.exact_phrases == ["sukha", "piti"]
+    assert should_highlight(intent, query) is True
+
+
+def test_should_highlight_true_for_double_quoted_phrase_inside_a_question():
+    query = '"right effort" and how it fits into the eightfold path in daily life'
+    intent = analyze_query_intent(query)
+    assert intent.exact_phrases == ["right effort"]
+    assert intent.is_question is True
+    assert should_highlight(intent, query) is True
 
 
 def test_build_highlight_terms_combines_exact_phrases_and_meaningful_words():

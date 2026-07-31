@@ -4,13 +4,17 @@ transcript text posted to Discord, so someone scanning a long passage can
 immediately spot why a given chunk matched their search.
 
 Design (see chat history / investigation for full rationale):
-  - Only applied for keyword-style queries (exact phrases, or short,
-    non-question queries under 5 words) -- exactly the inverse of
-    analyze_query_intent()'s own semantic-heavy routing condition
-    (sanghabot/search/intent.py:81). Long/question queries are answered by
-    semantic search, which matches on meaning rather than literal words, so
-    bolding a handful of incidental word overlaps there would be noisy and
-    potentially misleading rather than helpful. See should_highlight().
+  - Applied whenever the query has explicit keywords to highlight: either
+    quoted exact phrase(s) (regardless of question-ness or length -- a
+    quoted phrase is always an explicit, literal keyword the user asked
+    for), or a short, non-question query under 5 words. This mirrors
+    analyze_query_intent()'s own routing priority order
+    (sanghabot/search/intent.py:168-181), where `exact_phrases` is checked
+    FIRST and wins outright, before the is_question/length check is even
+    considered. Long/question queries with NO quoted phrases are answered
+    by semantic search, which matches on meaning rather than literal words,
+    so bolding a handful of incidental word overlaps there would be noisy
+    and potentially misleading rather than helpful. See should_highlight().
   - Terms highlighted are exactly analyze_query_intent()'s own
     exact_phrases + meaningful_words -- i.e. the same terms the routing
     logic already decided were "the keywords," not a separately invented
@@ -37,21 +41,28 @@ import re
 from sanghabot.models import QueryIntent
 
 # Matches analyze_query_intent()'s own semantic-heavy routing condition
-# (sanghabot/search/intent.py:81: `elif is_question or len(raw_words) >= 5`)
-# so "should we highlight" is always the exact logical inverse of "is this
-# routed as a long/question, semantic-heavy search" -- never a separately
-# invented threshold that could quietly drift out of sync with routing.
+# (sanghabot/search/intent.py:177: `elif is_question or len(raw_words) >= 5`)
+# -- but, like that function, this is only reached/consulted when there are
+# no exact_phrases; see should_highlight() below.
 _LONG_QUERY_WORD_COUNT = 5
 
 
 def should_highlight(intent: QueryIntent, query: str) -> bool:
     """
-    True for keyword-style queries (exact phrases, or short non-question
-    queries under 5 raw words) -- exactly the queries analyze_query_intent()
-    does NOT route as semantic-heavy. False for questions and long/natural-
-    language queries, where literal word-overlap highlighting would be
-    noisy rather than helpful (see module docstring).
+    True whenever there are explicit keywords to highlight: quoted exact
+    phrase(s) (always -- regardless of question-ness or query length, since
+    a quoted term is an explicit, literal keyword the user asked for), or a
+    short, non-question query under 5 raw words. False for questions/long
+    queries with NO quoted phrases, where literal word-overlap highlighting
+    would be noisy rather than helpful (see module docstring).
+
+    Mirrors analyze_query_intent()'s own priority order (intent.py:168-181):
+    `exact_phrases` is checked first and wins outright; the is_question/
+    length check is only consulted as a fallback when there are no exact
+    phrases.
     """
+    if intent.exact_phrases:
+        return True
     raw_words = query.replace('"', " ").replace("'", " ").split()
     return not (intent.is_question or len(raw_words) >= _LONG_QUERY_WORD_COUNT)
 
