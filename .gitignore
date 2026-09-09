@@ -1,4 +1,5 @@
 data/index/
+data/index_backup*
 .env
 *.log
 .DS_Store
