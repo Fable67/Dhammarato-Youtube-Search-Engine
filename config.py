@@ -70,6 +70,13 @@ class Settings(BaseSettings):
     search_final_k: int = 3
     rrf_k_penalty: int = 60
 
+    # --- RAG (retrieval-augmented generation) -------------------------
+    rag_model: str = "mistralai/mistral-small-3.2-24b-instruct"
+    rag_temperature: float = 0.1
+    rag_top_p: float = 0.95
+    rag_top_k_results: int = 5
+    rag_max_tokens: int = 1500
+
     # --- Misc -------------------------------------------------------------
     log_level: str = "INFO"
 
